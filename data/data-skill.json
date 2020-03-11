@@ -2,11 +2,11 @@
   "NightChickM_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "미사일 공격",
+    "name": "Missile Attack",
     "img": "Missile",
     "range": 2,
     "AP": 4,
-    "description": "미사일을 발사해 $(1) 피해를 줍니다. 대상이 이동 불가 상태면 직격해 피해량이 증가합니다.",
+    "description": "Deals $(1) damage to a single target. <br>Additional DMG+ to targets affected by 'Rooted'.",
     "areadata": [
       5
     ]
@@ -14,11 +14,11 @@
   "NightChickM_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "미사일 집중 공격",
+    "name": "Missile Intensive Attack",
     "img": "Missile",
     "range": 1,
     "AP": 6,
-    "description": "미사일 근접 사격으로 $(1.2) 피해를 줍니다. 대상이 이동 불가 상태면 직격해 피해량이 증가합니다.",
+    "description": "Deals $(1.2) damage to a single target. <br>Additional DMG+ to targets affected by 'Rooted'.",
     "areadata": [
       5
     ]
@@ -26,11 +26,11 @@
   "NightChickM_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "목표 록온",
+    "name": "Target Lock-On",
     "img": "Snipe",
     "range": 0,
     "AP": 0,
-    "description": "대기 시, 주변의 적을 록온해 2라운드 동안 사거리가 증가합니다.",
+    "description": "When idles, increases self Range for 2 rounds.",
     "areadata": [
       5
     ]
@@ -38,11 +38,11 @@
   "NightChick_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "머신건 견제 사격",
+    "name": "Machine Gun Distracting Shot",
     "img": "ARShot",
     "range": 3,
     "AP": 4,
-    "description": "머신건 견제 사격으로 $(1) 피해를 줍니다. 일정 확률로 2라운드 동안 대상의 회피를 낮츱니다.",
+    "description": "Deals $(1) damage to a single target with a chance to inflict EVA- for 2 rounds.",
     "areadata": [
       5
     ]
@@ -50,11 +50,11 @@
   "NightChick_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "머신건 연사",
+    "name": "Machine Gun Continuous Fire",
     "img": "ARShot",
     "range": 2,
     "AP": 6,
-    "description": "머신건을 조준 사격해 $(1.2) 피해를 줍니다. 대상이 회피 감소 상태인 경우, 피해량이 증가합니다.",
+    "description": "Deals $(1.2) damage to a single target. <br>Additional DMG+ to targets affected by EVA-.",
     "areadata": [
       5
     ]
@@ -62,11 +62,11 @@
   "NightChick_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "정조준",
+    "name": "Aiming",
     "img": "Snipe",
     "range": 0,
     "AP": 0,
-    "description": "대기 시, 적을 조준해 2라운드 동안 적중과 사거리가 증가합니다.",
+    "description": "When idles, increases self ACC / Range.",
     "areadata": [
       5
     ]
@@ -74,11 +74,11 @@
   "NightChickS_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "방패 내려치기",
+    "name": "Shield Charge",
     "img": "MeleeAttack",
     "range": 2,
     "AP": 4,
-    "description": "방패로 내리쳐 $(1) 피해를 줍니다.",
+    "description": "Deals $(1) damage to a single target.",
     "areadata": [
       5
     ]
@@ -86,11 +86,11 @@
   "NightChickS_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "칙 방패 방어술",
+    "name": "Chick Shield Fortification",
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 3,
-    "description": "방패를 올려 3라운드 동안 받는 피해가 감소합니다.",
+    "description": "Increases self DR+ for 3 rounds.",
     "areadata": [
       5
     ]
@@ -98,11 +98,11 @@
   "NightChickS_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "칙 커버링",
+    "name": "Chick Covering",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 칙 방패 방어술이 적용된 상태면 바로 뒤에 있는 아군 1기를 보호합니다.",
+    "description": "At the start of the round while affected by 'Chick Shield Fortification', Target Protect ally immediately behind.",
     "areadata": [
       6
     ]
