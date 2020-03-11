@@ -1,0 +1,302 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+	padding: 5px;
+    border: 0px solid black;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    max-width: 540px;
+}
+
+.container {
+    max-width: 540px;
+    background-color: #fdfdfd;
+}
+
+.info-container {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+}
+
+.image {
+	grid-area: 1 / 4 / 2 / 10;
+}
+
+.type {
+	grid-area: 2 / 1 / 3 / 13;
+	padding-left: 6.67%;
+	word-break: keep-all;
+}
+
+.name {
+	grid-area: 3 / 1 / 4 / 10;
+	padding-left: 8%;
+	word-break: keep-all;
+}
+
+.LVL {
+	grid-area: 3 / 10 / 4 / 13;
+	text-align: right;
+	padding-right: 25%;
+}
+
+.spec-wrap {
+	grid-area: 4 / 1 / 5 / 13;
+	padding: 0;
+	display: grid;
+	grid-template-columns: minmax(min-content, 1fr) 1fr minmax(min-content, 1fr) 1fr;
+	word-break: keep-all;
+	white-space:nowrap;
+}
+
+.spec-item {
+	text-align: center;
+}
+
+.spec-item-header {
+	text-align: left;
+}
+
+.spec-item-header div {
+	display: inline-block;
+	width: 100%;
+	padding: 0;
+	text-align: center;
+}
+
+.spec-item-header img {
+	height: 1.2em;
+	vertical-align: sub;
+}
+
+#ATK {
+	
+}
+
+#CRT {
+	
+}
+
+#DEF {
+	
+}
+
+#HIT {
+	
+}
+
+#AGI {
+	
+}
+
+#DOD {
+	
+}
+
+.skill-container {
+	display: none;
+}
+
+.skill-container-active {
+	padding: 0 7%;
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	border-radius: 5vw;
+	background-color: rgb(220,220,220);
+}
+
+.skill-header {
+	grid-area: 1 / 1 / 2 / 13;
+}
+
+.skill-nav-wrap {
+	grid-area: 2 / 1 / 3 / 13;
+	padding: 0;
+	border-bottom: 5px solid orange;
+	
+}
+
+.skill-nav {
+	text-align: left;
+}
+
+.skill-nav a {
+	display: inline-block;
+	box-sizing: content-box;
+	margin: 0 1% 0 0;
+    width: 12.5%;
+    height: 0;
+    padding: 0.5% 0.5% 13% 0.5%;
+    vertical-align: middle;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 5% 5% 0 0;
+}
+
+.skill-nav a::after {
+    height: 100%;
+}
+
+.skill-nav .btn-info {
+	float: right;
+}
+
+.skill-nav .skill-active {
+    border-color: orange;
+}
+
+.skill-nav .active.skill-active {
+    background-color: orange;
+}
+
+.skill-nav .skill-passive {
+    border-color: skyblue;
+}
+
+.skill-nav .active.skill-passive {
+    background-color: skyblue;
+}
+
+.skill-icon {
+	width: 100%;
+}
+
+.skill-name {
+	grid-area: 3 / 1 / 4 / 10;
+}
+.icon-attr {
+	width: 1em;
+	display: inline;
+	vertical-align:middle;
+	margin-right: 0.2em;
+}
+
+.skill-name h5 {
+	display: inline;
+}
+	
+.skill-range {
+	grid-area: 3 / 10 / 4 / 13;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	white-space: nowrap;
+	font-size: 0.9em;
+	margin-left: -100%;
+	margin-right: -100%;
+}
+
+.skill-area {
+	grid-area: 4 / 10 / 5 / 13;
+}
+
+.skill-area table {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.skill-area td {
+	box-sizing: content-box;
+    background: rgb(45, 45, 45);
+    width: 33%;
+    height: 0;
+    border-radius: 5%;
+}
+
+.skill-area td::after {
+	content: ' ';
+	display: block;
+	margin-top: 100%;
+}
+
+.skill-description {
+	grid-area: 4 / 1 / 5 / 10;
+}
+
+
+@media (min-width: 540px) {
+	.image {
+		grid-area: 1 / 1 / 4 / 5;
+	}
+	
+	.type {
+		grid-area: 1 / 5 / 2 / 13;
+		padding-left: 5%;
+	}
+	
+	.name {
+		grid-area: 2 / 5 / 3 / 10;
+	}
+	
+	.LVL {
+		grid-area: 2 / 10 / 3 / 13;
+	}
+	
+	.spec-wrap {
+		grid-area: 3 / 5 / 4 / 13;
+		padding: 0;
+		display: grid;
+		grid-template-columns: minmax(min-content, 1fr) 2fr minmax(min-content, 1fr) 2fr;
+	}
+	
+	.skill-container-active {
+		padding: 10px;
+		border-radius: 10px;
+	}
+	
+	.skill-nav-wrap {
+		display: grid;
+		grid-template-columns: repeat(12, 1fr);
+	}
+	
+	.skill-nav {
+		grid-area: 1 / 1 / 2 / 13;
+	}
+	
+	.skill-nav a {
+	width: 8.33%;
+	padding: 0.5% 0.5% 8.83% 0.5%;
+	border-radius: 5% 5% 0 0;
+	}
+	
+	.skill-name {
+		grid-area: 3 / 1 / 4 / 8;
+	}
+	
+	.skill-range {
+		grid-area: 3 / 8 / 4 / 11;
+		padding-left: 30%;
+	}
+	
+	.skill-area {
+		grid-area: 3 / 11 / 4 / 13;
+	}
+	
+	.skill-description {
+		grid-area: 4 / 1 / 5 / 13;
+	}
+}
+
+
+
+
+
+
+

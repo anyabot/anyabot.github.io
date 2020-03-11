@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>철충 정보 입력기</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/dataedit.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/mapdataedit.js"></script>
+    <style>
+    	table, th, td {
+    		border: 1px solid #bcbcbc;
+    	}
+    </style>
+    
+    
+</head>
+
+<body>
+	<div class="container">
+		<header>
+			<h2 id="title">라스트 오리진 철충 지도 데이터 편집기 v0.2</h2>
+			<p>본 페이지는 철충 지도의 제작 보조용으로만 사용되고 있습니다. 편집기에 대한 요청이나 제보는 받지 않습니다.</p>
+		</header>
+		<section>
+			<hr>
+			<form id="form-area">
+				<label for="input-area">지역: </label>
+				<input type="text" autocomplete="off" id="input-area"><br >
+				<input type="submit" value="지역 입력">
+			</form>
+			<hr>
+			<form id="form-stage">
+				<label id="label-stage" for="input-stage">스테이지: </label>
+				<input type="number" autocomplete="off" id="input-stage"><br>
+				<input type="radio" id="Main" name="stage-type" value="Main" checked="checked"><label for="Main">Main</label>
+				<input type="radio" id="B" name="stage-type" value="B"><label for="B">B</label>
+				<input type="radio" id="Ex" name="stage-type" value="Ex"><label for="Ex">Ex</label><br >
+				<label id="label-stagename" for="input-stagename">이름: </label>
+				<input type="text" autocomplete="off" id="input-stagename"><br>
+				<label id="label-prevstage" for="input-prevstage">이전 스테이지: </label>
+				<input type="number" autocomplete="off" id="input-prevstage"><br>
+				<input type="radio" id="prevMain" name="prevstage-type" value="Main" checked="checked"><label for="prevMain">Main</label>
+				<input type="radio" id="prevB" name="prevstage-type" value="B"><label for="prevB">B</label>
+				<input type="radio" id="prevEx" name="prevstage-type" value="Ex"><label for="prevEx">Ex</label><br >
+				<input type="submit" value="스테이지 입력">
+			</form>
+			<hr>
+			<form id="form-wave">
+				<div class="current-stage">현재 스테이지: </div>
+				<label for="input-wave">웨이브:</label>
+				<input type="number" list="wave-list" autocomplete="off" id="input-wave"><br >
+				<datalist id="wave-list"></datalist>
+				<input type="submit" value="웨이브 입력"><br >
+			</form>
+			<hr>
+			<form id="form-enemy">
+				<div class="current-stage">현재 스테이지: </div>
+				<div class="current-wave">현재 웨이브: </div>
+				<div class="current-wave-map">
+					<div></div><div></div><div></div>
+					<div></div><div></div><div></div>
+					<div></div><div></div><div></div>
+				</div>
+				<label for="input-name">철충 이름:</label>
+				<input type="text" id="input-name" list="name-list" autocomplete="off"><br >
+				<label for="input-nickname">표시할 이름:</label>
+				<input type="text" id="input-nickname" autocomplete="off"><br >
+				<datalist id="name-list"><br >
+					<!--option value="나이트 칙"></option>
+					<option value="나이트 칙 런처"></option>
+					<option value="나이트 칙 실더"></option-->
+				</datalist>
+				<label for="input-pos">위치: </label>
+				<table style="">
+					<tbody>
+						<tr>
+							<td>
+								<input type="checkbox" id="pos7" value="7" name="input-pos"><label for="pos7">7</label>
+							</td>
+							<td>
+								<input type="checkbox" id="pos8" value="8" name="input-pos"><label for="pos8">8</label>
+							</td>
+							<td>
+								<input type="checkbox" id="pos9" value="9" name="input-pos"><label for="pos9">9</label>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="checkbox" id="pos4" value="4" name="input-pos"><label for="pos4">4</label>
+							</td>
+							<td>
+								<input type="checkbox" id="pos5" value="5" name="input-pos"><label for="pos5">5</label>
+							</td>
+							<td>
+								<input type="checkbox" id="pos6" value="6" name="input-pos"><label for="pos6">6</label>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="checkbox" id="pos1" value="1" name="input-pos"><label for="pos1">1</label>
+							</td>
+							<td>
+								<input type="checkbox" id="pos2" value="2" name="input-pos"><label for="pos2">2</label>
+							</td>
+							<td>
+								<input type="checkbox" id="pos3" value="3" name="input-pos"><label for="pos3">3</label>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<button type="button" id="delete">삭제</button><br>
+				<label for="input-LVL">레벨: </label><input type="number" autocomplete="off" id="input-LVL"><br >
+				<button type="button" id="auto-fill">자동 완성</button><br>
+				<label for="input-HP">HP: </label><input type="number" autocomplete="off" id="input-HP"><br >
+				<label for="input-ATK">공격력: </label><input type="number" autocomplete="off" id="input-ATK" ><br >
+				<label for="input-CRT">치명타: </label><input type="number" autocomplete="off" step="0.01" id="input-CRT" value="-1"><br >
+				<label for="input-DEF">방어력: </label><input type="number" autocomplete="off" id="input-DEF"><br >
+				<label for="input-HIT">적중률: </label><input type="number" autocomplete="off" id="input-HIT"><br >
+				<label for="input-AGI">행동력: </label><input type="number" autocomplete="off" step="0.001" id="input-AGI"><br >
+				<label for="input-DOD">회피율: </label><input type="number" autocomplete="off" step="0.01" id="input-DOD"><br >
+				<label for="input-skill">스킬: </label><input type="text" autocomplete="off" id="input-skill"><br >
+				<label for="input-resist">속성 저항: </label><input type="text" autocomplete="off" id="input-resist"><br >
+				<input type="submit" value="철충 입력"><br >
+			</form>
+			<hr>
+			<button type="button" id="download">다운로드</button>
+			<hr>
+			<form id="form-result">
+				<textarea style="width:100%; height:50em;" id="input-result"></textarea>
+				<div id="error-message"></div>
+				<input type="submit" value="데이터 변경">
+			</form>
+		</section>
+		<a id="download-dummy" style="display:none"></a>
+	</div>
+</body>
+
+</html>
