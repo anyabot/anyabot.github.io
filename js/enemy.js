@@ -43,7 +43,7 @@ function drawEnemyPageNew(data, lvl, skilldata)
 	var ATK = calcLvlValue(data.ATK, lvl);
 	var DEF = calcLvlValue(data.DEF, lvl);
 
-	document.title = enemyName + ' 정보';
+	document.title = enemyName + ' Info';
 	$('#name').append(enemyName);
 	$('.image').append("<img src=\"images/profile/" + data.img + ".png\" style=\"width: 100%\" />");
 	writeData('LVL', lvl);
@@ -107,7 +107,7 @@ function drawEnemyPage(stat, desc, updated = true)
 	{
 		var enemyName = stat.name;
 	}
-	document.title = enemyName + ' 정보';
+	document.title = enemyName + ' Info';
 	$('#name').append(enemyName);
 	$('.image').append("<img src=\"images/profile/" + desc.img + ".png\" style=\"width: 100%\" />");
 	writeData('LVL', stat.LVL);
