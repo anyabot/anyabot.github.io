@@ -5701,7 +5701,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "Increases Roc's in proportion to the number of 'Charge Charing' stacks and grants Roc 'Counterattack' on evasion.<br>When attacking an enemy with less than 25% of their HP, further increases EVA.<br>When Roc is hit with an Ice Attack, removes EVA buffs.",
+    "description": "Increases Roc's EVA in proportion to the number of 'Charge Charing' stacks and grants Roc 'Counterattack' on evasion.<br>When attacking an enemy with less than 25% of their HP, further increases EVA.<br>When Roc is hit with an Ice Attack, removes EVA buffs.",
     "areadata": [
       5
     ]
