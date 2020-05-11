@@ -1,6 +1,6 @@
 //파일명 설정
-//var setting = '.min';
-var setting = '';
+var setting = '.min';
+//var setting = '';
 
 //공통 데이터 로드 함수
 function loadData(src)
@@ -69,6 +69,21 @@ function loadStageData(stageTitle)
 				return acc;
 			}, []);
 			resolve({ "stageData": stageData, "stageList": stageList });
+		});
+
+	});
+}
+
+//웨이브 데이터 로드 함수
+function loadgroupData(stageTitle)
+{
+	return new Promise(resolve =>
+	{
+		//src를 지역 데이터 파일로 설정해 로드
+		var src = "./data/data-group" + getAreaByStageTitle(stageTitle) + setting + ".json";
+		loadData(src).then((groupData) =>
+		{
+			resolve(groupData.wavegroup);
 		});
 
 	});
