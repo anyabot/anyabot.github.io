@@ -4144,7 +4144,7 @@
   },
   "NightChick_RV": {
     "name": "Night Chick Type-S",
-    "img": "NightChick",
+    "img": "NightChick_RV",
     "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
@@ -16223,7 +16223,7 @@
   "FABigChickS_tmp_1": {
     "name": "Full-Armored Big Chick Shielder",
     "img": "FABigChickS",
-    "type": "Light Defender",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 1500,
@@ -16390,7 +16390,7 @@
   "FABigChickS_tmp_2": {
     "name": "Full-Armored Big Chick Shielder",
     "img": "FABigChickS",
-    "type": "Light Defender",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 6000,
