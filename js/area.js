@@ -7,8 +7,8 @@ window.onload = async function ()
 	{
 		areaName = areaData.title;
 	}
-	document.title = areaName.length == 1 ? areaName + '구역' : areaName;
-	$("#area_title").html((areaName.length == 1 ? areaName + '구역 ' : areaName) + '철충 지도');
+	document.title = areaName.length == 1 ? areaName + 'Zone' : areaName;
+	$("#area_title").html((areaName.length == 1 ? areaName + 'Zone ' : areaName) + 'Iron Parasite Map');
 
 	drawArea(await areaData);
 	drawCanvas(await areaData);

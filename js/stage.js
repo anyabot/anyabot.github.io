@@ -43,7 +43,7 @@ async function drawPageNew(stageLoadData, enemyDataList)
 	}
 
 	//문서 제목
-	document.title = stageName + ' 스테이지 정보';
+	document.title = stageName + ' Stage Information';
 	//뒤로가기 버튼, 상단 제목
 	if (stageData.title.includes("Daily"))
 	{
@@ -53,7 +53,7 @@ async function drawPageNew(stageLoadData, enemyDataList)
 	else
 	{
 		$("a.btn-back").attr("href", "area.html?areanum=" + getAreaByStageTitle(stageData.title));
-		$('#stage-title').html(stageName + ' 스테이지');
+		$('#stage-title').html(stageName + ' Stage');
 	}
 
 	//스테이지 화살표 설정
