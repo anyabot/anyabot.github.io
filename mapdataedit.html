@@ -26,9 +26,12 @@
 		</header>
 		<section>
 			<hr>
+			<button type="button" id="reload-data">Reload</button><br >
 			<form id="form-area">
-				<label for="input-area">지역: </label>
-				<input type="text" autocomplete="off" id="input-area"><br >
+				<label for="input-areaindex">지역 인덱스: </label>
+				<input type="text" autocomplete="off" id="input-areaindex"><br >
+				<label for="input-areatitle">지역 이름: </label>
+				<input type="text" autocomplete="off" id="input-areatitle"><br >
 				<input type="submit" value="지역 입력">
 			</form>
 			<hr>
@@ -60,9 +63,9 @@
 				<div class="current-stage">현재 스테이지: </div>
 				<div class="current-wave">현재 웨이브: </div>
 				<div class="current-wave-map">
-					<div></div><div></div><div></div>
-					<div></div><div></div><div></div>
-					<div></div><div></div><div></div>
+					<div class="cell cell1"></div><div class="cell cell2"></div><div class="cell cell3"></div>
+					<div class="cell cell4"></div><div class="cell cell5"></div><div class="cell cell6"></div>
+					<div class="cell cell7"></div><div class="cell cell8"></div><div class="cell cell9"></div>
 				</div>
 				<label for="input-name">철충 이름:</label>
 				<input type="text" id="input-name" list="name-list" autocomplete="off"><br >
