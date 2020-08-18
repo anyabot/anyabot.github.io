@@ -9835,7 +9835,6 @@
       6
     ]
 	},
-	 },
   "SeljuqA_Ev72_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
@@ -9847,6 +9846,7 @@
     "areadata": [
       5
     ]
+	},
   "MrAlfred2_Ev73_1_Skill1": {
     "title": "askill1",
     "type": "active",
