@@ -9943,7 +9943,7 @@
     "img": "SelfAtkBuff",
     "range": "0",
     "AP": "0",
-    "description": "When hit, temporairly changes 'Prey' target and, if there is no other Tyrant when the round begins, enter into "Prey Monipolization" mode. Focus attacks on the 'Prey' and when Tyrant is attacked, removes 'Provoked' debuff applied to self.<br>Prey (Heavy) : 100%~60% HP, When hit with Fire Damage<br>Prey (Light): 60%~30% HP, When hit with Ice Damage<br>Prey (Flying): 30%~0% HP, When hit with Electric Damage<br>Prey Monopolization: ATK+ / ACC +. Effects are removed if Tyrant is hit 3 times.",
+    "description": "When hit, temporairly changes 'Prey' target and, if there is no other Tyrant when the round begins, enter into 'Prey Monipolization' mode. Focus attacks on the 'Prey' and when Tyrant is attacked, removes 'Provoked' debuff applied to self.<br>Prey (Heavy) : 100%~60% HP, When hit with Fire Damage<br>Prey (Light): 60%~30% HP, When hit with Ice Damage<br>Prey (Flying): 30%~0% HP, When hit with Electric Damage<br>Prey Monopolization: ATK+ / ACC +. Effects are removed if Tyrant is hit 3 times.",
     "areadata": [
       5
     ]
