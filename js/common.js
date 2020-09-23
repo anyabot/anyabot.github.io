@@ -51,13 +51,32 @@ function loadStageData(stageTitle)
 		var src = "./data/data-area" + getAreaByStageTitle(stageTitle) + setting + ".json";
 		loadData(src).then((areaData) =>
 		{
-			var stageData = areaData.stage.find(sData => sData.title == stageTitle);
-			var type = getTypeByStageTitle(stageTitle)
-			var stageList = areaData.stage.reduce((acc, sData) =>
-			{
-				if (getTypeByStageTitle(sData.title) == type) acc.push(getIndexByStageTitle(sData.title))
-				return acc;
+			var stageList = [null,null];
+			var gridList = areaData.stage.reduce((acc, sData) => {
+				if (sData.grid[1] == stageData.grid[1]) acc.push(sData.title)
 			}, []);
+			if ("prevstage" in stageData)
+			{
+				var prevstageData = areaData.stage.find(sData => sData.title == stageData.prevstage);
+				if (getTypeByStageTitle(stageData.name || stageData.title) == getTypeByStageTitle(prevstageData.name || prevstageData.title))
+				{
+					stageList[0] = prevstageData.title;
+				}
+			}
+			if(stageList[0] === null && gridList.indexOf(stageTitle) > 0)
+			{
+					stageList[0] = gridList[gridList.indexOf(stageTitle) - 1];
+			}
+
+			var nextstageDataList = areaData.stage.filter(sData => sData.prevstage == stageTitle);
+			if (nextstageDataList.length>0)
+			{
+				stageList[1] = nextstageDataList.find(sData => getTypeByStageTitle(stageData.name || stageData.title) == getTypeByStageTitle(sData.name || sData.title)).title || null;
+			}
+			if(stageList[1] === null && gridList.indexOf(stageTitle) < gridList.length-1)
+			{
+					stageList[1] = gridList[gridList.indexOf(stageTitle) + 1];
+			}
 			resolve({ "stageData": stageData, "stageList": stageList });
 		});
 
