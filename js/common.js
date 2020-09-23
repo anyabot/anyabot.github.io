@@ -55,6 +55,7 @@ function loadStageData(stageTitle)
 			var stageList = [null,null];
 			var gridList = areaData.stage.reduce((acc, sData) => {
 				if (sData.grid[1] == stageData.grid[1]) acc.push(sData.title)
+					return acc;
 			}, []);
 			if ("prevstage" in stageData)
 			{
