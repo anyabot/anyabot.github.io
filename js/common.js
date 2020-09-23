@@ -51,6 +51,7 @@ function loadStageData(stageTitle)
 		var src = "./data/data-area" + getAreaByStageTitle(stageTitle) + setting + ".json";
 		loadData(src).then((areaData) =>
 		{
+			var stageData = areaData.stage.find(sData => sData.title == stageTitle);
 			var stageList = [null,null];
 			var gridList = areaData.stage.reduce((acc, sData) => {
 				if (sData.grid[1] == stageData.grid[1]) acc.push(sData.title)
