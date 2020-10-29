@@ -10125,36 +10125,5 @@
     "areadata": [
       5
     ]
-  },
-  "EmperorChickSpCH_Ch_Skill4": {
-    "title": "pskill2",
-    "type": "passive",
-    "name": "지휘 집중",
-    "img": "SelfDefBuff",
-    "range": 0,
-    "AP": 0,
-    "description": "Empty",
-    "areadata": [
-      5
-    ]
-  },
-  "EmperorChickSpCH_Ch_Skill5": {
-    "title": "pskill3",
-    "type": "passive",
-    "name": "명령",
-    "img": "TeamAtkBuff",
-    "range": 0,
-    "AP": 0,
-    "description": "Empty",
-    "areadata": [
-      7,
-      8,
-      9,
-      4,
-      6,
-      1,
-      2,
-      3
-    ]
   }
 }
