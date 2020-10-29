@@ -1,0 +1,138 @@
+﻿{
+  "title": "Challenge1",
+  "stage": [
+    {
+      "title": "Challenge 1-1",
+      "name": "Challenge 1-1",
+	  "grid": [
+        0,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
