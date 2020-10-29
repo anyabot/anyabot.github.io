@@ -10126,7 +10126,7 @@
       5
     ]
   },
-  "EmperorChickSpCH_N_Skill4": {
+  "EmperorChickSpCH_Ch_Skill4": {
     "title": "pskill2",
     "type": "passive",
     "name": "지휘 집중",
@@ -10138,7 +10138,7 @@
       5
     ]
   },
-  "EmperorChickSpCH_N_Skill5": {
+  "EmperorChickSpCH_Ch_Skill5": {
     "title": "pskill3",
     "type": "passive",
     "name": "명령",
