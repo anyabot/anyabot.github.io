@@ -143,7 +143,7 @@
       ],
       "wave": [
         {
-          "title": "wave2",
+          "title": "wave1",
           "enemylist": [
             {
               "index": "NightChickCMP_EV2",
@@ -258,6 +258,272 @@
             {
               "index": "NightChickCMP_EV2",
               "level": 100
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge1-3",
+      "name": "Challenge1-3",
+	  "grid": [
+        0,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+			{
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge1-4",
+      "name": "Challenge1-4",
+	  "grid": [
+        0,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+			{
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            }
+          ]
+        },
+        {
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "NightChickCMP_EV2",
+              "level": 100
+            },
+            {
+              "index": "NightChickEX_TU",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
             },
             {
               "index": "EmperorChickSpCH_Ch",
