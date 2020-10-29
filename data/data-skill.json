@@ -10133,7 +10133,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "",
+    "description": "Empty",
     "areadata": [
       5
     ]
@@ -10145,7 +10145,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "",
+    "description": "Empty",
     "areadata": [
       7,
       8,
