@@ -138,7 +138,7 @@
       "title": "Challenge1-2",
       "name": "Challenge1-2",
 	  "grid": [
-        0,
+        1,
         0
       ],
       "wave": [
@@ -271,7 +271,7 @@
       "title": "Challenge1-3",
       "name": "Challenge1-3",
 	  "grid": [
-        0,
+        2,
         0
       ],
       "wave": [
@@ -404,7 +404,7 @@
       "title": "Challenge1-4",
       "name": "Challenge1-4",
 	  "grid": [
-        0,
+        3,
         0
       ],
       "wave": [
