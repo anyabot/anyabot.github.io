@@ -7466,11 +7466,11 @@
   "EmperorChickSpCH_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 머신캐논",
+    "name": "Chick MachineCannon",
     "img": "MGShot",
     "range": 5,
     "AP": 5,
-    "description": "대구경 기관포로 $(1) 피해를 주고, 대상에게 무작위 방해 효과를 부여합니다.",
+    "description": "Deals $(1) damage to a single target, and inflict random debuff.",
     "areadata": [
       5
     ]
@@ -7478,11 +7478,11 @@
   "EmperorChickSpCH_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "분노의 칙 파이널 어택",
+    "name": "Chick Final Attack of Fury",
     "img": "WideBeamShot",
     "range": 6,
     "AP": 10,
-    "description": "끓어오르는 분노를 소모하여 중장형을 선 타겟으로 전 무장을 발사해 목표 범위에 $(1.5) 피해를 줍니다. 목표 중심점 밖일수록 피해가 감소합니다.",
+    "description": "Deals $(1.5) damage to target area with Heavy unit priority. Less damage further the target is from center of AoE.",
     "areadata": [
       0.5,
       0.75,
@@ -7498,11 +7498,11 @@
   "EmperorChickSpCH_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "낙오자",
+    "name": "Straggler",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "철충들이 낙오(파괴)될 때마다 <복수심>이 적용 되고 낙오한 철충이 10마리가 될 시 <끓어오르는 분노> 상태로 <분노의 칙 파이널 어택> 스킬을 사용합니다. 적 군이 사망 시 <사라진 분노>가 적용 되고 3라운드 동안 철충들이 낙오(파괴)되더라도 <복수심>이 발동되지 않습니다.<br><br>복수심 : 공격력 / 방어력 / 적중률 증가<br>끓어오르는 분노 : 해당 상태가 적용 되있을 시 <분노의 칙 파이널 어택> 스킬 사용<br>사라진 분노 : 공격력 / 방어력 감소       낙오자 발생 : 철충들이 낙오(파괴) 된 상태",
+    "description": "Everytime a Iron Parasite is defeated, Chick Commander gains 'Vengence' stack, and when affected by 5 stacks of Vengence'', Chick Commander gains 'Rising Fury' and uses 'Chick Final Attack of Fury'. When an enemy is defeated, Chick Commander is inflicted with 'Dissipated Anger', and won't gain 'Vengence' stack.<br>'Vengence' : ATK+/DEF+/ACC+<br>'Rising Fury' : will use <Chick Final Attack of Fury>.<br>'Dissipated Anger' : ATK-/DEF-",
     "areadata": [
       5
     ]
@@ -7510,11 +7510,11 @@
   "EmperorChickSpCH_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "지휘 집중",
+    "name": "Commanding Concentration",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시 철충들을 일사불란하게 지휘하기 위해<br><지휘 집중>이 적용 됩니다.<br><br>지휘 집중 : 해제 불가의 해로운 효과 저항 적용",
+    "description": "At the start of round, Chick Commander gains 'Commanding Concentration'.<br>'Commanding Concentration' : Unremovable Status Resist+",
     "areadata": [
       5
     ]
@@ -7522,11 +7522,11 @@
   "EmperorChickSpCH_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "명령",
+    "name": "Order",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시 주위의 모든 철충들에게 쓰러져도 다시 일어날 수 있도록 <근성>을 부여하고 일정 확률로 <공격 명령>을 내립니다.<br><br>근성 : 해제 불가의 전투 속행 효과<br>공격 명령 : 높은 확률로 Def Pen/ 보호막 무시 / 피해 감소 무시 효과 적용",
+    "description": "At the start of round, grant Iron Parasites around Chick Commander 'Grit', and also have chance to grants 'Attack Order'.<br>'Grit' : Unremovable 'Battle Continuation'<br>'Attack Order' : High chance to Ignore DEF / Ignore Barrier / Ignore DR",
     "areadata": [
       7,
       8,
@@ -7541,11 +7541,11 @@
   "NightChickSpCH_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Machine Gun Diversion 사격",
+    "name": "Diversive Machinegun Shot",
     "img": "ARShot",
     "range": 6,
     "AP": 4,
-    "description": "Machine Gun Diversion 사격으로 $(1) 피해를 주며 방어력을 3라운드 동안 감소 시킵니다.",
+    "description": "Deals $(1) damage to a single target, and inflict DEF- for 3 rounds.",
     "areadata": [
       5
     ]
@@ -7553,11 +7553,11 @@
   "NightChickSpCH_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Machine Gun 연사",
+    "name": "Machine Gun Rapid Fire",
     "img": "ARShot",
     "range": 1,
     "AP": 6,
-    "description": "Machine Gun을 조준 사격해 $(1.2) 피해를 줍니다. 3라운드 동안 받는 피해가 증가하는 상태로 만듭니다.",
+    "description": "Deals $(1.2) damage to a single target, and inflict 'Damage Taken Increased'+ for 3 rounds.",
     "areadata": [
       5
     ]
@@ -7565,11 +7565,11 @@
   "NightChickSpCH_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "근성",
+    "name": "Grit",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "솔져 칙들은 낙오(파괴) 되더라도 칙 커맨더가 존재한다면 <근성>으로 다시 일어나 싸웁니다.<br><br>근성 : 해제 불가의 전투 속행 효과",
+    "description": "As long as Chick Commander is on the field, returns to combat with 'Grit' when defeated.<br>'Grit' : Unremovable 'Battle Continuation'",
     "areadata": [
       5
     ]
@@ -7577,11 +7577,11 @@
   "NightChickSpCH_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "호위",
+    "name": "Escort",
     "img": "Move",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시 칙 커맨더의 명령을 따르기 위해 <명령 집중>이 적용 되고 <공격 명령>을 받기 전까지 칙 커맨더를 호위하기 위해 주위를 돌아다니다가 간혹 <과부하>에 걸립니다.<br><br>명령 집중 : 해제 불가의 해로운 효과 저항 적용<br>과부하 : 스스로에게 일정량 피해",
+    "description": "At the start of round, Soldier Chick gains 'Commanding Concentration', and moves around Chick Commander until receiving 'Attack Order'.<br>Low chance to be inflicted with 'Overloaded'.<br>'Commanding Concentration' : Unremovable Status Resist+<br>'Overloaded' : Fixed amount of damage to self",
     "areadata": [
       5
     ]
@@ -7589,11 +7589,11 @@
   "NightChickSpCH_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "희생",
+    "name": "Sacrifice",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "Frontline에 있는 경우 자신의 몸을 바쳐 칙 커맨더를 보호할 수 있도록 행 보호가 적용 됩니다.",
+    "description": "When on frontline, gains Row Protect.",
     "areadata": [
       5
     ]
@@ -10114,15 +10114,14 @@
       5
     ]
 	},
-	},
   "FABigChickSEX_A8_1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "거대한 벽",
+    "name": "Giant Wall",
     "img": "ShieldWall",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 2라운드 동안 자신의 사거리를 감소시킵니다. 라운드 개시 시, 자신에게 표식을 지정하고 자신의 방어력 감소 효과를 해제합니다.",
+    "description": "At the start of wave, inflicts Range- to unit for 2 rounds.<br> At the start of round, inflicts 'Marked' to unit and removes DEF debuffs.",
     "areadata": [
       5
     ]
@@ -10130,12 +10129,12 @@
   "LightningBomberP_A8_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "쇼크 밤",
+    "name": "Shock Bomb",
     "img": "Missile",
     "range": 4,
     "AP": 4,
     "attr": "electric",
-    "description": "대상에게 미사일을 발사해 $(1) 전기 피해를 주고, 행동력을 감소시킵니다.",
+    "description": "Deals $(1) Electric damage to target area, and inflicts SPD-.",
     "areadata": [
       0,
       0,
@@ -10151,12 +10150,12 @@
   "LightningBomberP_A8_1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "무차별 폭격",
+    "name": "Indiscriminate Bombardment",
     "img": "MultiMissile",
     "range": 3,
     "AP": 9,
     "attr": "electric",
-    "description": "지정 범위에 $(1.25) 보호 무시 전기 피해를 줍니다. 대상이 행동력 감소 상태면 피해량이 증가합니다.",
+    "description": "Deals $(1.25) Electric damage to target area that Ignore Protect.<br>Additional DMG+ to targets affected by SPD-.",
     "areadata": [
       2,
       4,
@@ -10168,11 +10167,11 @@
   "LightningBomberP_A8_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "완전 충전",
+    "name": "Full Charge",
     "img": "Shock",
     "range": 0,
     "AP": 0,
-    "description": "각 액티브 스킬이 전기 속성 피해로 변경됩니다. 스킬 적중 시, 회피율이 증가합니다.",
+    "description": "Converts both Active Skills to Electric Attacks. When Active Skills hit, grants unit EVA+.",
     "areadata": [
       5
     ]
@@ -10180,11 +10179,11 @@
   "LightningBomberP_A8_1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "전도 증폭",
+    "name": "Conduction Amplification",
     "img": "WideLightning",
     "range": 0,
     "AP": 0,
-    "description": "자신이 침수 상태인 경우, 지속 전기 피해를 입고 공격력 / 치명타가 증가합니다.",
+    "description": "If unit is affected by 'Wet', takes continuous Electric Damage and grants unit ATK+ / CRIT+.",
     "areadata": [
       5
     ]
@@ -10192,11 +10191,11 @@
   "LemonadeOmega_A8_B1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "케스토스 히마스: 출력전개",
+    "name": "Kestos Himas: Power Expansion",
     "img": "SatelliteBeam",
     "range": 5,
     "AP": 4,
-    "description": "지정 범위에 $(1.5) 피해를 주고, 대상의 적중 강화 효과를 해제하며 뒤로 밀어냅니다. 대상에게 속성 저항 감소 효과가 적용되어 있는 경우 2라운드 동안 이동 불가 상태로 만들고, 대상이 중장형 보호기일 경우 2라운드 동안 사거리를 감소시킵니다.",
+    "description": "Deals$(1.5) damage to target area, remove ACC+ buff, and Push Back. <br>If the target's affected by any Elemental Resist-, inflict 'Rooted' for 2 rounds.<br>If the target's a Heavy Defender, inflict Range- for 2 rounds.",
     "areadata": [
       1,
       2,
@@ -10209,11 +10208,11 @@
   "LemonadeOmega_A8_B1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "케스토스 히마스: 알고리즘 개선",
+    "name": "Kestos Himas: Algorithm Improvement",
     "img": "EnemyDetect",
     "range": 3,
     "AP": 6,
-    "description": "지정 범위 아군의 현재 AP를 14로 변경시키며, 3라운드 동안 대상에게 사거리 증가 효과를 부여하고 치명타 / 효과 저항 확률을 100% 증가시킵니다.",
+    "description": "Set AP to 14 for allies in targeted area, and grant Range+ for 3 rounds.<br>Affected allies' Crit and Status Resist chance becomes 100%.",
     "areadata": [
       1,
       2,
@@ -10228,11 +10227,11 @@
   "LemonadeOmega_A8_B1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "케스토스 히마스: 경장갑 OS",
+    "name": "Kestos Himas: Light-Armor OS",
     "img": "AntiArmorShot",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시 스쿼드에 경장형 아군 수가 3 이상일 경우, 모든 경장형 아군 및 적의 받는 피해를 감소시키고, 모든 기동 / 중장형 아군 및 적의 받는 피해를 증가시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "description": "At the start of battle, if there's 3 or more Light allies, grant Light allies / enemies DR+, and inflict all Flying / Heavy allies / enemies 'Damage Taken Increasedd'.<br>This effect cannot be removed.",
     "areadata": [
       1,
       2,
@@ -10248,11 +10247,11 @@
   "LemonadeOmega_A8_B1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "케스토스 히마스: 사거리 OS",
+    "name": "Kestos Himas: Range OS",
     "img": "Snipe",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시 스쿼드에 기동형 아군 수가 3 이상일 경우, 모든 기동형 아군 및 적의 사거리 / 적중을 증가시키고, 모든 경장 / 중장형 아군 및 적의 사거리 / 적중을 감소시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "description": "At the start of battle, if there's 3 or more Flying allies, grant Flying allies / enemies Range+ / ACC+, and inflict all Light / Heavy allies / enemies Range- / ACC-.<br>This effect cannot be removed.",
     "areadata": [
       1,
       2,
@@ -10268,11 +10267,11 @@
   "LemonadeOmega_A8_B1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "케스토스 히마스: 중장갑 OS",
+    "name": "Kestos Himas: Heavy-Armor OS",
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시 스쿼드에 중장형 아군 수가 3 이상일 경우, 모든 중장형 아군 및 적의 AP / 행동력을 증가시키고, 모든 경장 / 기동형 아군 및 적의 AP / 행동력을 감소시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "description": "At the start of battle, if there's 3 or more Heavy allies, grant Heavy allies / enemies AP+ / SPD+, and inflict all Light / Flying allies / enemies AP- / SPD-.<br>This effect cannot be removed.",
     "areadata": [
       1,
       2,
@@ -10288,11 +10287,11 @@
   "Slasher_A8_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "머신캐논 연사",
+    "name": "Machine Cannon Speaker",
     "img": "MGShot",
     "range": 4,
     "AP": 4,
-    "description": "단일 대상에게 $(1.1) 피해를 주고 대상의 방어력을 감소시킵니다. 치명타 시, 대상의 받는 피해 감소 효과를 해제합니다.",
+    "description": "Deals $(1.1) damage to a single target and inflicts DEF-. Removes target's DR buffs when crits.",
     "areadata": [
       5
     ]
@@ -10300,12 +10299,12 @@
   "Slasher_A8_1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "장갑 찢기",
+    "name": "Armor Rip",
     "img": "SwordAttk",
     "range": 5,
     "AP": 9,
     "attr": "fire",
-    "description": "단일 대상에게 보호 무시의 $(2) 화염 속성 피해를 줍니다. 치명타 시, 피해량이 증가하며 모든 강화 효과를 해제 합니다.",
+    "description": "Deals $(2) Fire damage to a single target that Ignore Protect. Additional DMG+ and memoves target's buffs when crits.",
     "areadata": [
       5
     ]
@@ -10313,11 +10312,11 @@
   "Slasher_A8_1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "전투 적응",
+    "name": "Combat Adaptation",
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, AP 증가 / 받는 피해 감소 효과가 적용 됩니다. 적 공격 시, 회피가 증가하며 회피 증가 효과는 후열에 가까울수록 증가합니다. 냉기 속성에 피격 시, 회피 증가 효과가 해제 되고 회피가 감소합니다.",
+    "description": "At the start of wave, grants unit AP+ / DR+.<br> When unit is attacked, grants unit EVA+ that increases the further back unit is.<br>When unit is attacked by Ice Damage, removes EVA+ buffs and inflicts EVA- to unit."
     "areadata": [
       5
     ]
@@ -10325,11 +10324,11 @@
   "Slasher_A8_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "역습",
+    "name": "Counterattack",
     "img": "DefCounter",
     "range": 0,
     "AP": 0,
-    "description": "회피 시, 반격 / AP증가 / 치명타 증가가 적용되고 <치명적인 역습>이 적용 됩니다. 라운드 개시 시, <치명적인 역습>이 3중첩이라면 방어막 / 피해 감소 효과를 무시합니다.",
+    "description": "When unit evades, 'Counterattack' and grants unit AP+ / CRIT+ / 'Fatal Counterattack' buff.<br>At the start of round, if unit is affected by 3 or more stacks of 'Fatal Counterattack', grants unit Ignore Barrier / Ignore DR.",
     "areadata": [
       5
     ]
@@ -10337,7 +10336,7 @@
   "Slasher_A8_B1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "위압감(철의 왕자)",
+    "name": "Intimidation (Iron Prince)",
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
@@ -10357,11 +10356,11 @@
   "IronPrince_A8_B1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "징벌",
+    "name": "Punishment",
     "img": "MeleeAttack",
     "range": 10,
     "AP": 4,
-    "description": "단일 대상에게 보호 무시의 $(1.1) 피해를 주고 표식을 부여합니다. 대상의 받는 피해 감소 효과를 해제하고 받는 피해를 증가시킵니다.",
+    "description": "Deals $(1.1) damage to a single target that Ignore Protect, and inflict 'Marked'.<br>Remove target's DR+ buff, and inflict 'Damage Taken Increased'.",
     "areadata": [
       5
     ]
@@ -10369,11 +10368,11 @@
   "IronPrince_A8_B1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "심판",
+    "name": "Judgement",
     "img": "Particle",
     "range": 10,
     "AP": 10,
-    "description": "목표 지점에 보호 무시의 $(1.5) 피해를 줍니다. 목표 지점 주변에는 피해가 50% 감소합니다. <머리를 조아려라>가 적용된 대상에게는 엄청난 추가 피해를 줍니다.",
+    "description": "Deals $(1.5) damage to target area that Ignore Protect. Damage decrease by 50% to non-center area.<br>If target's affected by 'Bow Your Head', inflict great amount of Additional DMG+.",
     "areadata": [
       0,
       0.5,
@@ -10389,11 +10388,11 @@
   "IronPrince_A8_B1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "머리를 조아려라",
+    "name": "Bow Your Head",
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 대상이 전열에 있을 경우, 방어력 감소 / 방어력 증가 효과 해제. 대상이 중열에 있을 경우 적중 감소 / 적중 증가 효과 해제. 대상이 후열에 있을 경우 공격력 감소 / 공격력 증가 효과 해제가 적용됩니다. 해당 효과들은 효과 저항과 해로운 효과 해제에 영향을 받지 않습니다.",
+    "description": "At the start of round: <br>If enemy's on the frontline, inflict DEF- and remove DEF+ buff.<br>If enemy's on the middle line, inflict ACC- and remove ACC+ buff.<br>If enemy's on the backline, inflict ATK- and remove ATK+ buff.<br>Debuffs from 'Bow Your Head' is not affected by Status Resist and Debuff Removal.",
     "areadata": [
       2,
       4,
@@ -10405,11 +10404,11 @@
   "IronPrince_A8_B1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "은총을 받아들여라",
+    "name": "Accept the Blessing",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "적 공격 시, <신의 은총>이 자신에게 적용 되고 라운드 개시 시, <신의 은총>이 3중첩이 된 상태일 시, <심판 개시> 상태가 되고 1라운드 대기후 <심판>을 사용합니다. <심판> 사용 시 1라운드 동안 방어력이 감소하고 전투 속행 효과가 해제 됩니다.",
+    "description": "When attacking, grant self 'God's Blessing'.<br>At the start of round, if affected by 3 stacks of 'God's Blessing', turn the status into 'Begin Judgement', and after idling for 1 round, uses 'Judgement'.<br>After using 'Judgement', inflict DEF- for 1 round and remove 'Battle Continuation' from self.",
     "areadata": [
       5
     ]
@@ -10417,11 +10416,11 @@
   "IronPrince_A8_B1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "영생의 관",
+    "name": "Coffin of Immortality",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 해제 불가의 AP 감소 효과 면역 / 도발 효과 면역 효과가 영구히 적용되고 물리 공격에 피격 시, 해제 불가의 공격력 / 적중 / 방어력 / 방어력 관통 등이 일정 확률로 부여되나 속성 공격에 피격 시, 해제 됩니다. 라운드 개시 또는 전투 속행 시, 전투 속행이 지속적으로 부여됩니다. 3라운드 이상부터 받는 피해 감소 효과가 적용되며 최대 5중첩까지 적용됩니다. 8라운드 이상일 경우 방어막 / 피해 감소 효과를 무시합니다.",
+    "description": "At the start of battle, grant self unremovable AP- Immunity / Provoked Immunity.<br>When hit by Physical Attack, chance to grant self unremovable ATK+ / DEF+ / ACC+ / DEF Pen.+. Chances are separate for each buffs. But when hit by Elemental Attack, remove those buffs.<br>At the start of round or after activating 'Battle Continuation', grant self 'Battle Continuation'.<br>Starting round 3, grant self DR+ that stacks up to 5 times.<br>After round 8, grant self Ignore Barrier / DR.",
     "areadata": [
       5
     ]
@@ -10429,11 +10428,11 @@
   "SpeakerEX_A8_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "사운드 웨이브",
+    "name": "Sound Wave",
     "img": "EnemyDetect",
     "range": 6,
     "AP": 4,
-    "description": "광범위한 음파를 발사해 대상에게 보호 무시 $(0.3) 피해를 주고, 3라운드 동안 공격력 / 치명타 감소 상태로 만들며 일정 확률로 뒤로 1칸 밀어버립니다. 최대 출력 상태일 시, 대상의 AP를 감소시킵니다.",
+    "description": "Deals $(0.3) damage to target area that Ignore Protect, and inflicts ATK- / CRIT- for 3 rounds with a chance to Push Back 1 square. If unit is affected by 'Maximum Output', reduce target's AP.",
     "areadata": [
       0.5,
       1,
@@ -10449,11 +10448,11 @@
   "SpeakerEX_A8_1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "고주파 사운드",
+    "name": "High Frequency Sound",
     "img": "EnemyDetect",
     "range": 4,
     "AP": 9,
-    "description": "<사운드 출력 강화(최대)>일 시, 좁은 범위에 집중 된 음파를 발사해 대상에게 $(1) 피해를 주고 방어력 / 회피를 감소시키고 <사운드 출력 강화> 효과를 모두 소모합니다.",
+    "description": "When affected by 'Sound Output Enhancement (Max)', deals $(1) to target area, inflicts DEF- / EVA- and consumes all stacks of 'Sound Output Enhancement'.",
     "areadata": [
       4,
       5,
@@ -10463,11 +10462,11 @@
   "SpeakerEX_A8_1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "사운드 출력 강화",
+    "name": "Sound Output Enhancement",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 자신에게 <사운드 출력 강화> 효과가 적용되며 아군이 사망 시, <사운드 출력 강화> 효과가 해제 됩니다.",
+    "description": "At the start of each round, grants 'Sound Output Enhancement', which is removed when an ally is defeated.",
     "areadata": [
       5
     ]
@@ -10475,11 +10474,11 @@
   "SpeakerEX_A8_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "강화 파장",
+    "name": "Enhanced Wavelength,
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 자신에게 적용 된 <사운드 출력 강화> 효과의 중첩 개수에 따라 주위 아군에게 강화 효과를 부여합니다.<br><br>2중첩 시: 치명타 증가<br>3중첩 시: 적중 증가<br>4중첩 시: 방어 관통 증가",
+    "description": "At the start of each round, grants surrounding allies buffs depending on the number of 'Sound Output Enhancement' stacks:<br>2 stacks: CRIT+.<br>3 stacks: ACC+.<br>4 stacks: DEF Pen+.",
     "areadata": [
       1,
       2,
@@ -10494,14 +10493,15 @@
   "SpeakerEX_A8_1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "최대 출력",
+    "name": "Mazimum Output",
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 2라운드 이하인 상태라면 행동력이 증가합니다. 최대 출력 상태에서 <사운드 웨이브> 스킬을 사용 시, 대상의 AP를 감소시킵니다.",
+    "description": "At the start of round, if it's round 2 or lower, grants unit SPD+.<br>'Sound Wave' also inflicts AP-..",
     "areadata": [
       5
-    ],
+    ]
+	},
 	"EmperorChickSpCH_Ch_Skill3": {
     "title": "pskill1",
     "type": "passive",
@@ -10509,7 +10509,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "철충들이 낙오(파괴)될 때마다 <복수심>이 적용 되고 낙오한 철충이 5마리가 될 시 <끓어오르는 분노> 상태로 <분노의 칙 파이널 어택> 스킬을 사용합니다. 적 군이 사망 시 <사라진 분노>가 적용 되고 3라운드 동안 철충들이 낙오(파괴)되더라도 <복수심>이 발동되지 않습니다.<br><br>복수심 : 공격력 / 방어력 / 적중률 증가<br>끓어오르는 분노 : 해당 상태가 적용 되있을 시 <분노의 칙 파이널 어택> 스킬 사용<br>사라진 분노 : 공격력 / 방어력 감소       낙오자 발생 : 철충들이 낙오(파괴) 된 상태",
+    "description": "Everytime a Iron Parasite is defeated, Chick Commander gains 'Vengence' stack, and when affected by 5 stacks of Vengence'', Chick Commander gains 'Rising Fury' and uses 'Chick Final Attack of Fury'. When an enemy is defeated, Chick Commander is inflicted with 'Dissipated Anger', and won't gain 'Vengence' stack.<br>'Vengence' : ATK+/DEF+/ACC+<br>'Rising Fury' : will use <Chick Final Attack of Fury>.<br>'Dissipated Anger' : ATK-/DEF-",
     "areadata": [
       5
     ]
