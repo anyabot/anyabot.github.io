@@ -18196,5 +18196,74 @@
       "SpeakerEX_A8_1_Skill4",
       "SpeakerEX_A8_1_Skill5"
     ]
-  }	  
+  },
+"Tyrant_Ch": {
+    "name": "Tyrant",
+    "img": "Tyrant",
+    "type": "Heavy Attacker",
+    "info": "이 타이런트들... 예전에 본 기억이 있습니다. 이들의 A.I.는 말 그대로 야생동물에 가깝기 때문에 전술적인 판단은 커녕, 본능에 따라 목표물을 선택할겁니다. 그리고... 거의 항상 두 기가 함께 다니는 것도 조금 신경쓰입니다. ...주인님. 절 믿고 일선에 내보내주시겠습니까? 주인님의 소중한 분들을 지키는 것으로, 주인님이 저희에게 베풀어주신 갚을 수 없는 은혜에 조금이나마 보답하고 싶습니다.<br><br><br>-블랙 웜 S9 드림.",
+    "HP": {
+      "base": 138000,
+      "increment": 1800
+    },
+    "ATK": {
+      "base": 150,
+      "increment": 15
+    },
+    "DEF": {
+      "base": 1650,
+      "increment": 15
+    },
+    "AGI": 3.25,
+    "CRT": 10,
+    "HIT": 250,
+    "DOD": 0,
+    "resist": [
+      0,
+      0,
+      0
+    ],
+    "skills": [
+      "Tyrant_Ev73_B1_Skill1",
+      "Tyrant_Ev73_B1_Skill2",
+      "Tyrant_Ev73_B1_Skill3",
+      "Tyrant_Ev73_B1_Skill4",
+      "Tyrant_Ev73_B1_Skill5"
+    ]
+  } ,
+  "Robert_Ch": {
+    "uncertainstat": true,
+    "name": "Robert",
+    "img": "Robert",
+    "type": "Heavy Supporter",
+    "info": "세상에, 저런 완벽한 형태라니...! 거기다 순식간에 부하 AGS들을 조립해 낸 것을 보면 저희의 약점을 분석하고, 그것에 적합한 무장을 만들어낼지도 모릅니다...!<br>다만, 약점을 분석하기 위해 코어를 풀가동한다면 외부의 공격에 취약해 질 수 밖에 없겠죠! 그 점을 노려보시는 것이 좋겠습니다!<br><br><br>- Mr 알프레드",
+    "HP": {
+      "base": 130000,
+      "increment": 3000
+    },
+    "ATK": {
+      "base": 58,
+      "increment": 14
+    },
+    "DEF": {
+      "base": 1657,
+      "increment": 8
+    },
+    "AGI": 3.9,
+    "CRT": 15,
+    "HIT": 220,
+    "DOD": 10,
+    "resist": [
+      0,
+      0,
+      0
+    ],
+    "skills": [
+      "Robert_Ev72_B1_Skill1",
+      "Robert_Ev72_B1_Skill2",
+      "Robert_Ev72_B1_Skill3",
+      "Robert_Ev72_B1_Skill4",
+      "Robert_Ev72_B1_Skill5"
+    ]
+  }
 }
