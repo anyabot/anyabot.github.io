@@ -18265,5 +18265,106 @@
       "Robert_Ev72_B1_Skill4",
       "Robert_Ev72_B1_Skill5"
     ]
+  },
+  "FABigChickAlpha_Ch": {
+    "uncertainstat": true,
+    "name": "FA Big Chick Alpha",
+    "img": "FABigChick",
+    "type": "Heavy Attacker",
+    "info": "Careful when you hit them~",
+    "HP": {
+      "base": 150000,
+      "increment": 1500
+    },
+    "ATK": {
+      "base": 1349.4,
+      "increment": 39.4
+    },
+    "DEF": {
+      "base": 1578.6,
+      "increment": 50.6
+    },
+    "AGI": 3.25,
+    "CRT": 0,
+    "HIT": 855,
+    "DOD": 0,
+    "resist": [
+      25,
+      25,
+      25
+    ],
+    "skills": [
+      "FABigChickAlpha_Ch_Skill1",
+      "FABigChickAlpha_Ch_Skill2",
+      "FABigChickAlpha_Ch_Skill3"
+    ]
+  },
+  "FABigChickBeta_Ch": {
+    "uncertainstat": true,
+    "name": "FA Big Chick Alpha",
+    "img": "FABigChick",
+    "type": "Heavy Attacker",
+    "info": "Why don't you look for a way to divert its attention?",
+    "HP": {
+      "base": 165000,
+      "increment": 1650
+    },
+    "ATK": {
+      "base": 1349.4,
+      "increment": 39.4
+    },
+    "DEF": {
+      "base": 1739.6,
+      "increment": 55.6
+    },
+    "AGI": 3.5,
+    "CRT": 0,
+    "HIT": 860,
+    "DOD": 0,
+    "resist": [
+      25,
+      25,
+      25
+    ],
+    "skills": [
+      "FABigChickBeta_Ch_Skill1",
+      "FABigChickBeta_Ch_Skill2",
+      "FABigChickBeta_Ch_Skill3"
+    ]
+  },
+  "Predator_Ch": {
+    "uncertainstat": true,
+    "name": "Predator Mutant",
+    "img": "Predator_B0208",
+    "type": "Heavy Supporter",
+    "info": "It doesn't know what to do with energy it absorbed from eating. It instead showed sign of instability after eating.",
+    "HP": {
+      "base": 800000,
+      "increment": 0
+    },
+    "ATK": {
+      "base": 150,
+      "increment": 0
+    },
+    "DEF": {
+      "base": 15000,
+      "increment": 8
+    },
+    "AGI": 2.5,
+    "CRT": 10,
+    "HIT": 250,
+    "DOD": 0,
+    "resist": [
+      80,
+      80,
+      80
+    ],
+    "skills": [
+      "Predator_Ch_Skill1",
+      "Predator_Ch_Skill2",
+      "Predator_Ch_Skill3",
+	  "Predator_Ch_Skill4",
+	  "Predator_Ch_Skill5"
+    ]
   }
 }
