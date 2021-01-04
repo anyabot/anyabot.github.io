@@ -102,12 +102,12 @@ function submitIndex()
 	document.getElementById("input-img").value = getEnemyValue("img");
 	document.getElementById("input-type").value = getEnemyValue("type");
 	document.getElementById("input-info").value = getEnemyValue("info").replace(/<br\s*[\/]?>/gi, "\n");
-	document.getElementById("input-HPbase").value = getEnemyValue("HP").base;
-	document.getElementById("input-HPincrement").value = getEnemyValue("HP").increment;
-	document.getElementById("input-ATKbase").value = getEnemyValue("ATK").base;
-	document.getElementById("input-ATKincrement").value = getEnemyValue("ATK").increment;
-	document.getElementById("input-DEFbase").value = getEnemyValue("DEF").base;
-	document.getElementById("input-DEFincrement").value = getEnemyValue("DEF").increment;
+	document.getElementById("input-HPbase").value = getEnemyValue("HP")[0];
+	document.getElementById("input-HPincrement").value = getEnemyValue("HP")[1];
+	document.getElementById("input-ATKbase").value = getEnemyValue("ATK")[0];
+	document.getElementById("input-ATKincrement").value = getEnemyValue("ATK")[1];
+	document.getElementById("input-DEFbase").value = getEnemyValue("DEF")[0];
+	document.getElementById("input-DEFincrement").value = getEnemyValue("DEF")[1];
 	document.getElementById("input-AGI").value = getEnemyValue("AGI");
 	document.getElementById("input-CRT").value = getEnemyValue("CRT");
 	document.getElementById("input-HIT").value = getEnemyValue("HIT");
@@ -131,7 +131,7 @@ function submitEnemy()
 	{
 		if(!confirm("이미 있는 철충입니다. 덮어씌우겠습니까?")) return 0;
 	}
-	
+
 	if(document.getElementById("uncertain-stat").checked)
 	{
 		enemyData.uncertainstat = true;
@@ -145,15 +145,15 @@ function submitEnemy()
 	enemyData.img = document.getElementById("input-img").value;
 	enemyData.type = document.getElementById("input-type").value;
 	enemyData.info = document.getElementById("input-info").value.replace(/(?:\r\n|\r|\n)/g, '<br>');
-	enemyData.HP = {};
-	enemyData.HP.base = parseFloat(document.getElementById("input-HPbase").value);
-	enemyData.HP.increment = parseFloat(document.getElementById("input-HPincrement").value);
-	enemyData.ATK = {};
-	enemyData.ATK.base = parseFloat(document.getElementById("input-ATKbase").value);
-	enemyData.ATK.increment = parseFloat(document.getElementById("input-ATKincrement").value);
-	enemyData.DEF = {};
-	enemyData.DEF.base = parseFloat(document.getElementById("input-DEFbase").value);
-	enemyData.DEF.increment = parseFloat(document.getElementById("input-DEFincrement").value);
+	enemyData.HP = [];
+	enemyData.HP[0] = parseFloat(document.getElementById("input-HPbase").value);
+	enemyData.HP[1] = parseFloat(document.getElementById("input-HPincrement").value);
+	enemyData.ATK = [];
+	enemyData.ATK[0] = parseFloat(document.getElementById("input-ATKbase").value);
+	enemyData.ATK[1] = parseFloat(document.getElementById("input-ATKincrement").value);
+	enemyData.DEF = [];
+	enemyData.DEF[0] = parseFloat(document.getElementById("input-DEFbase").value);
+	enemyData.DEF[1] = parseFloat(document.getElementById("input-DEFincrement").value);
 	enemyData.AGI = parseFloat(document.getElementById("input-AGI").value);
 	enemyData.CRT = parseFloat(document.getElementById("input-CRT").value);
 	enemyData.HIT = parseFloat(document.getElementById("input-HIT").value);
@@ -185,8 +185,8 @@ function selectSkill()
 	document.getElementById("input-skillindex").value = Object.keys(skillData)[0];
 	document.getElementById("input-skillname").value = getSkillValue("name");
 	document.getElementById("input-skillimage").value = getSkillValue("img");
-	document.getElementById("input-skillrange").value = getSkillValue("range");
-	document.getElementById("input-skillAP").value = getSkillValue("AP");
+	document.getElementById("input-skillrange").value = parseInt(getSkillValue("range"));
+	document.getElementById("input-skillAP").value = parseInt(getSkillValue("AP"));
 	document.getElementById("input-skillattr").value = getSkillValue("attr");
 	document.getElementById("input-skilldesc").value = getSkillValue("description").replace(/<br\s*[\/]?>/gi, "\n");
 	document.getElementById("input-skillarea").value = getSkillValue("areadata");
