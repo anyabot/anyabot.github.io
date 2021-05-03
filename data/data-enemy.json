@@ -19881,7 +19881,7 @@
     "info": "지상군이 상대하기에는 까다로운 상대 같아요. 사령관님, 저희에게 맡겨주세요!<br><br><br>- 블랙 하운드 보고함",
     "HP": [
       1250,
-      77
+      77.5
     ],
     "ATK": [
       100,
@@ -20068,7 +20068,7 @@
     "resist": [
       120,
       -25,
-      0
+      60
     ],
     "skills": [
       "BigChickCG_Ev111_1_Skill1",
@@ -20111,6 +20111,109 @@
       "DoomEater_Ev111_1_Skill3",
       "DoomEater_Ev111_1_Skill4",
       "DoomEater_Ev111_1_Skill5"
+    ]
+	},
+  "ScarabH_Ev112_1": {
+    "uncertainstat": true,
+    "name": "Scarab H",
+    "img": "ScarabH",
+    "type": "Flying Defender",
+    "info": "뭐야, 쟤? 자기들끼리 보호했다가 갑자기 우리들을 공격하지 않나! 저 녀석을 상대하려면 두꺼운 장갑판을 뚫던지, 아니면 공격하려 들 때 우리가 먼저 공격해야 돼. 알겠어, 사령관? ...거, 걱정돼서 알려주는 거 아니거든!<br><br><br>- 그리폰 보고함",
+    "HP": [
+      1800,
+      75
+    ],
+    "ATK": [
+      70,
+      7
+    ],
+    "DEF": [
+      100,
+      2.25
+    ],
+    "AGI": 4.6,
+    "CRT": 20,
+    "HIT": 100,
+    "DOD": 150,
+    "resist": [
+      50,
+      50,
+      50
+    ],
+    "skills": [
+      "ScarabH_Ev112_1_Skill1",
+      "ScarabH_Ev112_1_Skill2",
+      "ScarabH_Ev112_1_Skill3",
+      "ScarabH_Ev112_1_Skill4"
+    ]
+  },
+  "ScarabH_Ev112_2": {
+    "uncertainstat": true,
+    "name": "Scarab H",
+    "img": "ScarabH",
+    "type": "Flying Defender",
+    "info": "뭐야, 쟤? 자기들끼리 보호했다가 갑자기 우리들을 공격하지 않나! 저 녀석을 상대하려면 두꺼운 장갑판을 뚫던지, 아니면 공격하려 들 때 우리가 먼저 공격해야 돼. 알겠어, 사령관? ...거, 걱정돼서 알려주는 거 아니거든!<br><br><br>- 그리폰 보고함",
+    "HP": [
+      21425,
+      149
+    ],
+    "ATK": [
+      100,
+      10
+    ],
+    "DEF": [
+      160,
+      3.25
+    ],
+    "AGI": 4.6,
+    "CRT": 20,
+    "HIT": 200,
+    "DOD": 350,
+    "resist": [
+      50,
+      50,
+      50
+    ],
+    "skills": [
+      "ScarabH_Ev112_1_Skill1",
+      "ScarabH_Ev112_1_Skill2",
+      "ScarabH_Ev112_1_Skill3",
+      "ScarabH_Ev112_1_Skill4"
+    ]
+  },
+  "ScoutAK_Ev112_1": {
+    "uncertainstat": true,
+    "name": "Scout AK",
+    "img": "ScoutAK",
+    "type": "Flying Supporter",
+    "info": "귀하의 명령을 이행 중이나 상대하기 까다로운 철충이 나타났네. 적 전면의 스피커가 진동할 때마다 우리측 대형 AGS들의 연산 제어 파츠는 물론이고, 중장 바이오로이드 대원들의 움직임까지 둔해지는군.<br><br><br>- 스트롱홀드 보고함",
+    "HP": [
+      4321,
+      245
+    ],
+    "ATK": [
+      80,
+      10
+    ],
+    "DEF": [
+      0,
+      0
+    ],
+    "AGI": 5.3,
+    "CRT": 20,
+    "HIT": 200,
+    "DOD": 190,
+    "resist": [
+      50,
+      50,
+      50
+    ],
+    "skills": [
+      "ScoutAK_Ev112_1_Skill1",
+      "ScoutAK_Ev112_1_Skill2",
+      "ScoutAK_Ev112_1_Skill3",
+      "ScoutAK_Ev112_1_Skill4",
+      "ScoutAK_Ev112_1_Skill5"
     ]
   }	  
 }

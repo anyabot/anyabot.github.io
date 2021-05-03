@@ -11799,7 +11799,7 @@
     "title": "pskill3",
     "type": "passive",
     "name": "Dud",
-    "img": "TeamAtkDeBuff",
+    "img": "SelfAtkDeBuff",
     "range": 0,
     "AP": 0,
     "attr": "fire",
@@ -11867,6 +11867,137 @@
     "description": "At start of round, if Doom Eater is affected by 3 or more stacks of 'Energy Depletion', grants Doom Eater a stack of 'Runaway', increasing ATK+ / ACC+ / Status Resist+ but decreasing DEF-.<br>At start of round, if Doom Eater is affected by 5 or more stacks of 'Energy Depletion', grants Doom Eater 'Ignore Barrier / DR'.<br>'Runaway' stacks cannot be removed and stack indefinitely.",
     "area": [
       5
+    ]
+	},
+  "ScarabH_Ev112_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Shield Rush",
+    "img": "AssaultAttack",
+    "range": 3,
+    "AP": 6,
+    "description": "Deals $(1.5) damage to a single target, and remove Column Protect and DR buffs<br>Additional DMG+ to Heavy units",
+    "area": [
+      5
+    ]
+  },
+  "ScarabH_Ev112_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Escort Flying",
+    "img": "SelfDefBuff",
+    "range": 6,
+    "AP": 4,
+    "description": "Grants one ally Target Protect / SPD+ for 3 rounds",
+    "area": [
+      5
+    ]
+  },
+  "ScarabH_Ev112_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Defensive Stance",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "When unit's HP is above, grants self DR +30% / DEF +1000%",
+    "area": [
+      5
+    ]
+  },
+  "ScarabH_Ev112_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Stance Change",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, if it's 3 rounds or less, enter 'Defensive Stance', and grant self All Elemental Resist +150%, but inflict self EVA -150%<br>At the start of round, if it's 4 rounds or more, enter 'Offensive Stance', and grant self ATK +100% / DEF Pen. +20% , but inflict self DEF -1000%",
+    "area": [
+      5
+    ]
+  },
+  "ScoutAK_Ev112_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "High Speed Bullet Barrage",
+    "img": "Missile",
+    "range": 2,
+    "AP": 6,
+    "description": "Deals $(1.2) damage to a single target, and inflict AP-.<br>Double AP- effect against Heavy unit",
+    "area": [
+      5
+    ]
+  },
+  "ScoutAK_Ev112_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Panic Siren",
+    "img": "Move",
+    "range": 6,
+    "AP": 8,
+    "description": "Deals $(0.1)  damage to target area, and inflict AP- / 'Rooted' regardless of hitting. <br>Double AP- effect against Heavy unit",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "ScoutAK_Ev112_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Scout Arm Supply",
+    "img": "TeamAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, grants allies in Area of Effect SPD +20% / Anti-Heavy DMG +20%, and grants self AP+ / EVA +20%.<br>All the effects increase in strength if there's fewer allies",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "ScoutAK_Ev112_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Preemptive Smashing",
+    "img": "SelfAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, if it's 3 rounds or less, grant self DEF Pen. +50% / SPD +30% / CRIT +15%.",
+    "area": [
+      5
+    ]
+  },
+  "ScoutAK_Ev112_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Last Supply",
+    "img": "TeamAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "When killed, grant all allies SPD+ / ATK+ / CRIT+, but inflict ACC- for 2 rounds.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   }
 }
