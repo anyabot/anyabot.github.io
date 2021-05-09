@@ -11999,5 +11999,81 @@
       8,
       9
     ]
+  },
+  "Tracker_N_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Lightning Speed Claw",
+    "img": "MeleeAttack",
+    "range": 4,
+    "AP": 4,
+    "description": "Deals $(1) damage to target area, and inflict ATK -25% / DEF -20% / ACC -30% / SPD-10% for 3 rounds.<br>Deal 50% less damage to non-primary target.<br>When affected by 'Frenzy', double the debuff effects.",
+    "area": [
+      0.5,
+	  0,
+	  0,
+	  0,
+	  1,
+	  0,
+	  0.5,
+	  0,
+	  0
+    ]
+  },
+  "Tracker_N_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Bloody Claw",
+    "img": "AssaultAttack",
+    "range": 5,
+    "AP": 6,
+    "description": "Deals $(1.4) damage to target area, remove all buffs from target, and inflict 'Bleeding' for 3 rounds.<br>Deal 50% less damage to non-primary target.<br>When affected by 'Frenzy', inflict 'Great Bleeding' instead of 'Bleeding'.<br>Target inflicted with 'Bleeding' and 'Great Bleeding' takes Fixed Damage at the end of each round ('Great Bleeding' has higher damage).",
+    "area": [
+      0.5,
+	  0.5,
+	  0.5,
+	  0.5,
+	  1,
+	  0.5,
+	  0.5,
+	  0.5,
+	  0.5
+    ]
+  },
+  "Tracker_N_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Readying Slaughter",
+    "img": "SelfAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of wave, grant self ATK +50% / ACC +100% / SPD +50% / Status Resist +100% that cannot removed.<br>Each buffs last for 2 rounds and extra round for each member in enemy squad.",
+    "area": [
+      5
+    ]
+  },
+  "Tracker_N_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Strengthened Carapace",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of wave, grant self 'Minimize Damage' buff that cannot be removed.<br>Buff lasts indefinitely, and mitigate damage 2 times for each members in enemy squad.",
+    "area": [
+      5
+    ]
+  },
+  "Tracker_N_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Frenzy",
+    "img": "SelfAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "When hit, grant self 'Frenzy Ready' stack.<br>At the start of round, if Tracker is affected by 5 'Frenzy Ready' stacks, change the stacks into 'Frenzy' buff, and grant self Barrier+ / Ignore DR / Re-Attack that cannot be removed for 5 rounds.",
+    "area": [
+      5
+    ]
   }
 }
