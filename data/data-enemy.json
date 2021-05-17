@@ -6629,7 +6629,7 @@
   "BigChickSP_EV1": {
     "name": "Enhanced Big Chick",
     "img": "BigChick",
-    "type": "Light Attacker",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": [
       15100,
@@ -7250,7 +7250,7 @@
   "BigChickSP_TU2": {
     "name": "Enhanced Big Chick",
     "img": "BigChick",
-    "type": "Light Attacker",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": [
       5500,
@@ -7705,7 +7705,7 @@
   "BigChickSP_TU3": {
     "name": "Enhanced Big Chick",
     "img": "BigChick",
-    "type": "Light Attacker",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": [
       25000,
@@ -20155,7 +20155,7 @@
     "info": "뭐야, 쟤? 자기들끼리 보호했다가 갑자기 우리들을 공격하지 않나! 저 녀석을 상대하려면 두꺼운 장갑판을 뚫던지, 아니면 공격하려 들 때 우리가 먼저 공격해야 돼. 알겠어, 사령관? ...거, 걱정돼서 알려주는 거 아니거든!<br><br><br>- 그리폰 보고함",
     "HP": [
       21425,
-      149
+      149.5
     ],
     "ATK": [
       100,
