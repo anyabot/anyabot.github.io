@@ -10340,7 +10340,7 @@
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "Decreases unit's ATK / DEF.",
+    "description": "Decreases all enemies' ATK / DEF.",
     "area": [
       1,
       2,
