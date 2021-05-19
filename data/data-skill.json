@@ -10340,7 +10340,7 @@
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "근처에 있는 철의 왕자에게서 뿜어져나오는 위압감으로 공격력 / 방어력이 감소합니다.",
+    "description": "Decreases unit's ATK / DEF.",
     "area": [
       1,
       2,
