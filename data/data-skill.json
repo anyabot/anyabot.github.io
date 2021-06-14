@@ -5193,7 +5193,7 @@
     "img": "DefCounter",
     "range": 6,
     "AP": 7,
-    "description": "Grants unit Row / Column Protect / DR+ / 'Counterattack'.",
+    "description": "Grants unit Barrier / Column Protect / DR+ / 'Counterattack'.",
     "area": [
       5
     ]
