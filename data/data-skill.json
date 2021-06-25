@@ -12075,5 +12075,41 @@
     "area": [
       5
     ]
+  },
+  "RocCGenerator_Challenge_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Charge Charging",
+    "img": "SelfAtkBuff",
+    "range": 6,
+    "AP": 4,
+    "description": "Grants all allies ATK+ / AP+.",
+    "area": [
+      5
+    ]
+  },
+  "RocCGenerator_Challenge_Skill2": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Shield Charging",
+    "img": "SelfDefBuff",
+    "range": 6,
+    "AP": 7,
+    "description": "Grants all allies Barier.",
+    "area": [
+      5
+    ]
+  },
+  "RocCGenerator_Challenge_Skill3": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Auto Repair",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "When an ally is defeated or when 'Battle Continuation' is activated, grants self 'Battle Continuation' for 1 round. This effect cannot be removed.",
+    "area": [
+      5
+    ]
   }
 }

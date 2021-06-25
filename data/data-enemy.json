@@ -20250,5 +20250,68 @@
       "Tracker_N_Skill4",
       "Tracker_N_Skill5"
     ]
-  }  
+  },
+  "RocCGenerator_Challenge1": {
+    "name": "Auxilary Energy Consender",
+    "img": "RocCGenerator_Challenge1",
+    "type": "Heavy Defender",
+    "info": "Strength Measuring System... You're saying you're going to test me. I see. If it's the commander's order.<br><br><br>- Tiamat Reporting",
+    "HP": [
+      50,
+      0
+    ],
+    "ATK": [
+      0,
+      0
+    ],
+    "DEF": [
+      1,
+      0
+    ],
+    "AGI": 0
+    "CRT": 0,
+    "HIT": 999,
+    "DOD": -999,
+    "resist": [
+      150,
+      150,
+      150
+    ],
+    "skills": [
+      "RocCGenerator_Challenge_Skill1",
+      "RocCGenerator_Challenge_Skill2"
+    ]
+  },
+  "RocCGenerator_Challenge2": {
+    "name": "Renewable Energy Consender",
+    "img": "RocCGenerator_Challenge2",
+    "type": "Light Defender",
+    "info": "If one device is destroyed, it automatically supplies energy to the other devices. In other words, if there are leftovers from clumsy attacks, you will not be able to finish the training in time.<br><br><br>- Marie Reporting",
+    "HP": [
+      50,
+      0
+    ],
+    "ATK": [
+      0,
+      0
+    ],
+    "DEF": [
+      1,
+      0
+    ],
+    "AGI": 0,
+    "CRT": 0,
+    "HIT": 999,
+    "DOD": -999,
+    "resist": [
+      150,
+      150,
+      150
+    ],
+    "skills": [
+      "RocCGenerator_Challenge_Skill1",
+      "RocCGenerator_Challenge_Skill2",
+	  "RocCGenerator_Challenge_Skill3",
+    ]
+  },
 }
