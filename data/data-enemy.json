@@ -16220,9 +16220,9 @@
       "LegionMk2_N_Skill3",
       "LegionMk2_N_Skill4"
     ]
-	},
-	"Speaker_A7_1": {
-	"uncertainstat": true,
+  },
+  "Speaker_A7_1": {
+    "uncertainstat": true,
     "name": "Speaker",
     "img": "Speaker",
     "type": "Light Supporter",
@@ -16321,7 +16321,7 @@
     ]
   },
   "Nest_B07": {
-  "uncertainstat": true,
+    "uncertainstat": true,
     "name": "Nest",
     "img": "Nest_B07",
     "type": "Flying Attacker",
@@ -16557,7 +16557,7 @@
     ]
   },
   "EmperorChick_A7_1": {
-  "uncertainstat": true,
+    "uncertainstat": true,
     "name": "Chick Emperor",
     "img": "EmperorChick",
     "type": "Heavy Attacker",
@@ -16592,7 +16592,7 @@
     ]
   },
   "EmperorChick_A7_2": {
-  "uncertainstat": true,
+    "uncertainstat": true,
     "name": "Chick Emperor",
     "img": "EmperorChick",
     "type": "Heavy Attacker",
@@ -16627,7 +16627,7 @@
     ]
   },
   "LightningBomber_A7_2": {
-  "uncertainstat": true,
+    "uncertainstat": true,
     "name": "Lightning Bomber",
     "img": "LightningBomber",
     "type": "Flying Attacker",
@@ -16724,9 +16724,9 @@
       "Destroyer_A7_1_Skill4",
       "Destroyer_A7_1_Skill5"
     ]
-	  },
+  },
   "Executioner_A6_1B": {
-  "uncertainstat": true,
+    "uncertainstat": true,
     "name": "Executioner",
     "img": "Executioner_B06",
     "type": "Flying Attacker",
@@ -16758,7 +16758,8 @@
       "Executioner_A6_1B_Skill3",
       "Executioner_A6_1B_Skill4",
       "Executioner_A6_1B_Skill5"
-    ]},
+    ]
+  },
   "NestGuardian_A7_B2": {
     "uncertainstat": true,
     "name": "Nest Guardian",
@@ -16863,7 +16864,7 @@
       "Nest_A7_B2_Skill4",
       "Nest_A7_B2_Skill5"
     ]
-	},
+  },
   "PhalangitesH_Ev71_1": {
     "uncertainstat": true,
     "name": "Phalanx H",
@@ -17030,7 +17031,7 @@
       "PhalangitesH_Ev71_1_Skill2",
       "PhalangitesH_Ev71_1_Skill3",
       "PhalangitesH_Ev71_1_Skill4"
-	  ]
+    ]
   },
   "FABigChickEX_Ev71_1": {
     "name": "FA Big Chick II",
@@ -17439,7 +17440,7 @@
       "SeljuqA_Ev72_1_Skill4",
       "SeljuqA_N_Skill5"
     ]
-	},
+  },
   "MrAlfred2_Ev73_B1": {
     "uncertainstat": true,
     "name": "Mr Alfred",
@@ -17611,7 +17612,7 @@
       "Destroyer_A7_1_Skill4",
       "Destroyer_A7_1_Skill5"
     ]
-	},
+  },
   "LemonadeAvatar_Ev82_B1": {
     "uncertainstat": true,
     "name": "Lemonade Avatar",
@@ -17714,7 +17715,8 @@
       "Frostbite_N_Skill3",
       "Frostbite_N_Skill4",
       "Frostbite_N_Skill5"
-    ]},
+    ]
+  },
   "NightChickSPW_A8_1": {
     "name": "Cold Region Chick Sniper",
     "img": "NightChickSPW",
@@ -18231,7 +18233,7 @@
       "SpeakerEX_A8_1_Skill5"
     ]
   },
-"Tyrant_Ch": {
+  "Tyrant_Ch": {
     "name": "Tyrant",
     "img": "Tyrant",
     "type": "Heavy Attacker",
@@ -18264,7 +18266,7 @@
       "Tyrant_Ev73_B1_Skill4",
       "Tyrant_Ev73_B1_Skill5"
     ]
-  } ,
+  },
   "Robert_Ch": {
     "uncertainstat": true,
     "name": "Robert",
@@ -18397,10 +18399,10 @@
       "Predator_Ch_Skill1",
       "Predator_Ch_Skill2",
       "Predator_Ch_Skill3",
-	  "Predator_Ch_Skill4",
-	  "Predator_Ch_Skill5"
+      "Predator_Ch_Skill4",
+      "Predator_Ch_Skill5"
     ]
-	},
+  },
   "FABigChickSEX_Ev91_1": {
     "name": "FA Big Chick Shielder II",
     "img": "FABigChickS",
@@ -19100,7 +19102,7 @@
       "NightChickAQG_Ev92_1_Skill4",
       "NightChickAQG_Ev92_1_Skill5"
     ]
-	 },
+  },
   "LegionMk2_Ev92_1": {
     "name": "Legion Mk.II",
     "img": "LegionMk2",
@@ -19572,7 +19574,7 @@
       "CenturionG_N_Skill5"
     ]
   },
-	"BigChick_TU4": {
+  "BigChick_TU4": {
     "name": "Big Chick",
     "img": "BigChick",
     "type": "Heavy Attacker",
@@ -19603,7 +19605,7 @@
       "BigChick_N_Skill2"
     ]
   },
-    "Hirume_Ev101_1": {
+  "Hirume_Ev101_1": {
     "name": "Hirume of Heavenly Beauty",
     "img": "Hirume",
     "type": "Light Defender",
@@ -19838,7 +19840,7 @@
       "LightningBomberP_A8_1_Skill4",
       "LightningBomberP_A8_1_Skill5"
     ]
-},
+  },
   "LightningBomberP_Ev102_1": {
     "name": "Lighting Bomber Type-X",
     "img": "LightningBomber",
@@ -19872,7 +19874,7 @@
       "LightningBomberMP_N_Skill4",
       "LightningBomberMP_N_Skill5"
     ]
-	},
+  },
   "BigChickC_Ev111_1": {
     "uncertainstat": true,
     "name": "Big Chick Cannon",
@@ -20112,7 +20114,7 @@
       "DoomEater_Ev111_1_Skill4",
       "DoomEater_Ev111_1_Skill5"
     ]
-	},
+  },
   "ScarabH_Ev112_1": {
     "uncertainstat": true,
     "name": "Scarab H",
@@ -20216,7 +20218,7 @@
       "ScoutAK_Ev112_1_Skill5"
     ]
   },
-	"Tracker_N": {
+  "Tracker_N": {
     "uncertainstat": true,
     "name": "Tracker",
     "img": "Tracker",
@@ -20268,7 +20270,7 @@
       1,
       0
     ],
-    "AGI": 0
+    "AGI": 0,
     "CRT": 0,
     "HIT": 999,
     "DOD": -999,
@@ -20311,7 +20313,7 @@
     "skills": [
       "RocCGenerator_Challenge_Skill1",
       "RocCGenerator_Challenge_Skill2",
-	  "RocCGenerator_Challenge_Skill3",
+      "RocCGenerator_Challenge_Skill3"
     ]
   },
 }
