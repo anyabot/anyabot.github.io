@@ -4167,7 +4167,7 @@
   "NightChickQMEX_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "Back to the Wall",
+    "name": "Last Stand",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
@@ -12271,7 +12271,7 @@
     "img": "Command",
     "range": 0,
     "AP": 0,
-    "description": "When idles, grants all Ecutus-type enemies (except self) 'Counterattack'.",
+    "description": "When idles, grants all Equitos-type enemies (except self) 'Counterattack'.",
     "area": [
       1,
       2,
