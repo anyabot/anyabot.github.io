@@ -30,7 +30,7 @@
     "img": "Snipe",
     "range": 0,
     "AP": 0,
-    "description": "When unit idles, increases unit's Range for 2 rounds.",
+    "description": "When this unit idles, increases unit's Range for 2 rounds.",
     "area": [
       5
     ]
@@ -66,7 +66,7 @@
     "img": "Snipe",
     "range": 0,
     "AP": 0,
-    "description": "When unit idles, increases units ACC / Range.",
+    "description": "When this unit idles, increases units ACC / Range.",
     "area": [
       5
     ]
@@ -162,7 +162,7 @@
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, deals damage to nearby allies.",
+    "description": "When this unit is defeated, deals damage to nearby allies.",
     "area": [
       7,
       8,
@@ -263,7 +263,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -589,7 +589,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit idles, increases AP and grants CRIT+ / Range+ / Def Pen+ to Attacker allies in Area of Effect.",
+    "description": "When this unit idles, increases AP and grants CRIT+ / Range+ / Def Pen+ to Attacker allies in Area of Effect.",
     "area": [
       8,
       5,
@@ -725,7 +725,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, a chance to increase AP and grant Range+ / ACC+ for 2 rounds to allies in Area of Effect.",
+    "description": "When this unit is hit, a chance to increase AP and grant Range+ / ACC+ for 2 rounds to allies in Area of Effect.",
     "area": [
       8,
       4,
@@ -740,7 +740,7 @@
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, inflicts allies in Area of Effect ACC- and removes ACC buffs.",
+    "description": "When this unit is defeated, inflicts allies in Area of Effect ACC- and removes ACC buffs.",
     "area": [
       8,
       4,
@@ -1016,7 +1016,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit moves, increases unit's Range / ATK / CRIT for 4 rounds.",
+    "description": "When this unit moves, increases unit's Range / ATK / CRIT for 4 rounds.",
     "area": [
       5
     ]
@@ -1052,7 +1052,7 @@
     "img": "Snipe",
     "range": 0,
     "AP": 0,
-    "description": "When unit idles, increases unit's ACC / CRIT / Range for 3 rounds.",
+    "description": "When this unit idles, increases unit's ACC / CRIT / Range for 3 rounds.",
     "area": [
       5
     ]
@@ -1088,7 +1088,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit moves, increases AP and grants 'Follow Up Attack' for 3 rounds to Attacker allies in Area of Effect",
+    "description": "When this unit moves, increases AP and grants 'Follow Up Attack' for 3 rounds to Attacker allies in Area of Effect",
     "area": [
       8,
       2
@@ -1171,7 +1171,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -1187,7 +1187,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, grants unit ACC+ for 3 rounds.",
+    "description": "When this unit attacks, grants unit ACC+ for 3 rounds.",
     "area": [
       8,
       4,
@@ -1364,7 +1364,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, a chance to increase unit's DEF.",
+    "description": "When this unit is hit, a chance to increase unit's DEF.",
     "area": [
       5
     ]
@@ -1538,7 +1538,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, Ignore Barrier / Ignore DR.",
+    "description": "When this unit attacks, Ignore Barrier / Ignore DR.",
     "area": [
       5
     ]
@@ -1826,7 +1826,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit moves, increases unit's ATK / SPD / EVA for 3 rounds.",
+    "description": "When this unit moves, increases unit's ATK / SPD / EVA for 3 rounds.",
     "area": [
       5
     ]
@@ -2104,7 +2104,7 @@
     "img": "SelfSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, a chance to be 'Stunned' for 2 rounds.",
+    "description": "When this unit is hit, a chance to be 'Stunned' for 2 rounds.",
     "area": [
       5
     ]
@@ -2116,7 +2116,7 @@
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, removes buffs from all devices and inflicts 'Stunned'.",
+    "description": "When this unit is defeated, removes buffs from all devices and inflicts 'Stunned'.",
     "area": [
       7,
       8,
@@ -2164,7 +2164,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases effects of ACC buffs affecting unit.",
+    "description": "When this unit attacks, increases effects of ACC buffs affecting unit.",
     "area": [
       5
     ]
@@ -2248,7 +2248,7 @@
     "img": "DefCounter",
     "range": 0,
     "AP": 0,
-    "description": "When unit evades, 'Counterattack'.",
+    "description": "When this unit evades, 'Counterattack'.",
     "area": [
       5
     ]
@@ -2364,7 +2364,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is attacked , if unit is affected by 'Energy Charge', high chance to take minimal damage.",
+    "description": "When this unit is attacked , if unit is affected by 'Energy Charge', high chance to take minimal damage.",
     "area": [
       5
     ]
@@ -2447,7 +2447,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit uses Active Skill, grants unit 'Nullify Damage' (3 times) / DR+ / Status Resist+ for 3 rounds.",
+    "description": "When this unit uses Active Skill, grants unit 'Nullify Damage' (3 times) / DR+ / Status Resist+ for 3 rounds.",
     "area": [
       5
     ]
@@ -2459,7 +2459,7 @@
     "img": "SelfSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, a chance to reduce unit's AP and a chance to be 'Stunned' for 2 rounds.",
+    "description": "When this unit is hit, a chance to reduce unit's AP and a chance to be 'Stunned' for 2 rounds.",
     "area": [
       5
     ]
@@ -2471,7 +2471,7 @@
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, removes buffs from all devices and inflicts 'Stunned'.",
+    "description": "When this unit is defeated, removes buffs from all devices and inflicts 'Stunned'.",
     "area": [
       7,
       8,
@@ -2519,7 +2519,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases effects of ACC buffs affecting unit.",
+    "description": "When this unit attacks, increases effects of ACC buffs affecting unit.",
     "area": [
       5
     ]
@@ -2615,7 +2615,7 @@
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, decreases all allies SPD / ATK.",
+    "description": "When this unit is defeated, decreases all allies SPD / ATK.",
     "area": [
       7,
       8,
@@ -2660,7 +2660,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "Increases unit's EVA. The further unit is from the enemies, the higher the EVA buff.<br>When unit attacks, this effect is temporary removed for the round.",
+    "description": "Increases unit's EVA. The further unit is from the enemies, the higher the EVA buff.<br>When this unit attacks, this effect is temporary removed for the round.",
     "area": [
       5
     ]
@@ -2880,7 +2880,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "Chance to gain Additional Anti-Light/Heavy DMG+ when unit attacks.",
+    "description": "Chance to gain Additional Anti-Light/Heavy DMG+ When this unit attacks.",
     "area": [
       5
     ]
@@ -2939,7 +2939,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, increases unit's EVA for a round.",
+    "description": "When this unit is hit, increases unit's EVA for a round.",
     "area": [
       5
     ]
@@ -2951,7 +2951,7 @@
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, decreases all allies ACC / EVA.",
+    "description": "When this unit is defeated, decreases all allies ACC / EVA.",
     "area": [
       7,
       8,
@@ -2971,7 +2971,7 @@
     "img": "ShotGun",
     "range": 3,
     "AP": 6,
-    "description": "Deals $(1.2) damage to a single target.<br>Additional DMG+ when unit is in the Frontline.",
+    "description": "Deals $(1.2) damage to a single target.<br>Additional DMG+ When this unit is in the Frontline.",
     "area": [
       5
     ]
@@ -2995,7 +2995,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "Takes minimal damage (3 times) and increases unit's Status Resist when unit is attacked.",
+    "description": "Takes minimal damage (3 times) and increases unit's Status Resist When this unit is attacked.",
     "area": [
       5
     ]
@@ -3007,7 +3007,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, Target Protect allies placed to the right on the same row.<br>This effect is removed when unit uses Active Skills.",
+    "description": "At the start of each round, Target Protect allies placed to the right on the same row.<br>This effect is removed When this unit uses Active Skills.",
     "area": [
       4,
       5,
@@ -3099,7 +3099,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit defeats an enemy, increases unit's AP and grants ATK+ until unit attacks.",
+    "description": "When this unit defeats an enemy, increases unit's AP and grants ATK+ until unit attacks.",
     "area": [
       5
     ]
@@ -3172,7 +3172,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit and unit's HP is below 50%, a chance to increase unit's DEF.",
+    "description": "When this unit is hit and unit's HP is below 50%, a chance to increase unit's DEF.",
     "area": [
       5
     ]
@@ -3249,7 +3249,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is attacked, if unit is affected by a stat reduction effect, 'Counterattack' and a chance to remove that effect.",
+    "description": "When this unit is attacked, if unit is affected by a stat reduction effect, 'Counterattack' and a chance to remove that effect.",
     "area": [
       5
     ]
@@ -3293,7 +3293,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, increases unit's AP / ATK / CRIT but decreases DEF.",
+    "description": "When this unit is hit, increases unit's AP / ATK / CRIT but decreases DEF.",
     "area": [
       5
     ]
@@ -3305,7 +3305,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, 'Battle Continuation' (1 time)",
+    "description": "When this unit is defeated, 'Battle Continuation' (1 time)",
     "area": [
       5
     ]
@@ -3361,7 +3361,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, grants allies in Area of Effect DR+ / Status Resist+ but inflicts SPD-.",
+    "description": "When this unit is defeated, grants allies in Area of Effect DR+ / Status Resist+ but inflicts SPD-.",
     "area": [
       8,
       4,
@@ -3427,7 +3427,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, grants unit and nearby allies DR+.",
+    "description": "When this unit is hit, grants unit and nearby allies DR+.",
     "area": [
       7,
       8,
@@ -3447,7 +3447,7 @@
     "img": "TeamDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When an ally is defeated, decreases unit's HP.<br>When unit is defeated, inflicts 'Stunned' to all allies and removes all buffs.",
+    "description": "When an ally is defeated, decreases unit's HP.<br>When this unit is defeated, inflicts 'Stunned' to all allies and removes all buffs.",
     "area": [
       7,
       8,
@@ -3646,7 +3646,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's ATK / CRIT.<br>When affected by 3 or more ATK+ stacks, grants unit Ignore DR / Def Pen<br> When unit is hit, removes this effect.",
+    "description": "When this unit attacks, increases unit's ATK / CRIT.<br>When affected by 3 or more ATK+ stacks, grants unit Ignore DR / Def Pen<br> When this unit is hit, removes this effect.",
     "area": [
       5
     ]
@@ -3658,7 +3658,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, increases unit's EVA but decreases unit's ATK until the next attack.",
+    "description": "When this unit is hit, increases unit's EVA but decreases unit's ATK until the next attack.",
     "area": [
       5
     ]
@@ -3716,7 +3716,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit uses an Active Skill, increases AP and grants nearby allies ACC+ / EVA+.",
+    "description": "When this unit uses an Active Skill, increases AP and grants nearby allies ACC+ / EVA+.",
     "area": [
       7,
       8,
@@ -3760,7 +3760,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -3789,7 +3789,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -3818,7 +3818,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -3835,7 +3835,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -3905,7 +3905,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -3941,7 +3941,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -3982,7 +3982,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -4075,7 +4075,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -4131,7 +4131,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, a chance to grants allies 'Follow Up Attack'.<br>When unit is hit, increases unit's EVA. This effect can stacks up to 2 times.",
+    "description": "At the start of each round, a chance to grants allies 'Follow Up Attack'.<br>When this unit is hit, increases unit's EVA. This effect can stacks up to 2 times.",
     "area": [
       7,
       8,
@@ -4171,7 +4171,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, inflicts SPD- / 'Damage Taken Increased' but grants ATK+ / ACC+ too all allies.",
+    "description": "When this unit is defeated, inflicts SPD- / 'Damage Taken Increased' but grants ATK+ / ACC+ too all allies.",
     "area": [
       7,
       8,
@@ -4237,7 +4237,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit use an Active Skill, increases AP and grants nearby allies ACC+ / EVA+.",
+    "description": "When this unit use an Active Skill, increases AP and grants nearby allies ACC+ / EVA+.",
     "area": [
       7,
       8,
@@ -4294,7 +4294,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "Increases unit's EVA. The further unit is from the enemies, the higher the EVA buff.<br>When unit attacks, this effect is temporary removed for the round.",
+    "description": "Increases unit's EVA. The further unit is from the enemies, the higher the EVA buff.<br>When this unit attacks, this effect is temporary removed for the round.",
     "area": [
       5
     ]
@@ -4306,7 +4306,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, increases unit's SPD and 'Counterattack'. SPD buff can stack up to 3 times.",
+    "description": "When this unit is hit, increases unit's SPD and 'Counterattack'. SPD buff can stack up to 3 times.",
     "area": [
       5
     ]
@@ -4345,7 +4345,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit moves, grants nearby allies 'Follow Up Attack'.",
+    "description": "When this unit moves, grants nearby allies 'Follow Up Attack'.",
     "area": [
       8,
       4,
@@ -4424,7 +4424,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, grants nearby allies ACC+ / CRIT+ / Status Resist+. This ffect can stack up to 3 times.",
+    "description": "When this unit is hit, grants nearby allies ACC+ / CRIT+ / Status Resist+. This ffect can stack up to 3 times.",
     "area": [
       7,
       8,
@@ -4498,7 +4498,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, inflicts 'Wet' / SPD- and reduces AP of allies in Area of Effect",
+    "description": "When this unit is defeated, inflicts 'Wet' / SPD- and reduces AP of allies in Area of Effect",
     "area": [
       7,
       8,
@@ -4546,7 +4546,7 @@
     "img": "Shock",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit with an Electric Attack, increases unit's ATK / ACC / EVA / AP / SPD.",
+    "description": "When this unit is hit with an Electric Attack, increases unit's ATK / ACC / EVA / AP / SPD.",
     "area": [
       5
     ]
@@ -4558,7 +4558,7 @@
     "img": "Shock",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit while effected by 'Wet', unit takes fixed damage.<br>When unit is defeated while effected by 'Wet', deals Electric damages to allies in range.<br>If the ally affected by this effect is affected by 'Wet', also inflicts 'Stunned'.",
+    "description": "When this unit is hit while effected by 'Wet', unit takes fixed damage.<br>When this unit is defeated while effected by 'Wet', deals Electric damages to allies in range.<br>If the ally affected by this effect is affected by 'Wet', also inflicts 'Stunned'.",
     "area": [
       8,
       4,
@@ -4685,7 +4685,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, increases unit's DEF / SPD.<br>At the start of each round, if unit is affected by 5 or more 'Chick Willpower Activated' stacks, grants unit 'Battle Continuation'.<br>When 'Battle Continuation' triggers, takes minimal damage for 2 rounds but receives fixed damage that Ignore Barrier / DR.",
+    "description": "When this unit is hit, increases unit's DEF / SPD.<br>At the start of each round, if unit is affected by 5 or more 'Chick Willpower Activated' stacks, grants unit 'Battle Continuation'.<br>When 'Battle Continuation' triggers, takes minimal damage for 2 rounds but receives fixed damage that Ignore Barrier / DR.",
     "area": [
       5
     ]
@@ -4722,7 +4722,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's ATK / ACC but takes continuous DoT damage.",
+    "description": "When this unit attacks, increases unit's ATK / ACC but takes continuous DoT damage.",
     "area": [
       5
     ]
@@ -4734,7 +4734,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated in 'Output Limit Release' state, deals damage to surrounding allies and remove buffs.",
+    "description": "When this unit is defeated in 'Output Limit Release' state, deals damage to surrounding allies and remove buffs.",
     "area": [
       8,
       4,
@@ -4793,7 +4793,7 @@
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, inflict ACC- / Range- for 2 rounds to allies in Area of Effect.",
+    "description": "When this unit is defeated, inflict ACC- / Range- for 2 rounds to allies in Area of Effect.",
     "area": [
       7,
       8,
@@ -5026,7 +5026,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's CRIT but inflicts 'Damage Taken Increased'.",
+    "description": "When this unit attacks, increases unit's CRIT but inflicts 'Damage Taken Increased'.",
     "area": [
       5
     ]
@@ -5095,7 +5095,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit with Fire Attack, decreases unit's ATK / DEF / EVA / SPD and removes unit's 'Damage Minimize' buffs.",
+    "description": "When this unit is hit with Fire Attack, decreases unit's ATK / DEF / EVA / SPD and removes unit's 'Damage Minimize' buffs.",
     "area": [
       5
     ]
@@ -5150,7 +5150,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "Grants ACC+ to adjacent allies.<br>When unit is defeated, removes buffs and inflicts ACC- to affected allies.",
+    "description": "Grants ACC+ to adjacent allies.<br>When this unit is defeated, removes buffs and inflicts ACC- to affected allies.",
     "area": [
       8,
       4,
@@ -5165,7 +5165,7 @@
     "img": "Shock",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit while effected by 'Wet', unit takes fixed damage.<br>When unit is defeated while effected by 'Wet', deals Electric damages to allies in range.<br>If the ally affected by this effect is affected by 'Wet', also inflicts 'Stunned'.",
+    "description": "When this unit is hit while effected by 'Wet', unit takes fixed damage.<br>When this unit is defeated while effected by 'Wet', deals Electric damages to allies in range.<br>If the ally affected by this effect is affected by 'Wet', also inflicts 'Stunned'.",
     "area": [
       8,
       4,
@@ -5269,7 +5269,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, increases all allies AP / Status Resist.",
+    "description": "When this unit is hit, increases all allies AP / Status Resist.",
     "area": [
       7,
       8,
@@ -5305,7 +5305,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, inflicts all allies ATK- / CRIT- / ACC- / SPD- / 'Damage Taken Increased'.",
+    "description": "When this unit is defeated, inflicts all allies ATK- / CRIT- / ACC- / SPD- / 'Damage Taken Increased'.",
     "area": [
       7,
       8,
@@ -5360,7 +5360,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, grant unit  ACC+ / CRIT+ for 5 rounds.",
+    "description": "When this unit attacks, grant unit  ACC+ / CRIT+ for 5 rounds.",
     "area": [
       5
     ]
@@ -5372,7 +5372,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each wave, increase unit's DEF.<br>Effect is removed after unit is hit 5 times or when unit is hit with an Electric attack.",
+    "description": "At the start of each wave, increase unit's DEF.<br>Effect is removed after unit is hit 5 times or When this unit is hit with an Electric attack.",
     "area": [
       5
     ]
@@ -5408,7 +5408,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, if unit's HP is below 20%, increases unit's DEF / Status Resist. When unit is hit with an Electric Attack, removes this effect.",
+    "description": "At the start of each round, if unit's HP is below 20%, increases unit's DEF / Status Resist. When this unit is hit with an Electric Attack, removes this effect.",
     "area": [
       5
     ]
@@ -5579,7 +5579,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
+    "description": "When this unit is defeated, deals Fire damage to nearby allies and removes DR buffs.",
     "area": [
       8,
       4,
@@ -5769,7 +5769,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed below on the same column 'Follow Up Attack' / 'Target Protect' / EVA+.",
+    "description": "When this unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed below on the same column 'Follow Up Attack' / 'Target Protect' / EVA+.",
     "area": [
       5,
       2
@@ -5782,7 +5782,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
+    "description": "When this unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When this unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
     "area": [
       7,
       8,
@@ -5826,7 +5826,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed right above or below 'Follow Up Attack' / 'Target Protect' / EVA+.",
+    "description": "When this unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed right above or below 'Follow Up Attack' / 'Target Protect' / EVA+.",
     "area": [
       8,
       2
@@ -5839,7 +5839,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
+    "description": "When this unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When this unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
     "area": [
       7,
       8,
@@ -5883,7 +5883,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed above on the same column 'Follow Up Attack' / 'Target Protect' / EVA+.",
+    "description": "When this unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed above on the same column 'Follow Up Attack' / 'Target Protect' / EVA+.",
     "area": [
       8,
       5
@@ -5896,7 +5896,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
+    "description": "When this unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When this unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
     "area": [
       7,
       8,
@@ -5962,7 +5962,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, removes buffs from surrounding allies. <br> If this unit is affected by 3 or more ATK buff stacks from Super Neri(?), at the start of each round, grants Ignore Barrier / Ignore DR.",
+    "description": "When this unit is defeated, removes buffs from surrounding allies. <br> If this unit is affected by 3 or more ATK buff stacks from Super Neri(?), at the start of each round, grants Ignore Barrier / Ignore DR.",
     "area": [
       8,
       4,
@@ -6005,7 +6005,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "Lower unit's HP increases DMG dealt by unit and increase unit's DR.<br>Increases unit's 'Status Resist'<br>When unit is hit and unit's HP is below 10%, 'Counterattack'.",
+    "description": "Lower unit's HP increases DMG dealt by unit and increase unit's DR.<br>Increases unit's 'Status Resist'<br>When this unit is hit and unit's HP is below 10%, 'Counterattack'.",
     "area": [
       5
     ]
@@ -6029,7 +6029,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases allies' AP / ATK / ACC.",
+    "description": "When this unit attacks, increases allies' AP / ATK / ACC.",
     "area": [
       7,
       8,
@@ -6073,7 +6073,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 3 times.<br>Grants allies placed right above or below 'Follow Up Attack' / 'Target Protect' / EVA+.",
+    "description": "When this unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 3 times.<br>Grants allies placed right above or below 'Follow Up Attack' / 'Target Protect' / EVA+.",
     "area": [
       8,
       5,
@@ -6087,7 +6087,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit evades, 'Counterattack' and removes unit's EVA buffs.<br>When unit evades, grants allies in Area of Effect ATK+ / CRIT+ but inflicts ACC- / 'Damage Taken Increased' and removes 'Target Protect'.",
+    "description": "When this unit evades, 'Counterattack' and removes unit's EVA buffs.<br>When this unit evades, grants allies in Area of Effect ATK+ / CRIT+ but inflicts ACC- / 'Damage Taken Increased' and removes 'Target Protect'.",
     "area": [
       7,
       8,
@@ -6385,7 +6385,7 @@
     "img": "TeamDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, inflicts continuous DoT damage to unit and reduces unit's DEF.",
+    "description": "When this unit attacks, inflicts continuous DoT damage to unit and reduces unit's DEF.",
     "area": [
       7,
       8,
@@ -6404,7 +6404,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is attacked, takes only minimal damage.<br>At the start of each round, removes debuffs from nearby allies.",
+    "description": "When this unit is attacked, takes only minimal damage.<br>At the start of each round, removes debuffs from nearby allies.",
     "area": [
       7,
       9,
@@ -6420,7 +6420,7 @@
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit with a Fire Attack, inflicts 'Ignited' to unit.<br>When unit is defeated while affected by 'Ignited', deals damage to all allies in Area of Effect.",
+    "description": "When this unit is hit with a Fire Attack, inflicts 'Ignited' to unit.<br>When this unit is defeated while affected by 'Ignited', deals damage to all allies in Area of Effect.",
     "area": [
       7,
       8,
@@ -6468,7 +6468,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increase unit's SPD for 3 rounds.",
+    "description": "When this unit attacks, increase unit's SPD for 3 rounds.",
     "area": [
       5
     ]
@@ -6492,7 +6492,7 @@
     "img": "SelfAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit with an Electric Attack, inflicts ACC- for 2 rounds.",
+    "description": "When this unit is hit with an Electric Attack, inflicts ACC- for 2 rounds.",
     "area": [
       5
     ]
@@ -6592,7 +6592,7 @@
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, deals damage to nearby allies.",
+    "description": "When this unit is defeated, deals damage to nearby allies.",
     "area": [
       7,
       8,
@@ -6659,7 +6659,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is attacked, takes only minimal damage.<br>At the start of each round, removes debuffs from nearby allies.",
+    "description": "When this unit is attacked, takes only minimal damage.<br>At the start of each round, removes debuffs from nearby allies.",
     "area": [
       7,
       9,
@@ -6675,7 +6675,7 @@
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit with a Fire Attack, inflicts 'Ignited' to unit.<br>When unit is defeated while affected by 'Ignited', deals damage to all allies in Area of Effect.",
+    "description": "When this unit is hit with a Fire Attack, inflicts 'Ignited' to unit.<br>When this unit is defeated while affected by 'Ignited', deals damage to all allies in Area of Effect.",
     "area": [
       7,
       8,
@@ -6795,7 +6795,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each wave, increases AP and grants ACC+ / CRIT+ / Range+ to all allies.<br>When unit is hit with an Ice Attack, disables ACC / CRIT / Range buffs from this skill and inflicts ACC- / CRIT- for 2 rounds to all allies.",
+    "description": "At the start of each wave, increases AP and grants ACC+ / CRIT+ / Range+ to all allies.<br>When this unit is hit with an Ice Attack, disables ACC / CRIT / Range buffs from this skill and inflicts ACC- / CRIT- for 2 rounds to all allies.",
     "area": [
       7,
       8,
@@ -6815,7 +6815,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each wave, reduces AP and inflicts ACC- / CRIT- / Range- to all enemies.<br>When unit is hit with an Ice Attack, disables ACC / CRIT / Range debuffs from this skill and grants ACC+ / CRIT+ for 9 rounds to all enemies.",
+    "description": "At the start of each wave, reduces AP and inflicts ACC- / CRIT- / Range- to all enemies.<br>When this unit is hit with an Ice Attack, disables ACC / CRIT / Range debuffs from this skill and grants ACC+ / CRIT+ for 9 rounds to all enemies.",
     "area": [
       7,
       8,
@@ -6865,7 +6865,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's ATK.<br>At 3 stacks or higher, increases unit's EVA but receives DoT Damage at the end of the round.<br>When unit evades, grants unit ACC for 2 rounds.",
+    "description": "When this unit attacks, increases unit's ATK.<br>At 3 stacks or higher, increases unit's EVA but receives DoT Damage at the end of the round.<br>When this unit evades, grants unit ACC for 2 rounds.",
     "area": [
       5
     ]
@@ -6989,7 +6989,7 @@
     "img": "DefCounter",
     "range": 0,
     "AP": 0,
-    "description": "When unit evades, 'Counterattack'. When this effect tiggers, increases unit's CRIT for 3 rounds.",
+    "description": "When this unit evades, 'Counterattack'. When this effect tiggers, increases unit's CRIT for 3 rounds.",
     "area": [
       5
     ]
@@ -7048,7 +7048,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's SPD for 3 rounds.",
+    "description": "When this unit attacks, increases unit's SPD for 3 rounds.",
     "area": [
       5
     ]
@@ -7186,7 +7186,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of wach wave, grant unit DEF+. This effect can not be removed by buff removal. Removes this effect when unit is hit with a Fire Attack.",
+    "description": "At the start of wach wave, grant unit DEF+. This effect can not be removed by buff removal. Removes this effect When this unit is hit with a Fire Attack.",
     "area": [
       5
     ]
@@ -7418,7 +7418,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 모든 저항이 증가하며 해로운 효과를 해제합니다. When unit is hit, <칙 Shield 올리기> 효과가 발동해 2라운드 동안 방어력이 증가합니다. <칙 Shield 올리기> 방어력 중첩이 7 이상인 상태에서 추가 When unit is hit, 해당 효과를 해제하고 해당 라운드 동안 해제 불가능한 피해 최소화 / 반격 효과가 적용됩니다.",
+    "description": "라운드 개시 시, 모든 저항이 증가하며 해로운 효과를 해제합니다. When this unit is hit, <칙 Shield 올리기> 효과가 발동해 2라운드 동안 방어력이 증가합니다. <칙 Shield 올리기> 방어력 중첩이 7 이상인 상태에서 추가 When this unit is hit, 해당 효과를 해제하고 해당 라운드 동안 해제 불가능한 피해 최소화 / 반격 효과가 적용됩니다.",
     "area": [
       5
     ]
@@ -7605,7 +7605,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of the round, if unit is in the Middleline, grant allies in Area of Effect ACC+ / SPD+.<br>If unit is hit with an Electric attack when unit is in the Middleline, inflicts ATK- / DEF- to allies in Area of Effect for 2 rounds.",
+    "description": "At the start of the round, if unit is in the Middleline, grant allies in Area of Effect ACC+ / SPD+.<br>If unit is hit with an Electric attack When this unit is in the Middleline, inflicts ATK- / DEF- to allies in Area of Effect for 2 rounds.",
     "area": [
       8,
       5,
@@ -7675,7 +7675,7 @@
     "img": "TeamDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit with Fire Damage, inflicts DEF- / SPD- for 2 rounds to allies in Area of Effect.",
+    "description": "When this unit is hit with Fire Damage, inflicts DEF- / SPD- for 2 rounds to allies in Area of Effect.",
     "area": [
       7,
       8,
@@ -7694,7 +7694,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, increases unit's ATK but decreases unit's SPD for 2 rounds.",
+    "description": "When this unit is hit, increases unit's ATK but decreases unit's SPD for 2 rounds.",
     "area": [
       5
     ]
@@ -7906,7 +7906,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "속성 공격에 When unit is hit 3라운드 동안 해당 속성을 흡수하여 해당 속성의 저항력이 증가하지만 부작용으로 특정 속성의 저항력이 대폭 감소합니다.<br>화염 속성 흡수 시: 화염 저항력 소폭 증가, 냉기 저항력 대폭 감소<br>냉기 속성 흡수 시: 냉기 저항력 소폭 증가, 전기 저항력 대폭 감소<br>전기 속성 흡수 시: 전기 저항력 소폭 증가, 화염 저항력 대폭 감소",
+    "description": "속성 공격에 When this unit is hit 3라운드 동안 해당 속성을 흡수하여 해당 속성의 저항력이 증가하지만 부작용으로 특정 속성의 저항력이 대폭 감소합니다.<br>화염 속성 흡수 시: 화염 저항력 소폭 증가, 냉기 저항력 대폭 감소<br>냉기 속성 흡수 시: 냉기 저항력 소폭 증가, 전기 저항력 대폭 감소<br>전기 속성 흡수 시: 전기 저항력 소폭 증가, 화염 저항력 대폭 감소",
     "area": [
       5
     ]
@@ -8346,7 +8346,7 @@
     "img": "SelfSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, 높은 확률로 AP가 감소하며 낮은 확률로 쇼트가 생겨 행동 불능이 됩니다.",
+    "description": "When this unit is hit, 높은 확률로 AP가 감소하며 낮은 확률로 쇼트가 생겨 행동 불능이 됩니다.",
     "area": [
       5
     ]
@@ -8424,7 +8424,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit attacks, increases unit's ATK / CRIT.<br>When affected by 3 or more ATK+ stacks, grants unit Ignore DR / Def Pen<br> When unit is hit, removes this effect.",
+    "description": "When this unit attacks, increases unit's ATK / CRIT.<br>When affected by 3 or more ATK+ stacks, grants unit Ignore DR / Def Pen<br> When this unit is hit, removes this effect.",
     "area": [
       5
     ]
@@ -8436,7 +8436,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, increases unit's EVA but decreases unit's ATK until the next attack.",
+    "description": "When this unit is hit, increases unit's EVA but decreases unit's ATK until the next attack.",
     "area": [
       5
     ]
@@ -8687,7 +8687,7 @@
     "img": "Barrier",
     "range": 0,
     "AP": 0,
-    "description": "<불멸의 힘>으로 인해 불멸, 불멸의 대가가 적용됩니다. 불멸이 발동 시 사라져가는 불멸이 적용되고 3중첩 시 불멸의 힘이 사라지고 <최후의 힘>이 발동됩니다.<br><최후의 힘>이 발동 시 2라운드 동안 피해가 최소화 되며 When unit is hit 해로운 효과 해제, 매 라운드마다 일정 확률로 공격력 / 방어력 / 적중률 / Def Pen효과 / 속성 저항 능력들이 증가됩니다. 불멸과 최후의 힘으로 발동되는 능력들은 해제 불가합니다.<br><br>불멸 : 죽지 않습니다.    불멸의 대가 : 자신의 공격력이 대폭 감소합니다.",
+    "description": "<불멸의 힘>으로 인해 불멸, 불멸의 대가가 적용됩니다. 불멸이 발동 시 사라져가는 불멸이 적용되고 3중첩 시 불멸의 힘이 사라지고 <최후의 힘>이 발동됩니다.<br><최후의 힘>이 발동 시 2라운드 동안 피해가 최소화 되며 When this unit is hit 해로운 효과 해제, 매 라운드마다 일정 확률로 공격력 / 방어력 / 적중률 / Def Pen효과 / 속성 저항 능력들이 증가됩니다. 불멸과 최후의 힘으로 발동되는 능력들은 해제 불가합니다.<br><br>불멸 : 죽지 않습니다.    불멸의 대가 : 자신의 공격력이 대폭 감소합니다.",
     "area": [
       5
     ]
@@ -8834,7 +8834,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, grants nearby allies ACC+ / CRIT+ / Status Resist+. This ffect can stack up to 3 times.",
+    "description": "When this unit is hit, grants nearby allies ACC+ / CRIT+ / Status Resist+. This ffect can stack up to 3 times.",
     "area": [
       7,
       8,
@@ -8970,7 +8970,7 @@
     "img": "SelfDefBuff",
     "range": "0",
     "AP": "0",
-    "description": "When unit is hit, increases unit's DEF / SPD.<br>At the start of each round, if unit is affected by 5 or more 'Chick Willpower Activated' stacks, grants unit 'Battle Continuation'.<br>When 'Battle Continuation' triggers, takes minimal damage for 2 rounds but receives fixed damage that Ignore Barrier / DR.",
+    "description": "When this unit is hit, increases unit's DEF / SPD.<br>At the start of each round, if unit is affected by 5 or more 'Chick Willpower Activated' stacks, grants unit 'Battle Continuation'.<br>When 'Battle Continuation' triggers, takes minimal damage for 2 rounds but receives fixed damage that Ignore Barrier / DR.",
     "area": [
       5
     ]
@@ -9581,7 +9581,7 @@
     "img": "TeamAtkDeBuff",
     "range": "0",
     "AP": "0",
-    "description": "When unit is defeated, increases all allies SPD / ATK / CRIT for 2 rounds, but decreases ACC.",
+    "description": "When this unit is defeated, increases all allies SPD / ATK / CRIT for 2 rounds, but decreases ACC.",
     "area": [
       7,
       8,
@@ -9817,7 +9817,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, if unit's HP is below 20%, increases unit's DEF / Status Resist. When unit is hit with a Fire Attack, removes this effect.",
+    "description": "At the start of each round, if unit's HP is below 20%, increases unit's DEF / Status Resist. When this unit is hit with a Fire Attack, removes this effect.",
     "area": [
       5
     ]
@@ -9842,7 +9842,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each wave, increase unit's DEF.<br>Effect is removed after unit is hit2 times or when unit is hit with a Fire attack.",
+    "description": "At the start of each wave, increase unit's DEF.<br>Effect is removed after unit is hit2 times or When this unit is hit with a Fire attack.",
     "area": [
       5
     ]
@@ -10316,7 +10316,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of wave, grants unit AP+ / DR+.<br> When unit is attacked, grants unit EVA+ that increases the further back unit is.<br>When unit is attacked by Ice Damage, removes EVA+ buffs and inflicts EVA- to unit.",
+    "description": "At the start of wave, grants unit AP+ / DR+.<br> When this unit is attacked, grants unit EVA+ that increases the further back unit is.<br>When this unit is attacked by Ice Damage, removes EVA+ buffs and inflicts EVA- to unit.",
     "area": [
       5
     ]
@@ -10328,7 +10328,7 @@
     "img": "DefCounter",
     "range": 0,
     "AP": 0,
-    "description": "When unit evades, 'Counterattack' and grants unit AP+ / CRIT+ / 'Fatal Counterattack' buff.<br>At the start of round, if unit is affected by 3 or more stacks of 'Fatal Counterattack', grants unit Ignore Barrier / Ignore DR.",
+    "description": "When this unit evades, 'Counterattack' and grants unit AP+ / CRIT+ / 'Fatal Counterattack' buff.<br>At the start of round, if unit is affected by 3 or more stacks of 'Fatal Counterattack', grants unit Ignore Barrier / Ignore DR.",
     "area": [
       5
     ]
@@ -11059,7 +11059,7 @@
     "img": "SelfAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit with Fire Attack, decreases unit's ATK / DEF / SPD and inflicts self 'Ignited' / Fire DoT damage.",
+    "description": "When this unit is hit with Fire Attack, decreases unit's ATK / DEF / SPD and inflicts self 'Ignited' / Fire DoT damage.",
     "area": [
       5
     ]
@@ -11134,7 +11134,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is defeated, inflict allies in Area of Effect 'Wet', and set their AP to 8.",
+    "description": "When this unit is defeated, inflict allies in Area of Effect 'Wet', and set their AP to 8.",
     "area": [
       1,
       2,
@@ -11451,7 +11451,7 @@
     "img": "DefCounter",
     "range": 0,
     "AP": 0,
-    "description": "After unit attack, inflict self EVA- until the end of round. When unit evades, 'Counterattack'.",
+    "description": "After unit attack, inflict self EVA- until the end of round. When this unit evades, 'Counterattack'.",
     "area": [
       5
     ]
@@ -11689,7 +11689,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, inflict great damage to allies around it, and remove affected allies' DR.",
+    "description": "When this unit is defeated, inflict great damage to allies around it, and remove affected allies' DR.",
     "area": [
       8,
       4,
@@ -11761,7 +11761,7 @@
     "range": 0,
     "AP": 0,
     "attr": "fire",
-    "description": "When unit is defeated, inflict great damage to allies around it, and remove affected allies' DR.",
+    "description": "When this unit is defeated, inflict great damage to allies around it, and remove affected allies' DR.",
     "area": [
       1,
       2,
@@ -12152,11 +12152,11 @@
   "RheinRitter_Ev121_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "Arc Firing System",
+    "name": "Support Firing System",
     "img": "CannonShotDelay",
     "range": 0,
     "AP": 0,
-    "description": "At the start of rounds, grants Defender allies in Area of Effect 'Follow Up Attack'.<br>When unit is defeated, grants AP+ / SPD+ to allies in Area of Effect.",
+    "description": "At the start of rounds, grants Defender allies in Area of Effect 'Follow Up Attack'.<br>When this unit is defeated, grants AP+ / SPD+ to allies in Area of Effect.",
     "area": [
       1,
       2,
@@ -12181,7 +12181,7 @@
   "Goltarion_Ev121_1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Inspection Designation",
+    "name": "Direct Challenge",
     "img": "WideSwordAttk",
     "range": 6,
     "AP": 2,
@@ -12205,7 +12205,7 @@
   "Goltarion_Ev121_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "Spare Recovery Device",
+    "name": "Spare Recovery System",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
@@ -12217,7 +12217,7 @@
   "Goltarion2_Ev121_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Final head Cut",
+    "name": "Finishing HeadCut",
     "img": "SwordAttk",
     "range": 4,
     "AP": 4,
@@ -12231,7 +12231,7 @@
   "Goltarion2_Ev121_1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Inspection Designation",
+    "name": "Direct Challenge",
     "img": "WideSwordAttk",
     "range": 6,
     "AP": 2,
@@ -12255,7 +12255,7 @@
   "Goltarion2_Ev121_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "Spare Recovery Device",
+    "name": "Spare Recovery System",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
@@ -12267,7 +12267,7 @@
   "Goltarion2_Ev121_1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "Prepare Order",
+    "name": "Preparation Order",
     "img": "Command",
     "range": 0,
     "AP": 0,
