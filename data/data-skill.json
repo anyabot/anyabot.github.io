@@ -11536,7 +11536,7 @@
     "range": 4,
     "AP": 6,
     "attr": "electric",
-    "description": "Deals $(1.8) Ice Damage to target area<br>If the target is affected by EVA-, remove DR buffs.",
+    "description": "Deals $(1.8) Electric Damage to target area<br>If the target is affected by EVA-, remove DR buffs.",
     "area": [
       4,
       5
@@ -11557,7 +11557,7 @@
   "FryerShell_Ev101_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "Charging Device",
+    "name": "Charging System",
     "img": "Shock",
     "range": 0,
     "AP": 0,
@@ -12169,7 +12169,7 @@
   "Goltarion_Ev121_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Head Cut",
+    "name": "Beheading",
     "img": "SwordAttk",
     "range": 4,
     "AP": 4,
@@ -12217,7 +12217,7 @@
   "Goltarion2_Ev121_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Finishing HeadCut",
+    "name": "Sacrificial Beheading",
     "img": "SwordAttk",
     "range": 4,
     "AP": 4,
@@ -12291,7 +12291,7 @@
     "img": "SwordAttk",
     "range": 4,
     "AP": 10,
-    "description": "Deals $(1) damage to a single target and 90% less damage to surrounding areas. Inflicts 'Damage Multiplier' -50% / -75% / -100% for Light / Flying / Heavy enemies.",
+    "description": "Deals $(1) damage to a single target and 90% less damage to surrounding areas. Inflicts 'Skill Multiplier' -50% / -75% / -100% for Light / Flying / Heavy enemies.",
     "area": [
       5
     ]
@@ -12328,6 +12328,280 @@
     "range": 0,
     "AP": 0,
     "description": "At the start of wave, grant self Ignore Barrier / DR. When below 50% HP, 'Counterattack' once per round.",
+    "area": [
+      5
+    ]
+	},
+  "AzazelAlter_Ev122_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Glow of Dark Light",
+    "img": "Particle",
+    "range": 8,
+    "AP": 7,
+    "description": "Deals $(1) damage to target area, and 50% less damage to non-main targets.<br>Inflict 300 DoT / ATK -30% / SPD-20% for 2 rounds.<br>If targets are not affected by Azazel's 'Guardian Angel' (A2) or 'Divine Protection' (P1), also inflict AP-4.",
+    "area": [
+      0.5,
+      0.5,
+      0,
+      0.5,
+      1,
+      0,
+      0.5,
+      0.5,
+      0
+    ]
+  },
+  "AzazelAlter_Ev122_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "True Salvation",
+    "img": "SatelliteBeam",
+    "range": 8,
+    "AP": 9,
+    "description": "Uses when affected by 'False Tower of Light'.<br>Deals $(1.4) damage to target area that Ignore Protect.<br>If targets are not affected by Azazel's 'Guardian Angel' (A2) or 'Divine Protection' (P1), deal Additional DMG +300%.",
+    "area": [
+      2,
+      4,
+      5,
+      6,
+      8
+    ]
+  },
+  "AzazelAlter_Ev122_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Martyrdom",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, inflict allies in AoE 'Marked', and when the allies in AoE are destroyed, grant self ATK+.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "AzazelAlter_Ev122_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Misaligned Advent",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, grant self unremovable 'Minimize Damage'(3 times), but when hit by 'Kouhei Church' members, remove the effect immediately.<br>At the start of round, if HP is below 30%, remove all debuffs from self.",
+    "area": [
+      5
+    ]
+  },
+  "AzazelAlter_Ev122_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Blood and Resentment",
+    "img": "Chargeshot",
+    "range": 0,
+    "AP": 0,
+    "description": "When hit, grant self 'Blood and Resentment' stack.<br>At the start of round, if affected by 4 stacks of 'Blood and Resentment', grant self 'False Tower of Light' buff (ATK+15%/SPD+15%?) and uses 'True Salvation'",
+    "area": [
+      5
+    ]
+  },
+  "DryerHead_Ev122_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Incinerator",
+    "img": "FireShot",
+    "range": 4,
+    "AP": 4,
+    "attr": "fire",
+    "description": "Deals $(1) Fire damage to a single target, and inflict 'Marked' / Fire Resist- for 2 rounds.",
+    "area": [
+      5
+    ]
+  },
+  "DryerHead_Ev122_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Silicone Carbiding",
+    "img": "DefCounter",
+    "range": 6,
+    "AP": 4,
+    "description": "Mark self for 5 rounds and increase self Fire Resist / Electric Resist / SPD.",
+    "area": [
+      5
+    ]
+  },
+  "DryerHead_Ev122_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Spreading Heat",
+    "img": "TeamDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At start of round, increase Fire Resist / Electric Resist of allies in Area of Effect and grant Dryer-type allies 'Follow Up Attack' (including self).",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "DryerHead_Ev122_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Flame Radiation",
+    "img": "WideFireShot",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, inflict enemies in AoE 'Ignited' / DEF Pen-. reduction.<br>DEF Pen. reduction effect decrease every round.<br>Inflict 'Ignited' to all allies when destroyed.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "DryerHead_Ev122_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Commanding Entity",
+    "img": "Command",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of wave, if there's 3 or more enemy AGS, grant AP to allies in AoE.<br>At the start of wave, if there's 3 or more enemy Bioroids, inflict enemies in AoE unremovable DEF Pen. reduction.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "DryerShell_Ev122_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Incinerator",
+    "img": "FireShot",
+    "range": 3,
+    "AP": 4,
+    "attr": "fire",
+    "description": "Deal $(1) Fire damage to a single target.<br>Additonal Fire DMG+ to targets affected by 'Ignited'.",
+    "area": [
+      5
+    ]
+  },
+  "DryerShell_Ev122_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Flame Strike",
+    "img": "WideFireShot",
+    "range": 4,
+    "AP": 6,
+    "attr": "fire",
+    "description": "Deals $(1.5) Fire Damage to target area<br>If the target is affected by 'Ignited', remove DR buffs.",
+    "area": [
+      4,
+      5
+    ]
+  },
+  "DryerShell_Ev122_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Connection Status",
+    "img": "SelfAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, if there's Dryer Head in the same squad, grant self ATK+ / CRIT+ / ACC+.",
+    "area": [
+      5
+    ]
+  },
+  "DryerShell_Ev122_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Firing System",
+    "img": "FireShot",
+    "range": 0,
+    "AP": 0,
+    "description": "At start of round, grant unit SPD+ / Status Resist+ if unit is affected by 'Ignited'.",
+    "area": [
+      5
+    ]
+  },
+  "DryerShooter_Ev122_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Incinerator",
+    "img": "FireShot",
+    "range": 3,
+    "AP": 4,
+    "attr": "fire",
+    "description": "Deals $(1) Fire Damage to a single target and inflict ATK- / 'Ignited' / 'Damage Taken Increased'.",
+    "area": [
+      5
+    ]
+  },
+  "DryerShooter_Ev122_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Incendiary Bomb",
+    "img": "GrenadeAttack_1",
+    "range": 4,
+    "AP": 5,
+    "attr": "fire",
+    "description": "Deals $(0.5) Fire Damage to target area, inflicts 'Damage Taken Increased' for 2 rounds. If the target is affected by EVA-, inflict Status Resist-.",
+    "area": [
+      4,
+      5
+    ]
+  },
+  "DryerShooter_Ev122_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Bio Radar",
+    "img": "AWACS",
+    "range": 0,
+    "AP": 0,
+    "description": "At start of round, grants allies in Area of Effect ATK+ / CRIT+ / SPD+. Effects are increased each time Dryer Shooter attacks an enemy.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "DryerShooter_Ev122_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Firing System",
+    "img": "FireShot",
+    "range": 0,
+    "AP": 0,
+    "description": "At start of round, grant unit SPD+ / Status Resist+ if unit is affected by 'Ignited'.",
     "area": [
       5
     ]
