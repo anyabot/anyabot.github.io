@@ -453,12 +453,12 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "NightChickEX_TU",
-              "level": 1
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
             },
-            {
-              "index": "NightChickEX_TU",
-              "level": 1
+			{
+              "index": "EmperorChickSpCH_Ch",
+              "level": 50
             },
             {
               "index": "",
