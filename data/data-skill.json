@@ -7228,7 +7228,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each wave, increases AP of allies in Area of Effect.<br>At the start of each round, grants allies in Area of Effect ACC+ / Anti-Light DMG+ and removes ACC debuffs.",
+    "description": "At the start of each wave, increases AP of allies in Area of Effect.<br>At the start of each round, grants allies in Area of Effect ACC+ / Anti-Flying DMG+ and removes ACC debuffs.",
     "area": [
       7,
       8,
