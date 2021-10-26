@@ -652,7 +652,7 @@
               "level": 33
             },
             {
-              "index": "LightningBomberP_Ev102_1",
+              "index": "LightningBomberMP_N",
               "level": 23
             },
             {
@@ -697,7 +697,7 @@
               "level": 33
             },
             {
-              "index": "LightningBomberP_Ev102_1",
+              "index": "LightningBomberMP_N",
               "level": 23
             },
             {
@@ -722,7 +722,7 @@
               "level": 34
             },
             {
-              "index": "LightningBomberP_Ev102_1",
+              "index": "LightningBomberMP_N",
               "level": 24
             },
             {
@@ -746,7 +746,7 @@
               "level": 34
             },
             {
-              "index": "LightningBomberP_Ev102_1",
+              "index": "LightningBomberMP_N",
               "level": 24
             },
             {
@@ -985,15 +985,15 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "LightningBomberP_Ev101_1",
+              "index": "LightningBomberMP_TU4",
               "level": 60
             },
             {
-              "index": "FryerShooter_Ev101_1",
+              "index": "FryerShooter_TU3",
               "level": 60
             },
             {
-              "index": "FryerHead_Ev101_1",
+              "index": "FryerHead_TU3",
               "level": 60
             },
             {
@@ -1009,15 +1009,15 @@
               "level": 0
             },
             {
-              "index": "LightningBomberP_Ev101_1",
+              "index": "LightningBomberMP_TU4",
               "level": 60
             },
             {
-              "index": "FryerShooter_Ev101_1",
+              "index": "FryerShooter_TU3",
               "level": 60
             },
             {
-              "index": "FryerHead_Ev101_1",
+              "index": "FryerHead_TU3",
               "level": 60
             }
           ]
@@ -1026,19 +1026,11 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "LightningBomberP_Ev101_1",
+              "index": "LightningBomberMP_TU4",
               "level": 60
             },
             {
-              "index": "FryerShooter_Ev101_1",
-              "level": 60
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShooter_TU3",
               "level": 60
             },
             {
@@ -1046,15 +1038,23 @@
               "level": 0
             },
             {
-              "index": "FryerHead_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 60
             },
             {
-              "index": "LightningBomberP_Ev101_1",
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "FryerHead_TU3",
               "level": 60
             },
             {
-              "index": "FryerShooter_Ev101_1",
+              "index": "LightningBomberMP_TU4",
+              "level": 60
+            },
+            {
+              "index": "FryerShooter_TU3",
               "level": 60
             },
             {
@@ -1067,11 +1067,11 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "LightningBomberP_Ev101_1",
+              "index": "LightningBomberMP_TU4",
               "level": 60
             },
             {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 60
             },
             {
@@ -1079,7 +1079,7 @@
               "level": 0
             },
             {
-              "index": "FryerShooter_Ev101_1",
+              "index": "FryerShooter_TU3",
               "level": 60
             },
             {
@@ -1087,15 +1087,15 @@
               "level": 60
             },
             {
-              "index": "FryerHead_Ev101_1",
+              "index": "FryerHead_TU3",
               "level": 60
             },
             {
-              "index": "LightningBomberP_Ev101_1",
+              "index": "LightningBomberMP_TU4",
               "level": 60
             },
             {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 60
             },
             {
@@ -1108,19 +1108,19 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "FryerShooter_Ev101_1",
+              "index": "FryerShooter_TU3",
               "level": 60
             },
             {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 60
             },
             {
-              "index": "FryerHead_Ev101_1",
+              "index": "FryerHead_TU3",
               "level": 60
             },
             {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 60
             },
             {
@@ -1132,15 +1132,15 @@
               "level": 0
             },
             {
-              "index": "FryerShooter_Ev101_1",
+              "index": "FryerShooter_TU3",
               "level": 60
             },
             {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 60
             },
             {
-              "index": "FryerHead_Ev101_1",
+              "index": "FryerHead_TU3",
               "level": 60
             }
           ]
@@ -1149,19 +1149,19 @@
           "title": "wave5",
           "enemylist": [
             {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 65
             },
             {
-              "index": "FryerHead_Ev101_1",
+              "index": "FryerHead_TU3",
               "level": 65
             },
             {
-              "index": "LightningBomberP_Ev101_1",
+              "index": "LightningBomberMP_TU4",
               "level": 65
             },
             {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 65
             },
             {
@@ -1173,15 +1173,15 @@
               "level": 65
             },
             {
-              "index": "FryerShell_Ev101_1",
+              "index": "FryerShell_TU3",
               "level": 65
             },
             {
-              "index": "FryerHead_Ev101_1",
+              "index": "FryerHead_TU3",
               "level": 65
             },
             {
-              "index": "LightningBomberP_Ev101_1",
+              "index": "LightningBomberMP_TU4",
               "level": 65
             }
           ]

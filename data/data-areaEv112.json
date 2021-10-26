@@ -1261,7 +1261,7 @@
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1269,11 +1269,11 @@
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1294,7 +1294,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1318,7 +1318,7 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1335,11 +1335,11 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
@@ -1351,7 +1351,7 @@
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1359,11 +1359,11 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
@@ -1376,7 +1376,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             },
             {
@@ -1384,7 +1384,7 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             },
             {
@@ -1392,7 +1392,7 @@
               "level": 65
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             },
             {
@@ -1436,7 +1436,7 @@
               "level": 65
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             },
             {
@@ -1444,11 +1444,11 @@
               "level": 65
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 65
             },
             {
@@ -1473,11 +1473,11 @@
               "level": 65
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 65
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             },
             {
@@ -1485,11 +1485,11 @@
               "level": 0
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 65
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             },
             {
@@ -1518,7 +1518,7 @@
               "level": 0
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 65
             },
             {
@@ -1526,7 +1526,7 @@
               "level": 0
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 65
             },
             {
@@ -1538,11 +1538,11 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 65
             }
           ]
@@ -1559,7 +1559,7 @@
               "level": 70
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 70
             },
             {
@@ -1567,11 +1567,11 @@
               "level": 70
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 70
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 70
             },
             {
@@ -1579,11 +1579,11 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 70
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 70
             }
           ]
@@ -1611,7 +1611,7 @@
               "level": 70
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 70
             },
             {
@@ -1652,7 +1652,7 @@
               "level": 70
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 70
             },
             {
@@ -1664,7 +1664,7 @@
               "level": 70
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 70
             },
             {
@@ -1689,19 +1689,19 @@
               "level": 70
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 70
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 70
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 70
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 70
             },
             {
@@ -1709,7 +1709,7 @@
               "level": 0
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 70
             },
             {
@@ -1738,27 +1738,27 @@
               "level": 75
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 75
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 75
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 75
             },
             {
-              "index": "ScoutAK_Ev112_1",
+              "index": "ScoutAK_TU4",
               "level": 75
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 75
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 75
             }
           ]

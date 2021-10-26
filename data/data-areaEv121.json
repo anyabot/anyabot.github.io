@@ -603,7 +603,7 @@
               "level": 0
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 37
             },
             {
@@ -627,7 +627,7 @@
               "level": 0
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 37
             }
           ]
@@ -693,11 +693,11 @@
               "level": 0
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 38
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 38
             },
             {
@@ -916,7 +916,7 @@
               "level": 39
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 39
             },
             {
@@ -949,7 +949,7 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 39
             },
             {
@@ -957,7 +957,7 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 39
             },
             {
@@ -965,7 +965,7 @@
               "level": 39
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 39
             },
             {
@@ -973,7 +973,7 @@
               "level": 0
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 39
             },
             {
@@ -994,11 +994,11 @@
               "level": 39
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 39
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 39
             },
             {
@@ -1018,7 +1018,7 @@
               "level": 39
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 39
             }
           ]
@@ -1031,11 +1031,11 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 40
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 40
             },
             {
@@ -1055,11 +1055,11 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 40
             },
             {
-              "index": "RheinRitter_Ev121_1",
+              "index": "RheinRitter_N",
               "level": 40
             }
           ]
@@ -1879,7 +1879,7 @@
               "level": 55
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 55
             },
             {
@@ -1903,7 +1903,7 @@
               "level": 55
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 55
             }
           ]
@@ -1912,7 +1912,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 55
             },
             {
@@ -1920,7 +1920,7 @@
               "level": 0
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 55
             },
             {
@@ -1936,7 +1936,7 @@
               "level": 55
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 55
             },
             {
@@ -1944,7 +1944,7 @@
               "level": 0
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 55
             }
           ]
@@ -1957,19 +1957,19 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 55
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 55
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 55
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 55
             },
             {
@@ -1985,7 +1985,7 @@
               "level": 55
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 55
             }
           ]
@@ -1994,11 +1994,11 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
@@ -2014,15 +2014,15 @@
               "level": 58
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
@@ -2054,7 +2054,7 @@
               "level": 58
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             },
             {
@@ -2078,7 +2078,7 @@
               "level": 58
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             }
           ]
@@ -2087,7 +2087,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
@@ -2095,7 +2095,7 @@
               "level": 58
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             },
             {
@@ -2111,7 +2111,7 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
@@ -2119,7 +2119,7 @@
               "level": 58
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             }
           ]
@@ -2132,11 +2132,11 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             },
             {
@@ -2156,11 +2156,11 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             }
           ]
@@ -2169,7 +2169,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
@@ -2185,15 +2185,15 @@
               "level": 0
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 58
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 58
             },
             {
@@ -2214,11 +2214,11 @@
               "level": 60
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 60
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 60
             },
             {
@@ -2230,7 +2230,7 @@
               "level": 0
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 60
             },
             {
@@ -2238,11 +2238,11 @@
               "level": 60
             },
             {
-              "index": "Goltarion_Ev121_2",
+              "index": "Goltarion_TU",
               "level": 60
             },
             {
-              "index": "RheinRitter_Ev121_2",
+              "index": "RheinRitter_TU4",
               "level": 60
             }
           ]
@@ -2315,7 +2315,7 @@
               "level": 0
             },
             {
-              "index": "BlackKnight_Ev121_1",
+              "index": "BlackKnight_TU3",
               "level": 60
             },
             {
@@ -2356,7 +2356,7 @@
               "level": 0
             },
             {
-              "index": "BlackKnight_Ev121_2",
+              "index": "BlackKnight_TU4",
               "level": 65
             },
             {

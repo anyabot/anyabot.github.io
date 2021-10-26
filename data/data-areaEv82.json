@@ -205,7 +205,7 @@
               "level": 0
             },
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 36
             },
             {
@@ -234,7 +234,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 36
             },
             {
@@ -258,7 +258,7 @@
               "level": 26
             },
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 36
             },
             {
@@ -287,7 +287,7 @@
               "level": 28
             },
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 38
             },
             {
@@ -514,7 +514,7 @@
               "level": 0
             },
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 40
             },
             {
@@ -543,7 +543,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 40
             },
             {
@@ -567,7 +567,7 @@
               "level": 0
             },
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 40
             },
             {
@@ -584,7 +584,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 42
             },
             {
@@ -596,7 +596,7 @@
               "level": 32
             },
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 42
             },
             {
@@ -608,7 +608,7 @@
               "level": 32
             },
             {
-              "index": "Fortress_Ev81_1",
+              "index": "Fortress_TU2",
               "level": 42
             },
             {

@@ -607,7 +607,7 @@
               "level": 33
             },
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 23
             },
             {
@@ -677,7 +677,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 24
             },
             {
@@ -701,7 +701,7 @@
               "level": 0
             },
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 24
             },
             {
@@ -786,7 +786,7 @@
               "level": 24
             },
             {
-              "index": "FridgerShell_Ev92_1",
+              "index": "FridgerShell_N",
               "level": 14
             },
             {
@@ -819,7 +819,7 @@
               "level": 35
             },
             {
-              "index": "FridgerShell_Ev92_1",
+              "index": "FridgerShell_N",
               "level": 15
             },
             {
@@ -843,7 +843,7 @@
               "level": 35
             },
             {
-              "index": "FridgerShell_Ev92_1",
+              "index": "FridgerShell_N",
               "level": 15
             }
           ]
@@ -916,7 +916,7 @@
               "level": 0
             },
             {
-              "index": "FridgerShooter_Ev92_1",
+              "index": "FridgerShooter_N",
               "level": 15
             },
             {
@@ -945,7 +945,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "FridgerShooter_Ev92_1",
+              "index": "FridgerShooter_N",
               "level": 16
             },
             {
@@ -969,7 +969,7 @@
               "level": 16
             },
             {
-              "index": "FridgerShooter_Ev92_1",
+              "index": "FridgerShooter_N",
               "level": 16
             },
             {
@@ -1009,7 +1009,7 @@
               "level": 0
             },
             {
-              "index": "FridgerShooter_Ev92_1",
+              "index": "FridgerShooter_N",
               "level": 16
             },
             {
@@ -1054,7 +1054,7 @@
               "level": 36
             },
             {
-              "index": "FridgerShell_Ev92_1",
+              "index": "FridgerShell_N",
               "level": 16
             },
             {
@@ -1083,7 +1083,7 @@
               "level": 0
             },
             {
-              "index": "FridgerShooter_Ev92_1",
+              "index": "FridgerShooter_N",
               "level": 17
             },
             {
@@ -1095,7 +1095,7 @@
               "level": 17
             },
             {
-              "index": "FridgerShell_Ev92_1",
+              "index": "FridgerShell_N",
               "level": 17
             },
             {
@@ -1107,7 +1107,7 @@
               "level": 0
             },
             {
-              "index": "FridgerShooter_Ev92_1",
+              "index": "FridgerShooter_N",
               "level": 17
             },
             {
@@ -1666,7 +1666,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 60
             },
             {
@@ -1682,15 +1682,15 @@
               "level": 60
             },
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 60
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 60
             },
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 60
             },
             {
@@ -1711,7 +1711,7 @@
               "level": 60
             },
             {
-              "index": "ChillerHV_Ev92_1",
+              "index": "ChillerEX_TU4",
               "level": 60
             },
             {
@@ -1719,11 +1719,11 @@
               "level": 0
             },
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 60
             },
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 60
             },
             {
@@ -1731,15 +1731,15 @@
               "level": 0
             },
             {
-              "index": "ChillerHV_Ev92_1",
+              "index": "ChillerEX_TU4",
               "level": 60
             },
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 60
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 60
             }
           ]
@@ -1748,7 +1748,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 60
             },
             {
@@ -1756,7 +1756,7 @@
               "level": 0
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 60
             },
             {
@@ -1764,7 +1764,7 @@
               "level": 60
             },
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 60
             },
             {
@@ -1793,19 +1793,19 @@
               "level": 65
             },
             {
-              "index": "ChillerHV_Ev92_1",
+              "index": "ChillerEX_TU4",
               "level": 65
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 65
             },
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 65
             },
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 65
             },
             {
@@ -1817,11 +1817,11 @@
               "level": 65
             },
             {
-              "index": "ChillerHV_Ev92_1",
+              "index": "ChillerEX_TU4",
               "level": 65
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 65
             }
           ]
@@ -1845,11 +1845,11 @@
               "level": 0
             },
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 65
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 65
             },
             {
@@ -1869,11 +1869,11 @@
               "level": 0
             },
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 65
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 65
             }
           ]
@@ -1882,11 +1882,11 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "ChillerHV_Ev92_1",
+              "index": "ChillerEX_TU4",
               "level": 65
             },
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 65
             },
             {
@@ -1902,15 +1902,15 @@
               "level": 65
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 65
             },
             {
-              "index": "ChillerHV_Ev92_1",
+              "index": "ChillerEX_TU4",
               "level": 65
             },
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 65
             },
             {
@@ -1923,7 +1923,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 65
             },
             {
@@ -1931,7 +1931,7 @@
               "level": 65
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 65
             },
             {
@@ -1939,7 +1939,7 @@
               "level": 0
             },
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 65
             },
             {
@@ -1947,7 +1947,7 @@
               "level": 0
             },
             {
-              "index": "FridgerShooter_Ev91_1",
+              "index": "FridgerShooter_TU3",
               "level": 65
             },
             {
@@ -1955,7 +1955,7 @@
               "level": 65
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 65
             }
           ]
@@ -1964,19 +1964,19 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 70
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 70
             },
             {
-              "index": "ChillerHV_Ev92_1",
+              "index": "ChillerEX_TU4",
               "level": 70
             },
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 70
             },
             {
@@ -1988,15 +1988,15 @@
               "level": 70
             },
             {
-              "index": "FridgerShell_Ev91_1",
+              "index": "FridgerShell_TU3",
               "level": 70
             },
             {
-              "index": "FridgerHead_Ev91_1",
+              "index": "FridgerHead_TU3",
               "level": 70
             },
             {
-              "index": "ChillerHV_Ev92_1",
+              "index": "ChillerEX_TU4",
               "level": 70
             }
           ]
@@ -2032,7 +2032,7 @@
               "level": 0
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 70
             },
             {
@@ -2114,7 +2114,7 @@
               "level": 70
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 70
             },
             {
@@ -2163,7 +2163,7 @@
               "level": 110
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 70
             },
             {

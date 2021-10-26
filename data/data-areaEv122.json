@@ -339,7 +339,7 @@
               "level": 37
             },
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 37
             },
             {
@@ -368,7 +368,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 38
             },
             {
@@ -392,7 +392,7 @@
               "level": 0
             },
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 38
             },
             {
@@ -432,7 +432,7 @@
               "level": 0
             },
             {
-              "index": "BlackKnight_Ev121_3",
+              "index": "BlackKnight_N",
               "level": 1
             },
             {
@@ -647,7 +647,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 41
             },
             {
@@ -671,7 +671,7 @@
               "level": 0
             },
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 41
             },
             {
@@ -708,7 +708,7 @@
               "level": 42
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 42
             },
             {
@@ -781,7 +781,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 43
             },
             {
@@ -797,7 +797,7 @@
               "level": 0
             },
             {
-              "index": "Fortress_Ev91_1",
+              "index": "Fortress_TU3",
               "level": 43
             },
             {
@@ -842,7 +842,7 @@
               "level": 0
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 44
             },
             {
@@ -874,7 +874,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 25
             },
             {
@@ -898,7 +898,7 @@
               "level": 25
             },
             {
-              "index": "Goltarion_Ev121_1",
+              "index": "Goltarion_N",
               "level": 25
             },
             {
@@ -1465,7 +1465,7 @@
               "level": 60
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 60
             },
             {
@@ -1489,7 +1489,7 @@
               "level": 60
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 60
             },
             {
@@ -1510,7 +1510,7 @@
               "level": 62
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 62
             },
             {
@@ -1534,7 +1534,7 @@
               "level": 62
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 62
             }
           ]
@@ -1543,11 +1543,11 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 63
             },
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 63
             },
             {
@@ -1567,11 +1567,11 @@
               "level": 0
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 63
             },
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 63
             },
             {
@@ -1592,7 +1592,7 @@
               "level": 65
             },
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 65
             },
             {
@@ -1604,7 +1604,7 @@
               "level": 0
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 65
             },
             {
@@ -1616,7 +1616,7 @@
               "level": 65
             },
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 65
             }
           ]
@@ -1648,15 +1648,15 @@
               "level": 0
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 65
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 65
             },
             {
-              "index": "BigChickCG_Ev111_2",
+              "index": "BigChickCG_TU3",
               "level": 65
             },
             {
@@ -1677,7 +1677,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 67
             },
             {
@@ -1693,15 +1693,15 @@
               "level": 0
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 67
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 67
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 67
             },
             {
@@ -1718,7 +1718,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 68
             },
             {
@@ -1726,23 +1726,23 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_2",
+              "index": "BigChickCG_TU3",
               "level": 68
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 68
             },
             {
-              "index": "BigChickCG_Ev111_2",
+              "index": "BigChickCG_TU3",
               "level": 68
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 68
             },
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 68
             },
             {
@@ -1750,7 +1750,7 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_2",
+              "index": "BigChickCG_TU3",
               "level": 68
             }
           ]
@@ -1759,15 +1759,15 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 70
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 70
             },
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 70
             },
             {
@@ -1775,11 +1775,11 @@
               "level": 70
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 70
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 70
             },
             {
@@ -1787,7 +1787,7 @@
               "level": 0
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 70
             },
             {
@@ -1819,11 +1819,11 @@
               "level": 0
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 70
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 70
             },
             {
@@ -1843,7 +1843,7 @@
               "level": 0
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 70
             }
           ]
@@ -1852,7 +1852,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 72
             },
             {
@@ -1868,7 +1868,7 @@
               "level": 72
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 72
             },
             {
@@ -1876,7 +1876,7 @@
               "level": 72
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 72
             },
             {
@@ -1897,11 +1897,11 @@
               "level": 73
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 73
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 73
             },
             {
@@ -1921,11 +1921,11 @@
               "level": 73
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 73
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 73
             }
           ]
@@ -1938,11 +1938,11 @@
               "level": 75
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 75
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 75
             },
             {
@@ -1950,7 +1950,7 @@
               "level": 75
             },
             {
-              "index": "DryerShell_Ev122_1",
+              "index": "DryerShell_TU3",
               "level": 75
             },
             {
@@ -1962,11 +1962,11 @@
               "level": 75
             },
             {
-              "index": "DryerHead_Ev122_1",
+              "index": "DryerHead_TU3",
               "level": 75
             },
             {
-              "index": "DryerShooter_Ev122_1",
+              "index": "DryerShooter_TU3",
               "level": 75
             }
           ]

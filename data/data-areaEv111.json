@@ -860,7 +860,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 38
             },
             {
@@ -884,7 +884,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 38
             }
           ]
@@ -893,7 +893,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 38
             },
             {
@@ -901,7 +901,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 38
             },
             {
@@ -917,7 +917,7 @@
               "level": 38
             },
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 38
             },
             {
@@ -925,7 +925,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 38
             }
           ]
@@ -934,7 +934,7 @@
           "title": "wave5",
           "enemylist": [
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 40
             },
             {
@@ -942,7 +942,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 40
             },
             {
@@ -958,7 +958,7 @@
               "level": 40
             },
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 40
             },
             {
@@ -966,7 +966,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_1",
+              "index": "BigChickC_N",
               "level": 40
             }
           ]
@@ -1260,7 +1260,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 50
             },
             {
@@ -1268,7 +1268,7 @@
               "level": 0
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 50
             },
             {
@@ -1284,7 +1284,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 50
             }
           ]
@@ -1305,11 +1305,11 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 50
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 50
             },
             {
@@ -1334,7 +1334,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 50
             },
             {
@@ -1350,7 +1350,7 @@
               "level": 50
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 50
             },
             {
@@ -1358,7 +1358,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 50
             },
             {
@@ -1383,11 +1383,11 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 55
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 55
             },
             {
@@ -1399,7 +1399,7 @@
               "level": 55
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 55
             },
             {
@@ -1435,7 +1435,7 @@
               "level": 55
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 55
             },
             {
@@ -1447,7 +1447,7 @@
               "level": 0
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 55
             },
             {
@@ -1459,7 +1459,7 @@
               "level": 55
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 55
             }
           ]
@@ -1468,7 +1468,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 55
             },
             {
@@ -1476,7 +1476,7 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 55
             },
             {
@@ -1484,7 +1484,7 @@
               "level": 0
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 55
             },
             {
@@ -1492,7 +1492,7 @@
               "level": 55
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 55
             },
             {
@@ -1500,7 +1500,7 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 55
             }
           ]
@@ -1517,7 +1517,7 @@
               "level": 55
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 55
             },
             {
@@ -1529,7 +1529,7 @@
               "level": 0
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 55
             },
             {
@@ -1541,7 +1541,7 @@
               "level": 55
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 55
             }
           ]
@@ -1550,7 +1550,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1558,7 +1558,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 60
             },
             {
@@ -1566,7 +1566,7 @@
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
@@ -1574,7 +1574,7 @@
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1582,7 +1582,7 @@
               "level": 0
             },
             {
-              "index": "BigChickC_Ev111_2",
+              "index": "BigChickC_TU4",
               "level": 60
             }
           ]
@@ -1610,7 +1610,7 @@
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1618,11 +1618,11 @@
               "level": 0
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
@@ -1634,7 +1634,7 @@
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             }
           ]
@@ -1643,7 +1643,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1655,19 +1655,19 @@
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1688,11 +1688,11 @@
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
@@ -1708,11 +1708,11 @@
               "level": 0
             },
             {
-              "index": "BigChickCG_Ev111_1",
+              "index": "BigChickCG_TU4",
               "level": 60
             },
             {
-              "index": "NightChickDEG_Ev92_1",
+              "index": "NightChickDEG_N",
               "level": 60
             },
             {

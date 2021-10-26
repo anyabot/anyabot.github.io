@@ -1,5 +1,5 @@
 {
-  "title": "8",
+  "title": "Zone 8 ",
   "areatype": "grid",
   "gridsize": [
     8,
@@ -805,7 +805,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 90
             },
             {
@@ -825,7 +825,7 @@
               "level": 90
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 90
             },
             {
@@ -833,7 +833,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 90
             },
             {
@@ -850,7 +850,7 @@
               "level": 90
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 90
             },
             {
@@ -870,11 +870,11 @@
               "level": 90
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 90
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 90
             },
             {
@@ -895,11 +895,11 @@
               "level": 90
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 90
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 90
             },
             {
@@ -919,7 +919,7 @@
               "level": 90
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 90
             }
           ]
@@ -928,7 +928,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 90
             },
             {
@@ -936,7 +936,7 @@
               "level": 90
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 90
             },
             {
@@ -952,11 +952,11 @@
               "level": 0
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 90
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 90
             },
             {
@@ -969,11 +969,11 @@
           "title": "wave5",
           "enemylist": [
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             },
             {
@@ -981,7 +981,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -989,15 +989,15 @@
               "level": 91
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             },
             {
@@ -1020,7 +1020,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -1040,11 +1040,11 @@
               "level": 0
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -1069,7 +1069,7 @@
               "level": 91
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             },
             {
@@ -1085,7 +1085,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -1093,7 +1093,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             }
           ]
@@ -1102,7 +1102,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             },
             {
@@ -1110,7 +1110,7 @@
               "level": 91
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -1126,7 +1126,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -1134,7 +1134,7 @@
               "level": 91
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             }
           ]
@@ -1143,7 +1143,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -1151,7 +1151,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             },
             {
@@ -1163,11 +1163,11 @@
               "level": 91
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -1175,7 +1175,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 91
             }
           ]
@@ -1184,7 +1184,7 @@
           "title": "wave5",
           "enemylist": [
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 93
             },
             {
@@ -1192,7 +1192,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 93
             },
             {
@@ -1204,7 +1204,7 @@
               "level": 93
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 93
             },
             {
@@ -1212,7 +1212,7 @@
               "level": 93
             },
             {
-              "index": "LightningBomberP_A8_1",
+              "index": "LightningBomberMP_TU3",
               "level": 93
             },
             {
@@ -1368,7 +1368,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "Slasher_A8_B1",
+              "index": "Slasher_B08",
               "level": 100
             },
             {
@@ -1400,7 +1400,7 @@
               "level": 0
             },
             {
-              "index": "Slasher_A8_B1",
+              "index": "Slasher_B08",
               "level": 100
             }
           ]
@@ -1471,7 +1471,7 @@
               "level": 95
             },
             {
-              "index": "Slasher_A8_1",
+              "index": "Slasher_TU4",
               "level": 95
             },
             {
@@ -1516,7 +1516,7 @@
               "level": 95
             },
             {
-              "index": "Slasher_A8_1",
+              "index": "Slasher_TU4",
               "level": 95
             },
             {
@@ -1545,7 +1545,7 @@
               "level": 0
             },
             {
-              "index": "Slasher_A8_1",
+              "index": "Slasher_TU4",
               "level": 96
             },
             {
@@ -1569,7 +1569,7 @@
               "level": 0
             },
             {
-              "index": "Slasher_A8_1",
+              "index": "Slasher_TU4",
               "level": 96
             },
             {
@@ -1590,7 +1590,7 @@
               "level": 0
             },
             {
-              "index": "Slasher_A8_1",
+              "index": "Slasher_TU4",
               "level": 97
             },
             {
@@ -1614,7 +1614,7 @@
               "level": 0
             },
             {
-              "index": "Slasher_A8_1",
+              "index": "Slasher_TU4",
               "level": 97
             }
           ]
@@ -2097,7 +2097,7 @@
               "level": 91
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -2126,7 +2126,7 @@
               "level": 91
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 91
             },
             {
@@ -2155,7 +2155,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 92
             },
             {
@@ -2206,7 +2206,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 92
             },
             {
@@ -2259,7 +2259,7 @@
               "level": 92
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 92
             },
             {
@@ -2312,7 +2312,7 @@
               "level": 93
             },
             {
-              "index": "FABigChickSEX_A8_1",
+              "index": "FABigChickSEX_TU2",
               "level": 93
             },
             {
