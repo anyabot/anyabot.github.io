@@ -8990,22 +8990,22 @@
   },
   "Skill_MP_IntercepterARS_N_1": {
     "title": "askill1",
-    "name": "듀얼 벌칸",
+    "name": "Dual Vulcan",
     "type": "active",
     "img": ["MGShot"],
     "range": 6,
     "AP": 4,
     "area": ["0", "0", "0", "0", "1", "0", "0", "0", "0"],
-    "description": "대상에게 {0} 피해를 입힙니다."
+    "description": "Deals $(2) damage to a single target."
   },
   "Skill_MP_IntercepterARS_N_2": {
     "title": "askill2",
-    "name": "합성개구레이더",
+    "name": "Synthetic-Aperture radar",
     "type": "active",
     "img": ["AWACS"],
     "range": 6,
     "AP": 5,
-    "area": ["4>0", "1", "1", "0", "1", "1", "0", "1", "1"],
+    "area": ["4>", "0", "1", "1", "0", "1", "1", "0", "1", "1"],
     "description": "2라운드 동안 범위 내 아군에게 광역 피해량 분산 효과를 부여합니다. 광역 피해량 분산은 적의 공격 범위에 포함된 아군이 많을수록 받는 광역 공격의 최종 피해량이 감소하며, 광역 공격 범위 그리드와 공격을 받는 아군 수가 같을 때 최대로 적용됩니다."
   },
   "Skill_MP_IntercepterARS_N_3": {
@@ -9015,7 +9015,7 @@
     "img": ["Move"],
     "range": 0,
     "AP": 0,
-    "area": ["1", "0", "0", "1", "0", "0", "1", "0", "0"],
+    "area": ["F>", "1", "0", "0", "1", "0", "0", "1", "0", "0"],
     "description": "라운드 개시 시, 후열에 배치된 적에게 표식을 부여합니다."
   },
   "Skill_MP_IntercepterARS_N_4": {

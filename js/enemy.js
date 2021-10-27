@@ -307,40 +307,67 @@ function drawInfo(index, info)
 
 function drawSkillArea(json, data)
 {
+	let center = 5
+	let bg_color = "rgb(45, 45, 45)"
+	let cen_color = "rgb(22, 155, 155)"
+	if (data[0][1] == ">") {
+		let mark = data.shift()
+		if (mark[0] == "F") {
+			center = null;
+		}
+		else {
+			center = parseInt(mark[0])
+		}
+	}
 	if (data.some(el => { return isNaN(el); }))
 	{
 		for (var i = 0; i < 9; i++)
 		{
 			var color = data[i];
+			let cur_color
+			if (i + 1 == center) {cur_color = cen_color;}
+			else {cur_color = bg_color;}
 
 			var row = 3 - parseInt((i) / 3);
 			var column = i + 1 - parseInt((i) / 3) * 3;
-			json.children().children().children(":nth-child(" + row + ")").children(":nth-child(" + column + ")").css({ "background-color": color });
+			json.children().children().children(":nth-child(" + row + ")").children(":nth-child(" + column + ")").css({
+				'background-image': 'linear-gradient(to right, '+ color + ', '+ color + '), linear-gradient(to right, ' + cur_color + "," + cur_color + ')'
+			});
 		}
 	}
 	else if (data.find(el => { return el < 1; }) != undefined)
 	{
 		for (var i = 0; i < 9; i++)
 		{
-			var color = "rgb(255, " + Math.round((213 - 128) / 0.5 * (data[i] - 0.5) + 128) + ", 0)";
+			var color = "rgb(200, " + Math.round((200 - 128) / 0.5 * (data[i] - 0.5) + 128) + ", 0)";
 
-			if (data[i] == 0) { color = "rgb(45, 45, 45)"; }
-
+			if (data[i] == 0) { color = "rgba(0, 0, 0, 0)"; }
+			let cur_color
+			if (i + 1 == center) {cur_color = cen_color;}
+			else {cur_color = bg_color;}
+			let cinput = "linear-gradient(to right, " + color + "," + color + "), linear-gradient(to right, " + cur_color + "," + cur_color + ");"
 			var row = 3 - parseInt((i) / 3);
 			var column = i + 1 - parseInt((i) / 3) * 3;
-			json.children().children().children(":nth-child(" + row + ")").children(":nth-child(" + column + ")").css({ "background-color": color });
+			json.children().children().children(":nth-child(" + row + ")").children(":nth-child(" + column + ")").css({
+				'background-image': 'linear-gradient(to right, '+ color + ', '+ color + '), linear-gradient(to right, ' + cur_color + "," + cur_color + ')'
+			});
 		}
 	}
 	else
 	{
 		for (var i = 0; i < 9; i++)
 		{
-			if (data.indexOf(i + 1) != -1) { var color = "rgb(255, 213, 0)"; }
-			else { var color = "rgb(50, 50, 50)"; }
+			if (data.indexOf(i + 1) != -1) { var color = "rgb(200, 200, 0)"; }
+			else { var color = "rgba(0, 0, 0, 0)"; }
+			let cur_color
+			if (i + 1 == center) {cur_color = cen_color;}
+			else {cur_color = bg_color;}
 
 			var row = 3 - parseInt((i) / 3);
 			var column = i + 1 - parseInt((i) / 3) * 3;
-			json.children().children().children(":nth-child(" + row + ")").children(":nth-child(" + column + ")").css({ "background-color": color });
+			json.children().children().children(":nth-child(" + row + ")").children(":nth-child(" + column + ")").css({
+				'background-image': 'linear-gradient(to right, '+ color + ', '+ color + '), linear-gradient(to right, ' + cur_color + "," + cur_color + ')'
+			});
 		}
 	}
 }

@@ -24,6 +24,10 @@ body {
     max-width: 540px;
 }
 
+.skill-area tbody {
+	transform: skewX(-10deg);
+}
+
 .container {
     max-width: 540px;
     background-color: #fdfdfd;
@@ -208,16 +212,19 @@ body {
 }
 
 .skill-area table {
-    width: 75%;
+    width: 90%;
     margin: 0 auto;
 }
 
 .skill-area td {
 	box-sizing: content-box;
-    background: rgb(45, 45, 45);
+    /* background: rgb(45, 45, 45); */
     width: 33%;
     height: 0;
     border-radius: 5%;
+		background-position: -3px -3px, 3px 3px;
+		background-size: 100%, 100%;
+		background-repeat: no-repeat;
 }
 
 .skill-area td::after {
