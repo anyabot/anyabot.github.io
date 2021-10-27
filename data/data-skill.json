@@ -9176,7 +9176,7 @@
       "0.25",
       "0.25"
     ],
-    "description": "Deals $(1.3) damage to target area with 'Area Attack Focus'. Damages are reduced bby 75% for non-center area.<br>If Triton has more ATK than target's, inflicts Additional DMG+ and remove all buffs."
+    "description": "Deals $(1.3) damage to target area with 'Area Attack Focus' and Ignore Protect. Damages are reduced by 50% to enemies adjacent to the main target, and by 75% to other enemies.<br>If Triton has more ATK than target's, inflicts Additional DMG+ and remove all buffs."
   },
   "Skill_MP_Triton_B09_3": {
     "title": "askill3",
@@ -9186,7 +9186,7 @@
     "range": 0,
     "AP": 0,
     "area": ["0", "0", "0", "0", "1", "0", "0", "0", "0"],
-    "description": "At the start of wave, grants self Immunity to AP- and 'Procoked'.<br>When either actives hit, grants self ATK+ / DEF+."
+    "description": "At the start of wave, grants self Immunity to AP- and 'Provoked'.<br>When either actives hit, grants self ATK+ / DEF+."
   },
   "Skill_MP_Triton_B09_4": {
     "title": "askill4",
