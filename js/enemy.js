@@ -340,7 +340,6 @@ function drawSkillArea(json, data)
 		for (var i = 0; i < 9; i++)
 		{
 			var color = "rgb(200, " + Math.round((200 - 128) / 0.5 * (data[i] - 0.5) + 128) + ", 0)";
-
 			if (data[i] == 0) { color = "rgba(0, 0, 0, 0)"; }
 			let cur_color
 			if (i + 1 == center) {cur_color = cen_color;}

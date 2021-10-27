@@ -1,4 +1,4 @@
-{
+﻿{
   "NightChickM_N": {
     "name": "Night Chick Launcher",
     "img": "NightChickM",
@@ -12321,9 +12321,7 @@
     "skills": [
       "Skill_MP_Ship_Controller_B09_1",
       "Skill_MP_Ship_Controller_B09_2",
-      "Skill_MP_Ship_Controller_B09_3",
-      "Skill_MP_Ship_Controller_B09_4",
-      "Skill_MP_Ship_Controller_B09_5"
+      "Skill_MP_Ship_Controller_B09_3"
     ]
   },
   "Triton_B09": {
