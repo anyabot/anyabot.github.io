@@ -3821,7 +3821,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When an ally is defeated, grants unit 'Counterattack' for a round and grants allies in Area of Effect DR+ / SPD+.",
+    "description": "When an ally is defeated, grants unit 'Counterattack' for 2 rounds and grants allies in Area of Effect AP+ / DR+ for 1 round.",
     "area": [8, 4, 5, 6, 2]
   },
   "CenturionG_N_Skill5": {
