@@ -9006,7 +9006,7 @@
     "range": 6,
     "AP": 5,
     "area": ["4>", "0", "1", "1", "0", "1", "1", "0", "1", "1"],
-    "description": "Grants allies in Area of Effect 'Area Attack Dispersion' for 2 rounds."
+    "description": "Grants allies in Area of Effect 'Area Damage Dispersion' for 2 rounds."
   },
   "Skill_MP_IntercepterARS_N_3": {
     "title": "askill3",
@@ -9056,7 +9056,7 @@
     "range": 0,
     "AP": 0,
     "area": ["0", "0", "0", "0", "1", "0", "0", "0", "0"],
-    "description": "At the start of round, grant self 'Area Attack Focus'."
+    "description": "At the start of round, grant self 'Area Damage Focus'."
   },
   "Skill_MP_IntercepterAR_N_4": {
     "title": "askill4",
@@ -9176,7 +9176,7 @@
       "0.25",
       "0.25"
     ],
-    "description": "Deals $(1.3) damage to target area with 'Area Attack Focus' and Ignore Protect. Damages are reduced by 50% to enemies adjacent to the main target, and by 75% to other enemies.<br>If Triton has more ATK than target's, inflicts Additional DMG+ and remove all buffs."
+    "description": "Deals $(1.3) damage to target area with 'Area Damage Focus' and Ignore Protect. Damages are reduced by 50% to enemies adjacent to the main target, and by 75% to other enemies.<br>If Triton has more ATK than target's, inflicts Additional DMG+ and remove all buffs."
   },
   "Skill_MP_Triton_B09_3": {
     "title": "askill3",
@@ -9227,5 +9227,15 @@
     "AP": 0,
     "area": ["0", "1", "0", "1", "1", "1", "0", "1", "0"],
     "description": "1라운드 후에 착탄하는 소이탄을 발사해 목표 범위에 {0} 보호무시 화염 속성 피해를 줍니다. 경장형 또는 중장형 대상이 이동불가 상태면 피해량이 크게 증가합니다."
+  },
+  "Skill_MP_BlackKnight_EW_5": {
+    "title": "askill5",
+    "name": "Attack Dispersion",
+    "type": "passive",
+    "img": ["TeamDefBuff"],
+    "range": 0,
+    "AP": 0,
+    "area": ["1", "1", "1", "1", "1", "1", "1", "1", "1"],
+    "description": "At the start of round, if there are 5 or more allies, grants self and allies in Area of Effect 'Area Damage Dispersion'."
   }
 }

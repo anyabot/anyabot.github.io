@@ -1,4 +1,4 @@
-﻿{
+{
   "NightChickM_N": {
     "name": "Night Chick Launcher",
     "img": "NightChickM",
@@ -12178,7 +12178,7 @@
     "AGI": 4.5,
     "CRT": 5,
     "HIT": 240,
-    "DOG": 370,
+    "DOD": 370,
     "resist": [0, -50, 99],
     "skills": [
       "Skill_MP_LightningBomberMP_N_1",
@@ -12199,7 +12199,7 @@
     "AGI": 4.27,
     "CRT": 20,
     "HIT": 185,
-    "DOG": 20,
+    "DOD": 20,
     "resist": [60, 60, 60],
     "skills": [
       "Skill_MP_RheinRitter_N_1",
@@ -12219,7 +12219,7 @@
     "AGI": 4.64,
     "CRT": 0,
     "HIT": 160,
-    "DOG": 80,
+    "DOD": 80,
     "resist": [25, 25, 25],
     "skills": [
       "Skill_MP_IntercepterARS_N_1",
@@ -12239,7 +12239,7 @@
     "AGI": 4.5,
     "CRT": 0,
     "HIT": 160,
-    "DOG": 80,
+    "DOD": 80,
     "resist": [25, 25, 25],
     "skills": [
       "Skill_MP_IntercepterAR_N_1",
@@ -12259,7 +12259,7 @@
     "AGI": 3.5,
     "CRT": 15,
     "HIT": 150,
-    "DOG": 0,
+    "DOD": 0,
     "resist": [0, 0, 0],
     "skills": [
       "Skill_MP_Fortress_N_1",
@@ -12278,7 +12278,7 @@
     "AGI": 0,
     "CRT": 0,
     "HIT": 999,
-    "DOG": 0,
+    "DOD": 0,
     "resist": [100, 100, 100],
     "skills": [
       "Skill_MP_Fire_Controller_B09_1",
@@ -12297,7 +12297,7 @@
     "AGI": 3.5,
     "CRT": 12.5,
     "HIT": 130,
-    "DOG": 0,
+    "DOD": 0,
     "resist": [0, 0, 0],
     "skills": [
       "Skill_MP_Fortress_N_1",
@@ -12316,7 +12316,7 @@
     "AGI": 0,
     "CRT": 0,
     "HIT": 999,
-    "DOG": 0,
+    "DOD": 0,
     "resist": [100, 100, 100],
     "skills": [
       "Skill_MP_Ship_Controller_B09_1",
@@ -12335,7 +12335,7 @@
     "AGI": 3.8,
     "CRT": 0,
     "HIT": 500,
-    "DOG": 0,
+    "DOD": 0,
     "resist": [25, 25, 25],
     "skills": [
       "Skill_MP_Triton_B09_1",
@@ -12356,7 +12356,7 @@
     "AGI": 3.85,
     "CRT": 15,
     "HIT": 250,
-    "DOG": 0,
+    "DOD": 0,
     "resist": [100, -25, 50],
     "skills": [
       "Skill_MP_BigChickC_N_1",
@@ -12376,7 +12376,7 @@
     "AGI": 3.9,
     "CRT": 20,
     "HIT": 320,
-    "DOG": 225,
+    "DOD": 225,
     "resist": [50, 0, 0],
     "skills": [
       "Skill_MP_Slasher_N_1",
@@ -12396,13 +12396,34 @@
     "AGI": 1,
     "CRT": 50,
     "HIT": 350,
-    "DOG": 0,
+    "DOD": 0,
     "resist": [125, 125, 125],
     "skills": [
       "Skill_MP_BlackKnight_N_1",
       "Skill_MP_BlackKnight_N_2",
       "Skill_MP_BlackKnight_N_3",
       "Skill_MP_BlackKnight_N_4"
+    ]
+  },
+  "BlackKnight_EW5": {
+    "name": "Cyclops Type-X",
+    "img": "BlackKnight",
+    "type": "Light Attacker",
+    "info": "본래는 단독행동을 하는 개체로 보고되었습니다만, 본대에 합류하니 놈을 중심으로 철충들이 산개해서 공격하는 것을 확인했습니다. 덕분에 광역 타격으로 피해를 입히는 작전은 다시 검토해야 할 듯 합니다.\n\n\n- 불굴의 마리 보고함",
+    "HP": [25002.7, 2272.7],
+    "ATK": [822, 11],
+    "DEF": [0, 0],
+    "AGI": 1,
+    "CRT": 50,
+    "HIT": 400,
+    "DOD": 0,
+    "resist": [125, 125, 125],
+    "skills": [
+      "Skill_MP_BlackKnight_N_1",
+      "Skill_MP_BlackKnight_N_2",
+      "Skill_MP_BlackKnight_N_3",
+      "Skill_MP_BlackKnight_N_4",
+      "Skill_MP_BlackKnight_EW_5"
     ]
   }
 }
