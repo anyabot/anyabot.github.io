@@ -11936,10 +11936,10 @@
     "DOD": 0,
     "resist": [125, 125, 125],
     "skills": [
-      "Skill_MP_BlackKnight_N1",
-      "Skill_MP_BlackKnight_N2",
-      "Skill_MP_BlackKnight_N3",
-      "Skill_MP_BlackKnight_N4"
+      "Skill_MP_BlackKnight_N_1",
+      "Skill_MP_BlackKnight_N_2",
+      "Skill_MP_BlackKnight_N_3",
+      "Skill_MP_BlackKnight_N_4"
     ]
   },
   "BlackKnight_TU4": {
