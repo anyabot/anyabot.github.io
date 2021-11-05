@@ -11484,7 +11484,7 @@
   "LightningBomberMP_TU4": {
     "name": "Lightning Bomber Type-X",
     "img": "LightningBomber",
-    "type": "Flying Atttacker",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": [260, 99],
     "ATK": [267, 14.1],
@@ -11505,7 +11505,7 @@
   "LightningBomberMP_N": {
     "name": "Lightning Bomber Type-X",
     "img": "LightningBomber",
-    "type": "Flying Atttacker",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": [150, 45],
     "ATK": [200, 10.5],
