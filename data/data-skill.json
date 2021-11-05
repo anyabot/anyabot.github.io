@@ -9150,7 +9150,7 @@
   },
   "Skill_MP_Triton_B09_1": {
     "title": "askill1",
-    "name": "Cannon Shooting",
+    "name": "Autocannon Barrage",
     "type": "active",
     "img": ["ARShot"],
     "range": 6,
@@ -9190,17 +9190,17 @@
   },
   "Skill_MP_Triton_B09_4": {
     "title": "askill4",
-    "name": "Output Increase",
+    "name": "Output Enhancement",
     "type": "passive",
     "img": ["SelfSpdBuff"],
     "range": 0,
     "AP": 0,
     "area": ["0", "0", "0", "0", "1", "0", "0", "0", "0"],
-    "description": "When Triton is hit, grants Triton 'Output Increase' status. When 'Output Increase' stacks 3 times, Output Limit is released."
+    "description": "When Triton is hit, grants Triton 'Output Enhancement' status. When 'Output Enhancement' stacks 3 times, Output Limit is released."
   },
   "Skill_MP_Triton_B09_5": {
     "title": "askill5",
-    "name": "Output Limit Released",
+    "name": "Limiter Removal",
     "type": "passive",
     "img": ["MultiMissile"],
     "range": 0,
