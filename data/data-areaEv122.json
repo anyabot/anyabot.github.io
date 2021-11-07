@@ -886,11 +886,11 @@
               "level": 25
             },
             {
-              "index": "Goltarion2_Ev121_1",
+              "index": "Goltarion_EV2",
               "level": 30
             },
             {
-              "index": "AzazelAlter_Ev122_1",
+              "index": "AzazelAlter_N",
               "level": 45
             },
             {
@@ -1288,11 +1288,11 @@
               "level": 42
             },
             {
-              "index": "FABigChickSEX_Ev91_1",
+              "index": "FABigChickSEX_N",
               "level": 32
             },
             {
-              "index": "CenturionG_Ev92_1",
+              "index": "CenturionG_TU",
               "level": 22
             },
             {
@@ -1430,7 +1430,7 @@
               "level": 37
             },
             {
-              "index": "EmperorChick_A7_2",
+              "index": "EmperorChick_N",
               "level": 27
             },
             {
@@ -1811,7 +1811,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "PhalangitesH_Ev71_3",
+              "index": "PhalangitesH_TU3",
               "level": 70
             },
             {
@@ -1827,7 +1827,7 @@
               "level": 70
             },
             {
-              "index": "Slasher_Ev91_2",
+              "index": "Slasher_TU3",
               "level": 70
             },
             {
@@ -1835,7 +1835,7 @@
               "level": 0
             },
             {
-              "index": "PhalangitesH_Ev71_3",
+              "index": "PhalangitesH_TU3",
               "level": 70
             },
             {
@@ -1860,11 +1860,11 @@
               "level": 0
             },
             {
-              "index": "Slasher_Ev91_2",
+              "index": "Slasher_TU3",
               "level": 72
             },
             {
-              "index": "PhalangitesH_Ev71_3",
+              "index": "PhalangitesH_TU3",
               "level": 72
             },
             {
@@ -1872,7 +1872,7 @@
               "level": 72
             },
             {
-              "index": "PhalangitesH_Ev71_3",
+              "index": "PhalangitesH_TU3",
               "level": 72
             },
             {
@@ -1884,7 +1884,7 @@
               "level": 0
             },
             {
-              "index": "Slasher_Ev91_2",
+              "index": "Slasher_TU3",
               "level": 72
             }
           ]
@@ -1893,7 +1893,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "Slasher_Ev91_2",
+              "index": "Slasher_TU3",
               "level": 73
             },
             {
@@ -1917,7 +1917,7 @@
               "level": 0
             },
             {
-              "index": "Slasher_Ev91_2",
+              "index": "Slasher_TU3",
               "level": 73
             },
             {
@@ -1934,7 +1934,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "PhalangitesH_Ev71_3",
+              "index": "PhalangitesH_TU3",
               "level": 75
             },
             {
@@ -1946,7 +1946,7 @@
               "level": 75
             },
             {
-              "index": "Slasher_Ev91_2",
+              "index": "Slasher_TU3",
               "level": 75
             },
             {
@@ -1954,11 +1954,11 @@
               "level": 75
             },
             {
-              "index": "PhalangitesH_Ev71_3",
+              "index": "PhalangitesH_TU3",
               "level": 75
             },
             {
-              "index": "PhalangitesH_Ev71_3",
+              "index": "PhalangitesH_TU3",
               "level": 75
             },
             {

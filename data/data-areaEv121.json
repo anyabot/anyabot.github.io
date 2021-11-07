@@ -1039,7 +1039,7 @@
               "level": 40
             },
             {
-              "index": "Goltarion2_Ev121_1",
+              "index": "Goltarion_EV2",
               "level": 40
             },
             {
@@ -1099,7 +1099,7 @@
               "level": 40
             },
             {
-              "index": "FABigChickSEX_Ev91_1",
+              "index": "FABigChickSEX_N",
               "level": 40
             },
             {
@@ -1234,7 +1234,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickSEX_Ev91_1",
+              "index": "FABigChickSEX_N",
               "level": 41
             }
           ]
@@ -1258,7 +1258,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 32
             },
             {
@@ -1266,7 +1266,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 32
             },
             {
@@ -1282,7 +1282,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 32
             },
             {
@@ -1295,7 +1295,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 32
             },
             {
@@ -1311,7 +1311,7 @@
               "level": 32
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 32
             },
             {
@@ -1319,7 +1319,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 32
             },
             {
@@ -1336,11 +1336,11 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 34
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 34
             },
             {
@@ -1360,11 +1360,11 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 34
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 34
             },
             {
@@ -1388,11 +1388,11 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 34
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 34
             },
             {
@@ -1412,7 +1412,7 @@
               "level": 0
             },
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 34
             },
             {
@@ -1429,7 +1429,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 34
             },
             {
@@ -1437,15 +1437,15 @@
               "level": 34
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 34
             },
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 34
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 34
             },
             {
@@ -1470,11 +1470,11 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 36
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 36
             },
             {
@@ -1498,11 +1498,11 @@
               "level": 0
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 36
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 36
             }
           ]
@@ -1534,7 +1534,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 36
             },
             {
@@ -1542,11 +1542,11 @@
               "level": 0
             },
             {
-              "index": "NightChickCSv_Ev91_1",
+              "index": "NightChickCSv_TU2",
               "level": 36
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 36
             },
             {
@@ -1563,7 +1563,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 36
             },
             {
@@ -1575,7 +1575,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 36
             },
             {
@@ -1583,11 +1583,11 @@
               "level": 36
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 36
             },
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 36
             },
             {
@@ -1604,7 +1604,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 36
             },
             {
@@ -1612,15 +1612,15 @@
               "level": 36
             },
             {
-              "index": "NightChickCSv_Ev91_1",
+              "index": "NightChickCSv_TU2",
               "level": 36
             },
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 36
             },
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 36
             },
             {
@@ -1645,7 +1645,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 37
             },
             {
@@ -1653,11 +1653,11 @@
               "level": 0
             },
             {
-              "index": "NightChickCSv_Ev91_1",
+              "index": "NightChickCSv_TU2",
               "level": 37
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 37
             },
             {
@@ -1669,7 +1669,7 @@
               "level": 0
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 37
             },
             {
@@ -1677,7 +1677,7 @@
               "level": 0
             },
             {
-              "index": "NightChickCSv_Ev91_1",
+              "index": "NightChickCSv_TU2",
               "level": 37
             }
           ]
@@ -1697,7 +1697,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 37
             },
             {
@@ -1705,7 +1705,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 37
             },
             {
@@ -1721,7 +1721,7 @@
               "level": 0
             },
             {
-              "index": "NightChickMSv_Ev91_1",
+              "index": "NightChickMSv_TU2",
               "level": 37
             },
             {
@@ -1729,7 +1729,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 37
             }
           ]
@@ -1754,15 +1754,15 @@
               "level": 0
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 37
             },
             {
-              "index": "NightChickCSv_Ev91_1",
+              "index": "NightChickCSv_TU2",
               "level": 37
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 37
             },
             {
@@ -1770,7 +1770,7 @@
               "level": 37
             },
             {
-              "index": "NightChickCSv_Ev91_1",
+              "index": "NightChickCSv_TU2",
               "level": 37
             }
           ]
@@ -1783,7 +1783,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 37
             },
             {
@@ -1791,7 +1791,7 @@
               "level": 0
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 37
             },
             {
@@ -1799,7 +1799,7 @@
               "level": 37
             },
             {
-              "index": "NightChickCSv_Ev91_1",
+              "index": "NightChickCSv_TU2",
               "level": 37
             },
             {
@@ -1807,7 +1807,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 37
             },
             {
@@ -1824,7 +1824,7 @@
               "level": 38
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 38
             },
             {
@@ -1832,7 +1832,7 @@
               "level": 0
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 38
             },
             {
@@ -1840,7 +1840,7 @@
               "level": 0
             },
             {
-              "index": "NightChickSv_Ev91_1",
+              "index": "NightChickSv_TU2",
               "level": 38
             },
             {
@@ -1848,7 +1848,7 @@
               "level": 0
             },
             {
-              "index": "NightChickShSv_Ev91_1",
+              "index": "NightChickShSv_TU3",
               "level": 38
             },
             {
@@ -1871,11 +1871,11 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 55
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 55
             },
             {
@@ -1895,11 +1895,11 @@
               "level": 0
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 55
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 55
             },
             {
@@ -1924,15 +1924,15 @@
               "level": 55
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 55
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 55
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 55
             },
             {
@@ -1977,11 +1977,11 @@
               "level": 0
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 55
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 55
             },
             {
@@ -2006,11 +2006,11 @@
               "level": 0
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 58
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 58
             },
             {
@@ -2050,7 +2050,7 @@
               "level": 0
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 58
             },
             {
@@ -2058,11 +2058,11 @@
               "level": 58
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 58
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 58
             },
             {
@@ -2074,7 +2074,7 @@
               "level": 0
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 58
             },
             {
@@ -2091,7 +2091,7 @@
               "level": 58
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 58
             },
             {
@@ -2103,7 +2103,7 @@
               "level": 0
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 58
             },
             {
@@ -2115,7 +2115,7 @@
               "level": 58
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 58
             },
             {
@@ -2140,7 +2140,7 @@
               "level": 58
             },
             {
-              "index": "Goltarion2_Ev121_2",
+              "index": "Goltarion_EV1",
               "level": 58
             },
             {
@@ -2148,7 +2148,7 @@
               "level": 0
             },
             {
-              "index": "RampartC_Ev72_1",
+              "index": "RampartC_SA4",
               "level": 58
             },
             {
@@ -2173,7 +2173,7 @@
               "level": 58
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 58
             },
             {
@@ -2197,7 +2197,7 @@
               "level": 58
             },
             {
-              "index": "DroneM_Ev72_1",
+              "index": "DroneM_SA4",
               "level": 58
             },
             {
@@ -2210,7 +2210,7 @@
           "title": "wave5",
           "enemylist": [
             {
-              "index": "Goltarion2_Ev121_2",
+              "index": "Goltarion_EV1",
               "level": 60
             },
             {
@@ -2234,7 +2234,7 @@
               "level": 60
             },
             {
-              "index": "Goltarion2_Ev121_2",
+              "index": "Goltarion_EV1",
               "level": 60
             },
             {
@@ -2270,7 +2270,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickEX_Ev71_1",
+              "index": "FABigChickEX_TU2",
               "level": 60
             },
             {
@@ -2294,7 +2294,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickEX_Ev71_1",
+              "index": "FABigChickEX_TU2",
               "level": 60
             }
           ]

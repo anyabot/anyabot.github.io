@@ -30,7 +30,7 @@
               "level": 25
             },
             {
-              "index": "PhalangitesH_Ev71_1",
+              "index": "PhalangitesH_N",
               "level": 25
             },
             {
@@ -75,7 +75,7 @@
               "level": 0
             },
             {
-              "index": "PhalangitesH_Ev71_1",
+              "index": "PhalangitesH_N",
               "level": 25
             },
             {
@@ -104,7 +104,7 @@
               "level": 35
             },
             {
-              "index": "PhalangitesH_Ev71_1",
+              "index": "PhalangitesH_N",
               "level": 25
             },
             {
@@ -128,7 +128,7 @@
               "level": 35
             },
             {
-              "index": "PhalangitesH_Ev71_1",
+              "index": "PhalangitesH_N",
               "level": 25
             },
             {
@@ -141,7 +141,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "PhalangitesH_Ev71_1",
+              "index": "PhalangitesH_N",
               "level": 26
             },
             {
@@ -161,11 +161,11 @@
               "level": 26
             },
             {
-              "index": "PhalangitesH_Ev71_1",
+              "index": "PhalangitesH_N",
               "level": 26
             },
             {
-              "index": "PhalangitesH_Ev71_1",
+              "index": "PhalangitesH_N",
               "level": 26
             },
             {
@@ -209,11 +209,11 @@
               "level": 31
             },
             {
-              "index": "NightChickQMSK_Ev71_1",
+              "index": "NightChickQMSK_N",
               "level": 21
             },
             {
-              "index": "BigChickSP_Ev93_1",
+              "index": "BigChickSP_N",
               "level": 36
             },
             {
@@ -238,7 +238,7 @@
               "level": 0
             },
             {
-              "index": "BigChickSP_Ev93_1",
+              "index": "BigChickSP_N",
               "level": 36
             },
             {
@@ -254,7 +254,7 @@
               "level": 36
             },
             {
-              "index": "NightChickQMSK_Ev71_1",
+              "index": "NightChickQMSK_N",
               "level": 21
             },
             {
@@ -262,7 +262,7 @@
               "level": 0
             },
             {
-              "index": "BigChickSP_Ev93_1",
+              "index": "BigChickSP_N",
               "level": 36
             },
             {
@@ -283,7 +283,7 @@
               "level": 0
             },
             {
-              "index": "NightChickQMSK_Ev71_1",
+              "index": "NightChickQMSK_N",
               "level": 21
             },
             {
@@ -291,7 +291,7 @@
               "level": 0
             },
             {
-              "index": "BigChickSP_Ev93_1",
+              "index": "BigChickSP_N",
               "level": 36
             },
             {
@@ -307,7 +307,7 @@
               "level": 0
             },
             {
-              "index": "NightChickQMSK_Ev71_1",
+              "index": "NightChickQMSK_N",
               "level": 21
             }
           ]
@@ -320,11 +320,11 @@
               "level": 0
             },
             {
-              "index": "NightChickQMSK_Ev71_1",
+              "index": "NightChickQMSK_N",
               "level": 22
             },
             {
-              "index": "BigChickSP_Ev93_1",
+              "index": "BigChickSP_N",
               "level": 37
             },
             {
@@ -344,11 +344,11 @@
               "level": 0
             },
             {
-              "index": "NightChickQMSK_Ev71_1",
+              "index": "NightChickQMSK_N",
               "level": 22
             },
             {
-              "index": "BigChickSP_Ev93_1",
+              "index": "BigChickSP_N",
               "level": 37
             }
           ]
@@ -466,7 +466,7 @@
               "level": 32
             },
             {
-              "index": "LightningBomber_Ev93_1",
+              "index": "LightningBomber_N",
               "level": 32
             },
             {
@@ -495,7 +495,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomber_Ev93_1",
+              "index": "LightningBomber_N",
               "level": 33
             },
             {
@@ -519,7 +519,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomber_Ev93_1",
+              "index": "LightningBomber_N",
               "level": 33
             },
             {

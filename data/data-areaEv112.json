@@ -420,11 +420,11 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 45
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 45
             },
             {
@@ -452,7 +452,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 45
             }
           ]
@@ -465,7 +465,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 45
             },
             {
@@ -473,7 +473,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 45
             },
             {
@@ -481,11 +481,11 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 45
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 45
             },
             {
@@ -502,7 +502,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 47
             },
             {
@@ -514,11 +514,11 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 47
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 47
             },
             {
@@ -530,11 +530,11 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 47
             },
             {
-              "index": "LightningBomberEX_Ev111_1",
+              "index": "LightningBomberEX_TU2",
               "level": 47
             }
           ]
@@ -566,7 +566,7 @@
               "level": 47
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 47
             },
             {
@@ -607,7 +607,7 @@
               "level": 47
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 47
             },
             {
@@ -648,7 +648,7 @@
               "level": 50
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 50
             },
             {
@@ -1091,7 +1091,7 @@
               "level": 45
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 45
             },
             {
@@ -1161,7 +1161,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 45
             },
             {
@@ -1185,7 +1185,7 @@
               "level": 45
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 45
             },
             {
@@ -1214,11 +1214,11 @@
               "level": 50
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 50
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 50
             },
             {
@@ -1302,7 +1302,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickSEX_Ev111_1",
+              "index": "FABigChickSEX_TU4",
               "level": 60
             },
             {
@@ -1400,7 +1400,7 @@
               "level": 65
             },
             {
-              "index": "FABigChickSEX_Ev111_1",
+              "index": "FABigChickSEX_TU4",
               "level": 65
             },
             {
@@ -1627,7 +1627,7 @@
               "level": 70
             },
             {
-              "index": "FABigChickSEX_Ev111_1",
+              "index": "FABigChickSEX_TU4",
               "level": 70
             },
             {
@@ -1672,7 +1672,7 @@
               "level": 0
             },
             {
-              "index": "NightChickAQG_Ev111_1",
+              "index": "NightChickAQG_N",
               "level": 70
             },
             {
@@ -1717,7 +1717,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickSEX_Ev111_1",
+              "index": "FABigChickSEX_TU4",
               "level": 70
             }
           ]
@@ -1734,7 +1734,7 @@
               "level": 0
             },
             {
-              "index": "NightChickAQG_Ev111_1",
+              "index": "NightChickAQG_N",
               "level": 75
             },
             {

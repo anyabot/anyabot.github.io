@@ -29,7 +29,7 @@
               "level": 0
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -74,7 +74,7 @@
               "level": 100
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -107,7 +107,7 @@
               "level": 0
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -166,7 +166,7 @@
               "level": 0
             },
 			{
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -199,7 +199,7 @@
               "level": 100
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -228,7 +228,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -248,7 +248,7 @@
               "level": 0
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -260,7 +260,7 @@
               "level": 100
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             }
           ]
@@ -283,7 +283,7 @@
               "level": 1
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -307,7 +307,7 @@
               "level": 1
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -324,7 +324,7 @@
               "level": 0
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -365,7 +365,7 @@
               "level": 1
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -393,7 +393,7 @@
               "level": 1
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             }
           ]
@@ -420,7 +420,7 @@
               "level": 1
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -444,7 +444,7 @@
               "level": 1
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             }
           ]
@@ -453,11 +453,11 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
 			{
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -506,7 +506,7 @@
               "level": 1
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             },
             {
@@ -526,7 +526,7 @@
               "level": 0
             },
             {
-              "index": "EmperorChickSpCH_Ch",
+              "index": "EmperorChickSpCH_Challenge1",
               "level": 50
             }
           ]

@@ -432,7 +432,7 @@
               "level": 0
             },
             {
-              "index": "PhalangitesH_Ev132_1",
+              "index": "PhalangitesH_TU",
               "level": 35
             },
             {
@@ -448,7 +448,7 @@
               "level": 35
             },
             {
-              "index": "PhalangitesH_Ev132_1",
+              "index": "PhalangitesH_TU",
               "level": 35
             },
             {
@@ -473,11 +473,11 @@
               "level": 0
             },
             {
-              "index": "PhalangitesH_Ev132_1",
+              "index": "PhalangitesH_TU",
               "level": 35
             },
             {
-              "index": "PhalangitesH_Ev132_1",
+              "index": "PhalangitesH_TU",
               "level": 35
             },
             {
@@ -510,11 +510,11 @@
               "level": 0
             },
             {
-              "index": "PhalangitesH_Ev132_1",
+              "index": "PhalangitesH_TU",
               "level": 35
             },
             {
-              "index": "PhalangitesH_Ev132_1",
+              "index": "PhalangitesH_TU",
               "level": 35
             },
             {
@@ -554,7 +554,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 35
             },
             {
@@ -578,7 +578,7 @@
               "level": 0
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 35
             },
             {
@@ -607,11 +607,11 @@
               "level": 0
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 35
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 35
             },
             {
@@ -636,7 +636,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 35
             },
             {
@@ -652,7 +652,7 @@
               "level": 0
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 35
             },
             {
@@ -660,7 +660,7 @@
               "level": 35
             },
             {
-              "index": "ScarabH_Ev112_1",
+              "index": "ScarabH_N",
               "level": 35
             },
             {
@@ -700,7 +700,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickS_A7_1",
+              "index": "FABigChickS_N",
               "level": 35
             },
             {
@@ -741,7 +741,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickS_A7_1",
+              "index": "FABigChickS_N",
               "level": 35
             },
             {
@@ -782,7 +782,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickS_A7_1",
+              "index": "FABigChickS_N",
               "level": 35
             },
             {

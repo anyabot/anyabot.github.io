@@ -656,7 +656,7 @@
               "level": 0
             },
             {
-              "index": "LemonadeAvatar_Ev82_B1",
+              "index": "LemonadeAvatar_EV8",
               "level": 100
             },
             {
@@ -697,7 +697,7 @@
               "level": 0
             },
             {
-              "index": "LemonadeAvatar_Ev82_B1",
+              "index": "LemonadeAvatar_EV8",
               "level": 100
             },
             {
@@ -738,7 +738,7 @@
               "level": 0
             },
             {
-              "index": "LemonadeAvatar_Ev82_B1",
+              "index": "LemonadeAvatar_EV8",
               "level": 1
             },
             {
@@ -775,7 +775,7 @@
               "level": 1
             },
             {
-              "index": "LemonadeAvatar_Ev82_B1",
+              "index": "LemonadeAvatar_N",
               "level": 100
             },
             {
@@ -985,7 +985,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 60
             },
             {
@@ -1001,7 +1001,7 @@
               "level": 60
             },
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 60
             },
             {
@@ -1009,7 +1009,7 @@
               "level": 0
             },
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 60
             },
             {
@@ -1042,7 +1042,7 @@
               "level": 61
             },
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 61
             },
             {
@@ -1079,11 +1079,11 @@
               "level": 0
             },
             {
-              "index": "EmperorChickSpCH_A7_1",
+              "index": "EmperorChickSpCH_TU",
               "level": 43
             },
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 63
             },
             {
@@ -1124,7 +1124,7 @@
               "level": 65
             },
             {
-              "index": "EmperorChickSpCH_A7_1",
+              "index": "EmperorChickSpCH_TU",
               "level": 45
             },
             {
@@ -1258,7 +1258,7 @@
               "level": 68
             },
             {
-              "index": "Frostbite_Ev82_1",
+              "index": "Frostbite_TU2",
               "level": 68
             },
             {
@@ -1283,7 +1283,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "Frostbite_Ev82_1",
+              "index": "Frostbite_TU2",
               "level": 70
             },
             {
@@ -1307,7 +1307,7 @@
               "level": 70
             },
             {
-              "index": "Frostbite_Ev82_1",
+              "index": "Frostbite_TU2",
               "level": 70
             },
             {

@@ -823,7 +823,7 @@
               "level": 15
             },
             {
-              "index": "FABigChickSEX_Ev91_1",
+              "index": "FABigChickSEX_N",
               "level": 15
             },
             {
@@ -965,7 +965,7 @@
               "level": 36
             },
             {
-              "index": "FABigChickSEX_Ev91_1",
+              "index": "FABigChickSEX_N",
               "level": 16
             },
             {
@@ -1091,7 +1091,7 @@
               "level": 0
             },
             {
-              "index": "FABigChickSEX_Ev91_1",
+              "index": "FABigChickSEX_N",
               "level": 17
             },
             {
@@ -1131,7 +1131,7 @@
           "title": "wave1",
           "enemylist": [
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 37
             },
             {
@@ -1155,7 +1155,7 @@
               "level": 37
             },
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 37
             },
             {
@@ -1184,11 +1184,11 @@
               "level": 38
             },
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 38
             },
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 38
             },
             {
@@ -1213,7 +1213,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 39
             },
             {
@@ -1221,7 +1221,7 @@
               "level": 0
             },
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 39
             },
             {
@@ -1229,15 +1229,15 @@
               "level": 0
             },
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 39
             },
             {
-              "index": "Machina_Ev92_1",
+              "index": "Machina_N",
               "level": 40
             },
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 39
             },
             {
@@ -1245,7 +1245,7 @@
               "level": 0
             },
             {
-              "index": "Drone_EV92_1",
+              "index": "Drone_EV9",
               "level": 39
             }
           ]
@@ -1493,7 +1493,7 @@
               "level": 26
             },
             {
-              "index": "FABigChickSEX_Ev91_1",
+              "index": "FABigChickSEX_N",
               "level": 26
             },
             {
@@ -1501,7 +1501,7 @@
               "level": 0
             },
             {
-              "index": "CenturionG_Ev92_1",
+              "index": "CenturionG_TU",
               "level": 16
             },
             {
@@ -1627,7 +1627,7 @@
               "level": 40
             },
             {
-              "index": "FABigChickSEX_Ev91_1",
+              "index": "FABigChickSEX_N",
               "level": 30
             },
             {
@@ -1635,7 +1635,7 @@
               "level": 30
             },
             {
-              "index": "EmperorChick_A7_2",
+              "index": "EmperorChick_N",
               "level": 20
             },
             {
@@ -1678,7 +1678,7 @@
               "level": 0
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 60
             },
             {
@@ -1707,7 +1707,7 @@
           "title": "wave2",
           "enemylist": [
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 60
             },
             {
@@ -1760,7 +1760,7 @@
               "level": 60
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 60
             },
             {
@@ -1772,11 +1772,11 @@
               "level": 0
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 60
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 60
             },
             {
@@ -1789,7 +1789,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 65
             },
             {
@@ -1813,7 +1813,7 @@
               "level": 0
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 65
             },
             {
@@ -1898,7 +1898,7 @@
               "level": 65
             },
             {
-              "index": "NightChickAQG_Ev92_1",
+              "index": "NightChickAQG_TU4",
               "level": 65
             },
             {
@@ -1984,7 +1984,7 @@
               "level": 0
             },
             {
-              "index": "NightChickAQG_Ev92_1",
+              "index": "NightChickAQG_TU4",
               "level": 70
             },
             {
@@ -2036,7 +2036,7 @@
               "level": 70
             },
             {
-              "index": "NightChickAQG_Ev92_1",
+              "index": "NightChickAQG_TU4",
               "level": 70
             },
             {
@@ -2139,7 +2139,7 @@
           "title": "wave4",
           "enemylist": [
             {
-              "index": "NightChickAQG_Ev92_1",
+              "index": "NightChickAQG_TU4",
               "level": 70
             },
             {
@@ -2202,7 +2202,7 @@
               "level": 0
             },
             {
-              "index": "Executioner_Ev92_1",
+              "index": "Drone_Challenge2",
               "level": 100
             },
             {

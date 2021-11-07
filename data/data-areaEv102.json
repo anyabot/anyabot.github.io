@@ -819,7 +819,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 24
             },
             {
@@ -827,7 +827,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 24
             },
             {
@@ -864,7 +864,7 @@
               "level": 34
             },
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 24
             },
             {
@@ -880,7 +880,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 24
             },
             {
@@ -913,11 +913,11 @@
               "level": 34
             },
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 24
             },
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 24
             },
             {
@@ -934,11 +934,11 @@
           "title": "wave5",
           "enemylist": [
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 25
             },
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 25
             },
             {
@@ -966,7 +966,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev101_1",
+              "index": "LightningBomberEX_N",
               "level": 25
             }
           ]
@@ -1083,7 +1083,7 @@
               "level": 60
             },
             {
-              "index": "NightChickAQG_Ev92_1",
+              "index": "NightChickAQG_TU4",
               "level": 60
             },
             {
@@ -1169,7 +1169,7 @@
               "level": 0
             },
             {
-              "index": "NightChickAQG_Ev92_1",
+              "index": "NightChickAQG_TU4",
               "level": 65
             },
             {
@@ -1213,7 +1213,7 @@
               "level": 0
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 65
             },
             {
@@ -1250,15 +1250,15 @@
               "level": 65
             },
             {
-              "index": "LightningBomberEX_Ev101_2",
+              "index": "LightningBomberEX_TU4",
               "level": 65
             },
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 65
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 65
             },
             {
@@ -1274,7 +1274,7 @@
               "level": 65
             },
             {
-              "index": "LightningBomberEX_Ev101_2",
+              "index": "LightningBomberEX_TU4",
               "level": 65
             }
           ]
@@ -1283,7 +1283,7 @@
           "title": "wave3",
           "enemylist": [
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 65
             },
             {
@@ -1303,11 +1303,11 @@
               "level": 65
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 65
             },
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 65
             },
             {
@@ -1328,7 +1328,7 @@
               "level": 0
             },
             {
-              "index": "LightningBomberEX_Ev101_2",
+              "index": "LightningBomberEX_TU4",
               "level": 65
             },
             {
@@ -1340,15 +1340,15 @@
               "level": 0
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 65
             },
             {
-              "index": "LightningBomberEX_Ev101_2",
+              "index": "LightningBomberEX_TU4",
               "level": 65
             },
             {
-              "index": "LightningBomberEX_Ev101_2",
+              "index": "LightningBomberEX_TU4",
               "level": 65
             },
             {
@@ -1365,11 +1365,11 @@
           "title": "wave5",
           "enemylist": [
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 70
             },
             {
-              "index": "LightningBomberEX_Ev101_2",
+              "index": "LightningBomberEX_TU4",
               "level": 70
             },
             {
@@ -1381,19 +1381,19 @@
               "level": 0
             },
             {
-              "index": "NightChickAQP_Ev92_1",
+              "index": "NightChickAQ_EV9",
               "level": 70
             },
             {
-              "index": "LightningBomberEX_Ev101_2",
+              "index": "LightningBomberEX_TU4",
               "level": 70
             },
             {
-              "index": "PhalangitesH_Ev71_2",
+              "index": "PhalangitesH_TU2",
               "level": 70
             },
             {
-              "index": "LightningBomberEX_Ev101_2",
+              "index": "LightningBomberEX_TU4",
               "level": 70
             },
             {
