@@ -7045,7 +7045,7 @@
     "range": "4",
     "AP": "5",
     "description": "Deals $(1.3) damage to target area and inflicts SPD- / 'Damage Taken Increased'.<br>SPD- / 'Damage Taken Increased' effects are increased based on the number of 'Weakness Analysis' stacks, and when there are 3 stacks, also inflicts AP-.",
-    "area": [4, 5, 6]
+    "area": ["6>", 4, 5, 6]
   },
   "Skill_MP_Robert_N_2": {
     "title": "askill2",
@@ -9459,7 +9459,7 @@
     "range": "4",
     "AP": "5",
     "description": "Deals $(1.3) damage to target area and inflicts SPD- / 'Damage Taken Increased'.<br>SPD- / 'Damage Taken Increased' effects are increased based on the number of 'Weakness Analysis' stacks, and when there are 3 stacks, also inflicts AP-.",
-    "area": [4, 5, 6]
+    "area": ["6>", 4, 5, 6]
   },
   "Skill_MP_Robert_Challenge1_2": {
     "title": "askill2",
